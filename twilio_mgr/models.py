@@ -11,7 +11,7 @@ class Location(models.Model):
     type = models.CharField(max_length=200, blank=True, null=True)
     hours = models.CharField(max_length=200, blank=True, null=True)
     address =  models.CharField(max_length=400, blank=True, null=True)
-    notes = models.CharField(max_length=200, blank=True, null=True)
+    notes = models.CharField(max_length=800, blank=True, null=True)
     lon = models.FloatField(blank=True, null=True)
     lat = models.FloatField(blank=True, null=True)
 
