@@ -5,15 +5,15 @@ import re
 
 # Create your models here.
 class Location(models.Model):
-    city= models.CharField(max_length=200, null=True)
+    # city= models.CharField(max_length=200, null=True)
     # country = models.CharField(max_length=200, null=True)
     name = models.CharField(max_length=200, blank=True, null=True)
     type = models.CharField(max_length=200, blank=True, null=True)
     hours = models.CharField(max_length=200, blank=True, null=True)
-    address =  models.CharField(max_length=400, null=True)
-
-    lon = models.FloatField()
-    lat = models.FloatField()
+    address =  models.CharField(max_length=400, blank=True, null=True)
+    notes = models.CharField(max_length=200, blank=True, null=True)
+    lon = models.FloatField(blank=True, null=True)
+    lat = models.FloatField(blank=True, null=True)
 
     def __str__(self):
         return "%s (%f, %f)" % (self.address, self.lat, self.lon)
