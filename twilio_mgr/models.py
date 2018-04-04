@@ -50,4 +50,4 @@ class MessageLog(models.Model):
 # Cleaning the sms
 @receiver(pre_save, sender=SmsNumber)
 def clean_sms(sender, instance, *args, **kwargs):
-    instance.sms = re.sub('[^\d]', '', instance.sms)
+    instance.sms = re.sub('[^\d]', '', str(instance.sms))

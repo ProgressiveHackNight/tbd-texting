@@ -5,6 +5,8 @@ import re
 import os
 
 
+# This is all in compliance of FCC Regulations
+# Source: http://blog.textit.in/ensuring-your-sms-messaging-service-complies-with-fcc-regulations-tcpa
 WELCOME_MESSAGE_KEY = 'WELCOME_MESSAGE'
 
 class Command(BaseCommand):
@@ -52,6 +54,7 @@ class Command(BaseCommand):
 
                 # 2. Mark SMS as intro'd
                 sms.sent_intro = True
+                sms.reminder_sent = False
                 sms.save()
 
                 # 3. Save Message to Message Log
