@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'bootstrap4',
+    'sass_processor',
     'twilio_mgr.apps.TwilioMgrConfig'
 ]
 
@@ -54,6 +56,28 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'gettingstarted.urls'
+
+SASS_PROCESSOR_INCLUDE_DIRS = [
+    os.path.join(BASE_DIR, 'styling', 'scss')
+]
+
+SASS_ROOT = os.path.join(BASE_DIR, 'styling', 'scss')
+SASS_PROCESSOR_ROOT = SASS_ROOT
+
+print("!!! " + os.path.join(BASE_DIR, 'styling', 'scss'))
+
+SASS_PROCESSOR_AUTO_INCLUDE = False
+SASS_PROCESSOR_ENABLED = True
+
+STATICFILES_FINDERS = [
+    'django.contrib.staticfiles.finders.FileSystemFinder',
+    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'sass_processor.finders.CssFinder'
+]
+
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, "gettingstarted", "static")
+]
 
 TEMPLATES = [
     {

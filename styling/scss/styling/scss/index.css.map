@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "../../../Development/ProgHacknight/tbd-text/gettingstarted/static/styling/scss/index.css",
+	"sources": [
+		"../../../Development/ProgHacknight/tbd-text/gettingstarted/static/styling/scss/index.scss"
+	],
+	"names": [],
+	"mappings": "AAEA,AAGI,IAHA,CAGA,MAAM,CAAC;EACL,UAAU,EAAE,MAAM,GACnB"
+}

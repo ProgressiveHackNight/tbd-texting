@@ -1,1 +1,32 @@
-Hello World
+<!doctype html>
+
+{% load bootstrap4 %}
+{% load staticfiles %}
+{% load sass_tags %}
+
+{# Load CSS and JavaScript #}
+{% bootstrap_css %}
+{% bootstrap_javascript jquery='full' %}
+
+{# Display django.contrib.messages as Bootstrap alerts #}
+{% bootstrap_messages %}
+
+
+{#% static 'image/pic.jpg' %#}
+
+<link href="{% sass_src 'styling/scss/index.scss' %}" rel="stylesheet" type="text/css" />
+
+<main>
+  <header>
+    <h1>Take Back Day - Get Reminders!</h1>
+  </header>
+  <section id='form-area'>
+    <div class='container'>
+      <div class='row'>
+        <div class='col-md-6 offset-md-3'>
+          <form></form>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
