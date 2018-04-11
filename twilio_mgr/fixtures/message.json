@@ -6,5 +6,13 @@
       "keyword": "WELCOME_MESSAGE",
       "message": "Thank you for joining Take Back Day! We will remind you on April 28 so you can drop-off your unused drugs at [ADDRESS]. More information at 911-11-11"
     }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 2,
+    "fields": {
+      "keyword": "WELCOME_MESSAGE_NO_LOCATION",
+      "message": "Thank you for joining Take Back Day! We will remind you on April 28 so you can drop-off your unused drugs. More information at 911-11-11"
+    }
   }
 ]
