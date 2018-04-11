@@ -19,16 +19,19 @@ class Location(models.Model):
         return "%s (%f, %f)" % (self.address, self.lat, self.lon)
 
 class SmsNumber(models.Model):
-    location = models.ForeignKey(Location, null=True, on_delete=models.SET_NULL)
+
+    location = models.ForeignKey(Location, null=True, blank=True, on_delete=models.SET_NULL)
+    address = models.CharField(max_length=200, null=True, blank=True)
     sent_intro = models.BooleanField(default=False)
     cancelled=models.BooleanField(default=False)
     sms = models.CharField(max_length=50)
     notes = models.CharField(max_length=200, blank=True, null=True)
     reminder_sent=models.BooleanField(default=False)
     reminder_date=models.DateTimeField(null=True, blank=True, default=None)
+    firebase_id = models.CharField(max_length=100, null=True, blank=True)
 
     def __str__(self):
-        return "%s - %s" % (self.sms, self.location.address)
+        return "%s" % (self.sms)
 
 
 class Message(models.Model):

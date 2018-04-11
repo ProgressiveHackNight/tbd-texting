@@ -8,3 +8,9 @@ class MessageModelForm( forms.ModelForm ):
     class Meta:
         model = Message
         fields = '__all__'
+
+class SmsSubmissionForm( forms.Form ):
+    addressField = forms.CharField()
+    smsField = forms.CharField()
+
+    
