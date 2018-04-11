@@ -18,6 +18,8 @@ six = "==1.11.0"
 "urllib3" = "==1.22"
 python-firebase = "*"
 "django-bootstrap4" = "*"
+sass = "*"
+django-sass-processor = "*"
 
 [requires]
 python_version = "3.6"
