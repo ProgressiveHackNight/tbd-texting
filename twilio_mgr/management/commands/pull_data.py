@@ -90,5 +90,5 @@ class Command(BaseCommand):
 
 
     def handle(self, *args, **options):
-        # self.pull_mobile_data()
+        self.pull_mobile_data()
         self.pull_email_data()
