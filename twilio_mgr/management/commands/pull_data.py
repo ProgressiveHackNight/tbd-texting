@@ -29,7 +29,8 @@ class Command(BaseCommand):
                 number = d['phone']
 
                 if 'location' in d and d['location'] is not None and d['location'] != '':
-                    location = d['location']
+                    loc = d['location']
+                    location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
                 else:
                     location = None
 
