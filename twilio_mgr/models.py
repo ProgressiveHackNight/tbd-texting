@@ -33,6 +33,21 @@ class SmsNumber(models.Model):
     def __str__(self):
         return "%s" % (self.sms)
 
+class EmailReminder(models.Model):
+
+    location = models.ForeignKey(Location, null=True, blank=True, on_delete=models.SET_NULL)
+    address = models.CharField(max_length=200, null=True, blank=True)
+    sent_intro = models.BooleanField(default=False)
+    cancelled=models.BooleanField(default=False)
+    email = models.EmailField(max_length=100)
+    notes = models.CharField(max_length=200, blank=True, null=True)
+    reminder_sent=models.BooleanField(default=False)
+    reminder_date=models.DateTimeField(null=True, blank=True, default=None)
+    firebase_id = models.CharField(max_length=100, null=True, blank=True)
+
+    def __str__(self):
+        return "%s" % (self.sms)
+
 
 class Message(models.Model):
     message = models.CharField(max_length=400, unique=True)

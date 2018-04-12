@@ -12,7 +12,7 @@ class Command(BaseCommand):
     # def add_arguments(self, parser):
         # parser.add_argument('poll_id', nargs='+', type=int)
 
-    def pull_data(self):
+    def pull_mobile_data(self):
         # Find these values at https://twilio.com/user/account
         print("Pulling data from Firebase!")
         try:
@@ -49,5 +49,42 @@ class Command(BaseCommand):
         return False
 
 
+    def pull_email_data(self):
+        # Find these values at https://twilio.com/user/account
+        print("Pulling data from Firebase!")
+        try:
+            firebase_url = os.environ['FIREBASE_URL']
+            upcoming_tbd = os.environ['UPCOMING_TBD']
+
+            fb = firebase.FirebaseApplication(firebase_url, None)
+            data = fb.get("/emailReminders", None)
+
+
+            # Iterate and save this number.
+            for key in data:
+                d = data[key]
+                loc = d['location']
+                email = d['email']
+                print(loc)
+                if loc is not None:
+                    location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
+                else:
+                    location = None
+
+                try:
+                    emailReminder = EmailReminder.objects.get(email=email)
+                except EmailReminder.DoesNotExist:
+                    #create new number
+                    emailReminder = EmailReminder(email=email, location=location, reminder_date=upcoming_tbd, firebase_id=key)
+                    emailReminder.save()
+
+            return True
+        except Exception as e:
+            raise CommandError('Something Happened while processing site %s' % (str(e)))
+            return False
+
+        return False
+
+
     def handle(self, *args, **options):
-        self.pull_data()
+        self.pull_mobile_data()
