@@ -29,7 +29,7 @@ class Command(BaseCommand):
                 number = d['phone']
 
                 if 'location' in d and d['location'] is not None and d['location'] != '':
-                    loc = d['location']
+                    location = d['location']
                 else:
                     location = None
 
