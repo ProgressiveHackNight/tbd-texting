@@ -1,6 +1,6 @@
 from firebase import firebase
 from django.core.management.base import BaseCommand, CommandError
-from twilio_mgr.models import SmsNumber, Message, Location, MessageLog
+from twilio_mgr.models import SmsNumber, Message, Location, MessageLog, EmailReminder
 import re
 import os
 
@@ -26,11 +26,10 @@ class Command(BaseCommand):
             # Iterate and save this number.
             for key in data:
                 d = data[key]
-                loc = d['location']
                 number = d['phone']
-                print(loc)
-                if loc is not None:
-                    location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
+
+                if 'location' in d and d['location'] is not None and d['location'] != '':
+                    loc = d['location']
                 else:
                     location = None
 
@@ -43,7 +42,7 @@ class Command(BaseCommand):
 
             return True
         except Exception as e:
-            raise CommandError('Something Happened while processing site %s' % (str(e)))
+            raise CommandError('Something Happened while processing site - %s' % (str(e)))
             return False
 
         return False
@@ -62,17 +61,21 @@ class Command(BaseCommand):
 
             # Iterate and save this number.
             for key in data:
+                print("Getting %s " % key)
                 d = data[key]
-                loc = d['location']
+
+                print(d)
+
                 email = d['email']
-                print(loc)
-                if loc is not None:
+                if 'location' in d and d['location'] is not None and d['location'] != '':
+                    loc = d['location']
                     location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
                 else:
                     location = None
 
+
                 try:
-                    emailReminder = EmailReminder.objects.get(email=email)
+                    emailReminder = EmailReminder.objects.get(email=email, location=location)
                 except EmailReminder.DoesNotExist:
                     #create new number
                     emailReminder = EmailReminder(email=email, location=location, reminder_date=upcoming_tbd, firebase_id=key)
@@ -80,11 +83,12 @@ class Command(BaseCommand):
 
             return True
         except Exception as e:
-            raise CommandError('Something Happened while processing site %s' % (str(e)))
+            raise CommandError('Something Happened while processing site - %s' % (str(e)))
             return False
 
         return False
 
 
     def handle(self, *args, **options):
-        self.pull_mobile_data()
+        # self.pull_mobile_data()
+        self.pull_email_data()

@@ -14,5 +14,54 @@
       "keyword": "WELCOME_MESSAGE_NO_LOCATION",
       "message": "Thank you for joining Take Back Day! We will remind you on April 28 so you can drop-off your unused drugs. More information at 911-11-11"
     }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 3,
+    "fields": {
+      "keyword": "WELCOME_EMAIL",
+      "message": "Hi! Thank you for taking part of Take Back Day. We will send you an email reminder on [DATE_OF_TBD] so you'll know when and where you can drop your unused drugs."
+    }
+  }
+  ,
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 4,
+    "fields": {
+      "keyword": "WELCOME_EMAIL_NO_LOCATION",
+      "message": "Hi! Thank you for taking part of Take Back Day. We will send you an email reminder on [DATE_OF_TBD] so you'll know when and where you can drop your unused drugs."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 5,
+    "fields": {
+      "keyword": "CANCEL_SMS",
+      "message": "You have cancelled your subscription from Take Back Day! Drop-off your unused drugs anytime at your nearby pharmacy. To resubscribe, text TAKEBACKDAY to this number"
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 6,
+    "fields": {
+      "keyword": "CANCEL_EMAIL",
+      "message": "You have unsubscribed from the email reminders. WE will no longer send you a reminder."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 7,
+    "fields": {
+      "keyword": "DAY_OF_TBD_SMS",
+      "message": "Today's the day! Drop-off your unused prescription drugs at [ADDRESS]! Having trouble? Go to 347-443-9"
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 8,
+    "fields": {
+      "keyword": "DAY_OF_TBD_EMAIL",
+      "message": "Today's the day! Drop-off your unused prescription drugs at [ADDRESS]!"
+    }
   }
 ]

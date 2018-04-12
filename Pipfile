@@ -20,6 +20,7 @@ python-firebase = "*"
 "django-bootstrap4" = "*"
 sass = "*"
 django-sass-processor = "*"
+sendgrid = "*"
 
 [requires]
 python_version = "3.6"
