@@ -46,19 +46,20 @@ class EmailReminder(models.Model):
     firebase_id = models.CharField(max_length=100, null=True, blank=True)
 
     def __str__(self):
-        return "%s" % (self.sms)
+        return "%s" % (self.email)
 
 
 class Message(models.Model):
-    message = models.CharField(max_length=400, unique=True)
-    keyword = models.CharField(max_length=100)
+    message = models.CharField(max_length=400)
+    keyword = models.CharField(max_length=100,unique=True)
 
 
     def __str__(self):
         return "%s: %s" % (self.keyword, self.message)
 
 class MessageLog(models.Model):
-    sms_number = models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
+    sms_number = models.CharField(max_length=100, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
+    email = models.CharField(max_length=100, null=True, blank=True)
     message = models.CharField(max_length=400, null=True)
     date_sent = models.DateTimeField(auto_now_add=True, blank=True)
 

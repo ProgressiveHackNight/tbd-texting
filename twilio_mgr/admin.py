@@ -1,7 +1,7 @@
 from django.contrib import admin
 
 # Register your models here.
-from .models import SmsNumber, Location, Message, MessageLog
+from .models import SmsNumber, Location, Message, MessageLog, EmailReminder
 from .forms import MessageModelForm
 
 class MessageAdmin( admin.ModelAdmin ):
@@ -18,6 +18,7 @@ class MessageLogAdmin( admin.ModelAdmin ):
 
 
 admin.site.register(SmsNumber)
+admin.site.register(EmailReminder)
 admin.site.register(Location)
 admin.site.register(Message, MessageAdmin)
 admin.site.register(MessageLog, MessageLogAdmin)
