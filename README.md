@@ -1,10 +1,60 @@
-# Python: Getting Started
+# Take Back Day Admin Pages
 
-A barebones Django app, which can easily be deployed to Heroku.
+This component serves as the admin pages for the Take Back Day map and texting.
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+# Installation
 
-## Running Locally
+### 0. Setup Environment Variables
+
+|`Variable`|Description|
+| - |-- |
+| `FIREBASE_URL` | URL for the Firebase DB. ex. https://tdb.firebase.io |
+| `FIREBASE_API_KEY` | API Key used for the Firebase DB calls.|
+| `UPCOMING_TBD` | Date formatted value for the next TBD text blast. Ex. `2018-04-23 09:00:00` |
+| `TWILIO_API_KEY` | API Key for Twilio API Calls|
+| `TWILIO_SECRET_KEY` | Secret Key for Twilio Calls |
+| `TWILIO_SOURCE_NUMBER` | Source number provided by twilio that will send / receive messages |
+| `SENDGRID_API_KEY` | SendGrid API for sending emails |
+
+### 1. Install modules
+
+  $ pipenv install
+
+### 2. Setup Database
+
+For PostGreSQL
+
+  $ createdb takebackday
+
+### 3. Run migration and load data
+
+  $ python manage.py migrate
+  $ python manage.py collecstatic
+  $ python manage.py loaddata locations
+  $ python manage.py loaddata message
+
+**Note:** `locations` and `message` are the initial data for all the locations and messages.
+
+# TBD Django Commands
+
+These commands can be incorporated to your cron / scheduled tasks.
+
+To Pull data from firebase:
+
+  $ python manage.py pull_data
+
+To send confirmation texts/emails:
+
+  $ python manage.py send_confirmation
+
+To send TakeBackDay day-of reminders:
+
+  $ python manage.py send_reminder (!!! Under Construction)
+
+
+------
+
+# Heroku Setup:
 
 Make sure you have Python [installed properly](http://install.python-guide.org). Also, install the [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
 
@@ -14,31 +64,10 @@ $ cd python-getting-started
 
 $ pipenv install
 
-$ createdb python_getting_started
+$ createdb twilio_mgr
 
 $ python manage.py migrate
 $ python manage.py collectstatic
 
 $ heroku local
 ```
-
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```sh
-$ heroku create
-$ git push heroku master
-
-$ heroku run python manage.py migrate
-$ heroku open
-```
-or
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
-## Documentation
-
-For more information about using Python on Heroku, see these Dev Center articles:
-
-- [Python on Heroku](https://devcenter.heroku.com/categories/python)
