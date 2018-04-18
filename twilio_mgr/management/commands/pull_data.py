@@ -18,34 +18,37 @@ class Command(BaseCommand):
         try:
             firebase_url = os.environ['FIREBASE_URL']
             upcoming_tbd = os.environ['UPCOMING_TBD']
-            firebase_secret = os.environ['FIREBASE_SECRET']
-            firebase_id = os.environ['FIREBASE_ID']
-            firebase_email = os.environ['FIREBASE_EMAIL']
 
-            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
-            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
-
+            # Uncomment once authentiaction is activated
+            # firebase_secret = os.environ['FIREBASE_SECRET']
+            # firebase_id = os.environ['FIREBASE_ID']
+            # firebase_email = os.environ['FIREBASE_EMAIL']
+            # authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            # fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+            fb = firebase.FirebaseApplication(firebase_url, None)
 
             data = fb.get("/phoneReminders", None)
             print(data)
+            if data is None:
+                print("No Data")
+            else:
+                # Iterate and save this number.
+                for key in data:
+                    d = data[key]
+                    number = d['phone']
 
-            # Iterate and save this number.
-            for key in data:
-                d = data[key]
-                number = d['phone']
+                    if 'location' in d and d['location'] is not None and d['location'] != '':
+                        loc = d['location']
+                        location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
+                    else:
+                        location = None
 
-                if 'location' in d and d['location'] is not None and d['location'] != '':
-                    loc = d['location']
-                    location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
-                else:
-                    location = None
-
-                try:
-                    smsNumber = SmsNumber.objects.get(sms=number)
-                except SmsNumber.DoesNotExist:
-                    #create new number
-                    smsNumber = SmsNumber(sms=number, location=location, reminder_date=upcoming_tbd, firebase_id=key)
-                    smsNumber.save()
+                    try:
+                        smsNumber = SmsNumber.objects.get(sms=number)
+                    except SmsNumber.DoesNotExist:
+                        #create new number
+                        smsNumber = SmsNumber(sms=number, location=location, reminder_date=upcoming_tbd, firebase_id=key)
+                        smsNumber.save()
 
             return True
         except Exception as e:
@@ -61,36 +64,40 @@ class Command(BaseCommand):
         try:
             firebase_url = os.environ['FIREBASE_URL']
             upcoming_tbd = os.environ['UPCOMING_TBD']
-            firebase_secret = os.environ['FIREBASE_SECRET']
-            firebase_id = os.environ['FIREBASE_ID']
-            firebase_email = os.environ['FIREBASE_EMAIL']
 
-            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
-            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+            # Uncomment once authentiaction is activated
+            # firebase_secret = os.environ['FIREBASE_SECRET']
+            # firebase_id = os.environ['FIREBASE_ID']
+            # firebase_email = os.environ['FIREBASE_EMAIL']
+            # authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            # fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+            fb = firebase.FirebaseApplication(firebase_url, None)
             data = fb.get("/emailReminders", None)
 
+            if data is None:
+                print("No email data")
+            else:
+                # Iterate and save this number.
+                for key in data:
+                    print("Getting %s " % key)
+                    d = data[key]
 
-            # Iterate and save this number.
-            for key in data:
-                print("Getting %s " % key)
-                d = data[key]
+                    print(d)
 
-                print(d)
-
-                email = d['email']
-                if 'location' in d and d['location'] is not None and d['location'] != '':
-                    loc = d['location']
-                    location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
-                else:
-                    location = None
+                    email = d['email']
+                    if 'location' in d and d['location'] is not None and d['location'] != '':
+                        loc = d['location']
+                        location = Location.objects.get(lat=loc['lat'], lon=loc['lon'])
+                    else:
+                        location = None
 
 
-                try:
-                    emailReminder = EmailReminder.objects.get(email=email, location=location)
-                except EmailReminder.DoesNotExist:
-                    #create new number
-                    emailReminder = EmailReminder(email=email, location=location, reminder_date=upcoming_tbd, firebase_id=key)
-                    emailReminder.save()
+                    try:
+                        emailReminder = EmailReminder.objects.get(email=email, location=location)
+                    except EmailReminder.DoesNotExist:
+                        #create new number
+                        emailReminder = EmailReminder(email=email, location=location, reminder_date=upcoming_tbd, firebase_id=key)
+                        emailReminder.save()
 
             return True
         except Exception as e:
