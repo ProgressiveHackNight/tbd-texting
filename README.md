@@ -10,6 +10,9 @@ This component serves as the admin pages for the Take Back Day map and texting.
 | - |-- |
 | `FIREBASE_URL` | URL for the Firebase DB. ex. https://tdb.firebase.io |
 | `FIREBASE_API_KEY` | API Key used for the Firebase DB calls.|
+| `FIREBASE_SECRET` | Database secret for your firebase account. [More info where to get the secret here](https://stackoverflow.com/a/39054425)|
+| `FIREBASE_ID` | Your user ID for the firebase account.|
+| `FIREBASE_EMAIL` | Your email for the firebase account.|
 | `UPCOMING_TBD` | Date formatted value for the next TBD text blast. Ex. `2018-04-23 09:00:00` |
 | `TWILIO_API_KEY` | API Key for Twilio API Calls|
 | `TWILIO_SECRET_KEY` | Secret Key for Twilio Calls |
