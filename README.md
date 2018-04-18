@@ -10,6 +10,9 @@ This component serves as the admin pages for the Take Back Day map and texting.
 | - |-- |
 | `FIREBASE_URL` | URL for the Firebase DB. ex. https://tdb.firebase.io |
 | `FIREBASE_API_KEY` | API Key used for the Firebase DB calls.|
+| `FIREBASE_SECRET` | Database secret for your firebase account. [More info where to get the secret here](https://stackoverflow.com/a/39054425)|
+| `FIREBASE_ID` | Your user ID for the firebase account.|
+| `FIREBASE_EMAIL` | Your email for the firebase account.|
 | `UPCOMING_TBD` | Date formatted value for the next TBD text blast. Ex. `2018-04-23 09:00:00` |
 | `TWILIO_API_KEY` | API Key for Twilio API Calls|
 | `TWILIO_SECRET_KEY` | Secret Key for Twilio Calls |
@@ -28,10 +31,11 @@ For PostGreSQL
 
 ### 3. Run migration and load data
 
-  $ python manage.py migrate
-  $ python manage.py collecstatic
-  $ python manage.py loaddata locations
-  $ python manage.py loaddata message
+    $ python manage.py migrate
+    $ python manage.py collecstatic
+    $ python manage.py loaddata locations
+    $ python manage.py loaddata message
+
 
 **Note:** `locations` and `message` are the initial data for all the locations and messages.
 
@@ -41,15 +45,15 @@ These commands can be incorporated to your cron / scheduled tasks.
 
 To Pull data from firebase:
 
-  $ python manage.py pull_data
+    $ python manage.py pull_data
 
 To send confirmation texts/emails:
 
-  $ python manage.py send_confirmation
+    $ python manage.py send_confirmation
 
 To send TakeBackDay day-of reminders:
 
-  $ python manage.py send_reminder (!!! Under Construction)
+    $ python manage.py send_reminder (!!! Under Construction)
 
 
 ------
