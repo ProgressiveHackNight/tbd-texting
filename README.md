@@ -31,10 +31,11 @@ For PostGreSQL
 
 ### 3. Run migration and load data
 
-  $ python manage.py migrate
-  $ python manage.py collecstatic
-  $ python manage.py loaddata locations
-  $ python manage.py loaddata message
+    $ python manage.py migrate
+    $ python manage.py collecstatic
+    $ python manage.py loaddata locations
+    $ python manage.py loaddata message
+
 
 **Note:** `locations` and `message` are the initial data for all the locations and messages.
 
@@ -44,15 +45,15 @@ These commands can be incorporated to your cron / scheduled tasks.
 
 To Pull data from firebase:
 
-  $ python manage.py pull_data
+    $ python manage.py pull_data
 
 To send confirmation texts/emails:
 
-  $ python manage.py send_confirmation
+    $ python manage.py send_confirmation
 
 To send TakeBackDay day-of reminders:
 
-  $ python manage.py send_reminder (!!! Under Construction)
+    $ python manage.py send_reminder (!!! Under Construction)
 
 
 ------
