@@ -18,10 +18,16 @@ class Command(BaseCommand):
         try:
             firebase_url = os.environ['FIREBASE_URL']
             upcoming_tbd = os.environ['UPCOMING_TBD']
+            firebase_secret = os.environ['FIREBASE_SECRET']
+            firebase_id = os.environ['FIREBASE_ID']
+            firebase_email = os.environ['FIREBASE_EMAIL']
 
-            fb = firebase.FirebaseApplication(firebase_url, None)
+            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+
+
             data = fb.get("/phoneReminders", None)
-
+            print(data)
 
             # Iterate and save this number.
             for key in data:
@@ -55,8 +61,12 @@ class Command(BaseCommand):
         try:
             firebase_url = os.environ['FIREBASE_URL']
             upcoming_tbd = os.environ['UPCOMING_TBD']
+            firebase_secret = os.environ['FIREBASE_SECRET']
+            firebase_id = os.environ['FIREBASE_ID']
+            firebase_email = os.environ['FIREBASE_EMAIL']
 
-            fb = firebase.FirebaseApplication(firebase_url, None)
+            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
             data = fb.get("/emailReminders", None)
 
 
