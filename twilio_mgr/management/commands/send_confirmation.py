@@ -44,10 +44,10 @@ class Command(BaseCommand):
     def sendgrid_send(self, email, message):
 
         sg = sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
-        from_email = Email("TakeBackDay Team <do-not-reply@takebackday.org>")
+        from_email = Email("Clear Your Cabinet New York <do-not-reply@clearyourcabinet.ag.ny.gov>")
         to_email = Email(email)
-        subject = "[TakeBackDay] Subscription Confirmation"
-        content = Content("text/plain", message)
+        subject = "Thank you for signing up for a take-back reminder."
+        content = Content("text/html", message)
         mail = Mail(from_email, subject, to_email, content)
         response = sg.client.mail.send.post(request_body=mail.get())
 
