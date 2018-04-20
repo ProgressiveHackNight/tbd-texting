@@ -26,8 +26,8 @@ class Command(BaseCommand):
             authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
             fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
             # fb = firebase.FirebaseApplication(firebase_url, None)
-
             data = fb.get("/phoneReminders", None)
+
             print(data)
             if data is None:
                 print("No Data")
