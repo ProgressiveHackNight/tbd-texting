@@ -22,6 +22,8 @@ sass = "*"
 django-sass-processor = "*"
 sendgrid = "*"
 redis = "*"
+rq = "*"
+apscheduler = "*"
 
 [requires]
 python_version = "3.6"
