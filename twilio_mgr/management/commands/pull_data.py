@@ -20,12 +20,12 @@ class Command(BaseCommand):
             upcoming_tbd = os.environ['UPCOMING_TBD']
 
             # Uncomment once authentiaction is activated
-            # firebase_secret = os.environ['FIREBASE_SECRET']
-            # firebase_id = os.environ['FIREBASE_ID']
-            # firebase_email = os.environ['FIREBASE_EMAIL']
-            # authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
-            # fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
-            fb = firebase.FirebaseApplication(firebase_url, None)
+            firebase_secret = os.environ['FIREBASE_SECRET']
+            firebase_id = os.environ['FIREBASE_ID']
+            firebase_email = os.environ['FIREBASE_EMAIL']
+            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+            # fb = firebase.FirebaseApplication(firebase_url, None)
 
             data = fb.get("/phoneReminders", None)
             print(data)
@@ -66,12 +66,12 @@ class Command(BaseCommand):
             upcoming_tbd = os.environ['UPCOMING_TBD']
 
             # Uncomment once authentiaction is activated
-            # firebase_secret = os.environ['FIREBASE_SECRET']
-            # firebase_id = os.environ['FIREBASE_ID']
-            # firebase_email = os.environ['FIREBASE_EMAIL']
-            # authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
-            # fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
-            fb = firebase.FirebaseApplication(firebase_url, None)
+            firebase_secret = os.environ['FIREBASE_SECRET']
+            firebase_id = os.environ['FIREBASE_ID']
+            firebase_email = os.environ['FIREBASE_EMAIL']
+            authentication = firebase.FirebaseAuthentication(firebase_secret, firebase_email, extra={'id': firebase_id})
+            fb = firebase.FirebaseApplication(firebase_url, authentication=authentication)
+            # fb = firebase.FirebaseApplication(firebase_url, None)
             data = fb.get("/emailReminders", None)
 
             if data is None:
