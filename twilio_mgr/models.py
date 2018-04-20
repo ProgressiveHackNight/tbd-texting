@@ -60,7 +60,7 @@ class Message(models.Model):
 class MessageLog(models.Model):
     sms_number = models.CharField(max_length=100, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
     email = models.CharField(max_length=100, null=True, blank=True)
-    message = models.CharField(max_length=400, null=True)
+    message = models.CharField(max_length=1000, null=True)
     date_sent = models.DateTimeField(auto_now_add=True, blank=True)
 
     def __str__(self):
