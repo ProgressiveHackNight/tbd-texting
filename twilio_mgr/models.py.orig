@@ -58,9 +58,15 @@ class Message(models.Model):
         return "%s: %s" % (self.keyword, self.message)
 
 class MessageLog(models.Model):
+<<<<<<< HEAD
+    sms_number = models.CharField(max_length=100, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
+    email = models.CharField(max_length=100, null=True, blank=True)
+    message = models.CharField(max_length=1000, null=True)
+=======
     sms_number = models.CharField(max_length=300, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
     email = models.CharField(max_length=300, null=True, blank=True)
     message = models.CharField(max_length=1500, null=True)
+>>>>>>> d752dd781045f81c69cb02009b487e813bb0fb1d
     date_sent = models.DateTimeField(auto_now_add=True, blank=True)
 
     def __str__(self):
