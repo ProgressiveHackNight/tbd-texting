@@ -21,6 +21,7 @@ python-firebase = "*"
 sass = "*"
 django-sass-processor = "*"
 sendgrid = "*"
+redis = "*"
 
 [requires]
 python_version = "3.6"
