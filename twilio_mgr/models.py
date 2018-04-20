@@ -50,7 +50,7 @@ class EmailReminder(models.Model):
 
 
 class Message(models.Model):
-    message = models.CharField(max_length=400)
+    message = models.CharField(max_length=1000)
     keyword = models.CharField(max_length=100,unique=True)
 
 

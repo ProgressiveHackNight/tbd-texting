@@ -39,6 +39,17 @@ For PostGreSQL
 
 **Note:** `locations` and `message` are the initial data for all the locations and messages.
 
+
+### 4. Setup Scheduled tasks
+
+In your Heroku project root:
+
+```
+heroku addons:create redistogo
+heroku scale worker=1
+heroku scale clock=1
+```
+
 # TBD Django Commands
 
 These commands can be incorporated to your cron / scheduled tasks.
