@@ -20,7 +20,7 @@
     "pk": 3,
     "fields": {
       "keyword": "WELCOME_EMAIL",
-      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th. We will send you a reminder a day before so you can find the locations closest to you and make a plan.<br/><br/><i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.</i>"
+      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th from 10 AM to 2 PM. We will send you a reminder so you can find the locations closest to you and make a plan.<br/><br/> <i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.</i><br/><br/> <img src='https://clearyourcabinet.ag.ny.gov/static/media/hero-image.bd136837.png' width='200px' height='auto'/>"
     }
   }
   ,
@@ -29,7 +29,7 @@
     "pk": 4,
     "fields": {
       "keyword": "WELCOME_EMAIL_NO_LOCATION",
-      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th. We will send you a reminder a day before so you can find the locations closest to you and make a plan.<br/><br/>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman."
+      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th from 10 AM to 2 PM. We will send you a reminder so you can find the locations closest to you and make a plan.<br/><br/> <i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.</i><br/><br/> <img src='https://clearyourcabinet.ag.ny.gov/static/media/hero-image.bd136837.png' width='200px' height='auto'/>"
     }
   },
   {
@@ -53,7 +53,7 @@
     "pk": 7,
     "fields": {
       "keyword": "DAY_OF_TBD_SMS",
-      "message": "Tomorrow is Prescription Drug Take Back Day. Find a drop-off site near you: clearyourcabinet.com Reply STOP to cancel txt msgs"
+      "message": "Today is Prescription Drug Take Back Day from 10 AM to 2 PM. Find a drop-off site near you: clearyourcabinet.com Reply STOP to cancel txt msgs."
     }
   },
   {
