@@ -4,8 +4,8 @@
 		"pk": 1,
 		"fields": {
 			"name": "Adelphi University",
-			"longitude": -73.6518733,
-			"latitude": 40.7187717,
+			"lon": -73.6518733,
+			"lat": 40.7187717,
 			"type": "School",
 			"address": "1 South Ave, UC Lobby, Garden City, NY 11530"
 		}
@@ -15,8 +15,8 @@
 		"pk": 2,
 		"fields": {
 			"name": "AIDS Healthcare Foundation",
-			"longitude": -73.9820483,
-			"latitude": 40.6860777,
+			"lon": -73.9820483,
+			"lat": 40.6860777,
 			"type": "Pharmacy",
 			"address": "475 Atlantic Ave, Brooklyn, NY 11217"
 		}
@@ -26,8 +26,8 @@
 		"pk": 3,
 		"fields": {
 			"name": "Albany County Sheriff",
-			"longitude": -73.9543788,
-			"latitude": 42.5771018,
+			"lon": -73.9543788,
+			"lat": 42.5771018,
 			"type": "Police",
 			"address": "58 Verda Ave, Clarksville, NY 12041"
 		}
@@ -37,8 +37,8 @@
 		"pk": 4,
 		"fields": {
 			"name": "Albany County Sheriff / RCS Community Library",
-			"longitude": -73.7929443,
-			"latitude": 42.4745337,
+			"lon": -73.7929443,
+			"lat": 42.4745337,
 			"type": "Police",
 			"address": "95 Main St, Ravena, NY 12143"
 		}
@@ -48,8 +48,8 @@
 		"pk": 5,
 		"fields": {
 			"name": "Albany Police Department",
-			"longitude": -73.7605088,
-			"latitude": 42.6628091,
+			"lon": -73.7605088,
+			"lat": 42.6628091,
 			"type": "Police",
 			"address": "165 Henry Johnson Blvd, Albany, NY 12210"
 		}
@@ -59,8 +59,8 @@
 		"pk": 6,
 		"fields": {
 			"name": "Albany Police Dept South Station",
-			"longitude": -73.7575989,
-			"latitude": 42.6424917,
+			"lon": -73.7575989,
+			"lat": 42.6424917,
 			"type": "Police",
 			"address": "126 Arch St, Albany, NY 12202"
 		}
@@ -70,8 +70,8 @@
 		"pk": 7,
 		"fields": {
 			"name": "Albany VA Medical Center",
-			"longitude": -73.7744404,
-			"latitude": 42.6496127,
+			"lon": -73.7744404,
+			"lat": 42.6496127,
 			"type": "Hospital",
 			"address": "113 Holland Ave, Albany, NY 12208"
 		}
@@ -81,8 +81,8 @@
 		"pk": 8,
 		"fields": {
 			"name": "Alberty Drugs",
-			"longitude": -78.1838369,
-			"latitude": 42.997426,
+			"lon": -78.1838369,
+			"lat": 42.997426,
 			"type": "Pharmacy",
 			"address": "81 Main St, Batavia, NY 14020"
 		}
@@ -92,8 +92,8 @@
 		"pk": 9,
 		"fields": {
 			"name": "Alden Pharmacy",
-			"longitude": -78.495883,
-			"latitude": 42.9000864,
+			"lon": -78.495883,
+			"lat": 42.9000864,
 			"type": "Pharmacy",
 			"address": "13203 Broadway, Alden, NY 14004"
 		}
@@ -103,8 +103,8 @@
 		"pk": 10,
 		"fields": {
 			"name": "Alden Town Hall",
-			"longitude": -78.547854,
-			"latitude": 42.939665,
+			"lon": -78.547854,
+			"lat": 42.939665,
 			"type": "Government",
 			"address": "3311 Wende Rd, Alden, NY 14004"
 		}
@@ -114,8 +114,8 @@
 		"pk": 11,
 		"fields": {
 			"name": "Alfred State University Police",
-			"longitude": -77.7925638,
-			"latitude": 42.2558768,
+			"lon": -77.7925638,
+			"lat": 42.2558768,
 			"type": "Police",
 			"address": "4 Elm St, Alfred, NY 14802"
 		}
@@ -125,8 +125,8 @@
 		"pk": 12,
 		"fields": {
 			"name": "Allegany County Sheriff'S Office",
-			"longitude": -78.0146824,
-			"latitude": 42.211879,
+			"lon": -78.0146824,
+			"lat": 42.211879,
 			"type": "Police",
 			"address": "4884 NY-19, Belmont, NY 14813"
 		}
@@ -136,8 +136,8 @@
 		"pk": 13,
 		"fields": {
 			"name": "Allegany Sheriff / Bolivar Vol Fire Department",
-			"longitude": -78.1679811,
-			"latitude": 42.063984,
+			"lon": -78.1679811,
+			"lat": 42.063984,
 			"type": "Police",
 			"address": "460 Main St, Bolivar, NY 14715"
 		}
@@ -147,8 +147,8 @@
 		"pk": 14,
 		"fields": {
 			"name": "Allure Specialty Pharmacy",
-			"longitude": -73.8584283,
-			"latitude": 40.8995457,
+			"lon": -73.8584283,
+			"lat": 40.8995457,
 			"type": "Pharmacy",
 			"address": "4377 Bronx Blvd, Bronx, NY 10466"
 		}
@@ -158,8 +158,8 @@
 		"pk": 15,
 		"fields": {
 			"name": "AMI Pharmacy",
-			"longitude": -73.9377334,
-			"latitude": 40.8477306,
+			"lon": -73.9377334,
+			"lat": 40.8477306,
 			"type": "Pharmacy",
 			"address": "4180 Broadway, New York, NY 10033"
 		}
@@ -169,8 +169,8 @@
 		"pk": 16,
 		"fields": {
 			"name": "Amityville Police Department",
-			"longitude": -73.4187117,
-			"latitude": 40.6777996,
+			"lon": -73.4187117,
+			"lat": 40.6777996,
 			"type": "Police",
 			"address": "21 Ireland Pl, Amityville, NY 11701"
 		}
@@ -180,8 +180,8 @@
 		"pk": 17,
 		"fields": {
 			"name": "Amsterdam Police Department",
-			"longitude": -74.192485,
-			"latitude": 42.939807,
+			"lon": -74.192485,
+			"lat": 42.939807,
 			"type": "Police",
 			"address": "1 Guy Park Ave, Amsterdam, NY 12010"
 		}
@@ -191,8 +191,8 @@
 		"pk": 18,
 		"fields": {
 			"name": "Ardsley Police Department",
-			"longitude": -73.8460874,
-			"latitude": 41.0115632,
+			"lon": -73.8460874,
+			"lat": 41.0115632,
 			"type": "Police",
 			"address": "507 Ashford Ave, Ardsley, NY 10502"
 		}
@@ -202,8 +202,8 @@
 		"pk": 19,
 		"fields": {
 			"name": "Attica Pharmacy",
-			"longitude": -78.2840631,
-			"latitude": 42.8643721,
+			"lon": -78.2840631,
+			"lat": 42.8643721,
 			"type": "Pharmacy",
 			"address": "2 Market St, Attica, NY 14011"
 		}
@@ -213,8 +213,8 @@
 		"pk": 20,
 		"fields": {
 			"name": "Attica Police Department",
-			"longitude": -78.2799992,
-			"latitude": 42.8628789,
+			"lon": -78.2799992,
+			"lat": 42.8628789,
 			"type": "Police",
 			"address": "43 Exchange Street Rd, Attica, NY 14011"
 		}
@@ -224,8 +224,8 @@
 		"pk": 21,
 		"fields": {
 			"name": "Auburn Police Department HQ",
-			"longitude": -76.565439,
-			"latitude": 42.9334596,
+			"lon": -76.565439,
+			"lat": 42.9334596,
 			"type": "Police",
 			"address": "46 North St, Auburn, NY 13021"
 		}
@@ -235,8 +235,8 @@
 		"pk": 22,
 		"fields": {
 			"name": "Baldwinsville Police Department",
-			"longitude": -76.3334824,
-			"latitude": 43.1588358,
+			"lon": -76.3334824,
+			"lat": 43.1588358,
 			"type": "Police",
 			"address": "16 W Genesee St, Baldwinsville, NY 13027"
 		}
@@ -246,8 +246,8 @@
 		"pk": 23,
 		"fields": {
 			"name": "Bardonia Pharmacy",
-			"longitude": -73.9966173,
-			"latitude": 41.1088185,
+			"lon": -73.9966173,
+			"lat": 41.1088185,
 			"type": "Pharmacy",
 			"address": "301 NY-304 #4, Bardonia, NY 10954"
 		}
@@ -257,8 +257,8 @@
 		"pk": 24,
 		"fields": {
 			"name": "Bartles Pharmacy",
-			"longitude": -75.597781,
-			"latitude": 42.442775,
+			"lon": -75.597781,
+			"lat": 42.442775,
 			"type": "Pharmacy",
 			"address": "10 Lafayette Park, Oxford, NY 13830"
 		}
@@ -268,8 +268,8 @@
 		"pk": 25,
 		"fields": {
 			"name": "Batavia Police Department",
-			"longitude": -78.1875696,
-			"latitude": 42.9986125,
+			"lon": -78.1875696,
+			"lat": 42.9986125,
 			"type": "Police",
 			"address": "10 W Main St, Batavia, NY 14020"
 		}
@@ -279,8 +279,8 @@
 		"pk": 26,
 		"fields": {
 			"name": "Bayside Pharmacy",
-			"longitude": -73.7552226,
-			"latitude": 40.7492677,
+			"lon": -73.7552226,
+			"lat": 40.7492677,
 			"type": "Pharmacy",
 			"address": "221-36 Horace Harding Expy, Oakland Gardens, NY 11364"
 		}
@@ -290,8 +290,8 @@
 		"pk": 27,
 		"fields": {
 			"name": "Beacon City Police Dept",
-			"longitude": -73.9784575,
-			"latitude": 41.5080215,
+			"lon": -73.9784575,
+			"lat": 41.5080215,
 			"type": "Police",
 			"address": "1 Municipal Plaza, Beacon, NY 12508"
 		}
@@ -301,8 +301,8 @@
 		"pk": 28,
 		"fields": {
 			"name": "Beavers Pharmacy",
-			"longitude": -77.6053887,
-			"latitude": 42.2702945,
+			"lon": -77.6053887,
+			"lat": 42.2702945,
 			"type": "Pharmacy",
 			"address": "7 Main St, Canisteo, NY 14823"
 		}
@@ -312,8 +312,8 @@
 		"pk": 29,
 		"fields": {
 			"name": "Bedford Police Department",
-			"longitude": -73.6570699,
-			"latitude": 41.1738025,
+			"lon": -73.6570699,
+			"lat": 41.1738025,
 			"type": "Police",
 			"address": "307 Bedford-Banksville Rd, Bedford, NY 10506"
 		}
@@ -323,8 +323,8 @@
 		"pk": 30,
 		"fields": {
 			"name": "Bethlehem Town Park",
-			"longitude": -73.825874,
-			"latitude": 42.580348,
+			"lon": -73.825874,
+			"lat": 42.580348,
 			"type": "Police",
 			"address": "249 Elm Ave, Delmar, NY 12054"
 		}
@@ -334,8 +334,8 @@
 		"pk": 31,
 		"fields": {
 			"name": "Birdsall Fagan Police Court Facility",
-			"longitude": -73.8642351,
-			"latitude": 41.1585795,
+			"lon": -73.8642351,
+			"lat": 41.1585795,
 			"type": "Police",
 			"address": "88 Spring St, Ossining, NY 10562"
 		}
@@ -345,8 +345,8 @@
 		"pk": 32,
 		"fields": {
 			"name": "Black Drugs",
-			"longitude": -75.2177089,
-			"latitude": 43.0980591,
+			"lon": -75.2177089,
+			"lat": 43.0980591,
 			"type": "Pharmacy",
 			"address": "704 Bleecker St, Utica, NY 13501"
 		}
@@ -356,8 +356,8 @@
 		"pk": 33,
 		"fields": {
 			"name": "Black Rock Pharmacy",
-			"longitude": -78.8983242,
-			"latitude": 42.9410115,
+			"lon": -78.8983242,
+			"lat": 42.9410115,
 			"type": "Pharmacy",
 			"address": "431 Tonawanda St, Buffalo, NY 14207"
 		}
@@ -367,8 +367,8 @@
 		"pk": 34,
 		"fields": {
 			"name": "Blooming Grove Pharmacy",
-			"longitude": -74.1732741,
-			"latitude": 41.3795467,
+			"lon": -74.1732741,
+			"lat": 41.3795467,
 			"type": "Pharmacy",
 			"address": "1200 NY-208, Monroe, NY 10950"
 		}
@@ -378,8 +378,8 @@
 		"pk": 35,
 		"fields": {
 			"name": "Bonaparte Pharmacy",
-			"longitude": -75.316232,
-			"latitude": 44.148427,
+			"lon": -75.316232,
+			"lat": 44.148427,
 			"type": "Pharmacy",
 			"address": "8210 Main St, Harrisville, NY 13648"
 		}
@@ -389,8 +389,8 @@
 		"pk": 36,
 		"fields": {
 			"name": "Boonville Police Dept",
-			"longitude": -75.2303612,
-			"latitude": 43.4244517,
+			"lon": -75.2303612,
+			"lat": 43.4244517,
 			"type": "Police",
 			"address": "13149 NY-12, Boonville, NY 13309"
 		}
@@ -400,8 +400,8 @@
 		"pk": 37,
 		"fields": {
 			"name": "Brant Town Hall",
-			"longitude": -79.0155463,
-			"latitude": 42.5891996,
+			"lon": -79.0155463,
+			"lat": 42.5891996,
 			"type": "Government",
 			"address": "1272 Brant North Collins Rd, Brant, NY 14027"
 		}
@@ -411,8 +411,8 @@
 		"pk": 38,
 		"fields": {
 			"name": "Briarcliff Manor Police Department",
-			"longitude": -73.8286274,
-			"latitude": 41.1489102,
+			"lon": -73.8286274,
+			"lat": 41.1489102,
 			"type": "Police",
 			"address": "1111 Pleasantville Rd, Briarcliff Manor, NY 10510"
 		}
@@ -422,8 +422,8 @@
 		"pk": 39,
 		"fields": {
 			"name": "Brighton Police Department",
-			"longitude": -77.575573,
-			"latitude": 43.127059,
+			"lon": -77.575573,
+			"lat": 43.127059,
 			"type": "Police",
 			"address": "2300 Elmwood Ave, Rochester, NY 14618"
 		}
@@ -433,8 +433,8 @@
 		"pk": 40,
 		"fields": {
 			"name": "Bristol Town Hall",
-			"longitude": -77.3921474,
-			"latitude": 42.8092921,
+			"lon": -77.3921474,
+			"lat": 42.8092921,
 			"type": "Government",
 			"address": "6740 Co Rd 32, Canandaigua, NY 14424"
 		}
@@ -444,8 +444,8 @@
 		"pk": 41,
 		"fields": {
 			"name": "Brockport Police Department",
-			"longitude": -77.9391247,
-			"latitude": 43.2157839,
+			"lon": -77.9391247,
+			"lat": 43.2157839,
 			"type": "Police",
 			"address": "1 Clinton St, Brockport, NY 14420"
 		}
@@ -455,8 +455,8 @@
 		"pk": 42,
 		"fields": {
 			"name": "Bronxville Police Department",
-			"longitude": -73.8314762,
-			"latitude": 40.9355278,
+			"lon": -73.8314762,
+			"lat": 40.9355278,
 			"type": "Police",
 			"address": "200 Pondfield Rd, Bronxville, NY 10708"
 		}
@@ -466,8 +466,8 @@
 		"pk": 43,
 		"fields": {
 			"name": "Broome Co Sheriff'S Office",
-			"longitude": -75.911315,
-			"latitude": 42.0962182,
+			"lon": -75.911315,
+			"lat": 42.0962182,
 			"type": "Police",
 			"address": "44 Hawley St, Binghamton, NY 13901"
 		}
@@ -477,8 +477,8 @@
 		"pk": 44,
 		"fields": {
 			"name": "Broome County Office Building",
-			"longitude": -75.9107117,
-			"latitude": 42.096589,
+			"lon": -75.9107117,
+			"lat": 42.096589,
 			"type": "Government",
 			"address": "60 Hawley St, Binghamton, NY 13901"
 		}
@@ -488,8 +488,8 @@
 		"pk": 45,
 		"fields": {
 			"name": "Broome County Sheriff's Office",
-			"longitude": -75.916673,
-			"latitude": 42.1324788,
+			"lon": -75.916673,
+			"lat": 42.1324788,
 			"type": "Police",
 			"address": "155 Lt Vanwinkle Dr, Binghamton, NY 13905"
 		}
@@ -499,8 +499,8 @@
 		"pk": 46,
 		"fields": {
 			"name": "Buchanan Village Police Department",
-			"longitude": -73.9394989,
-			"latitude": 41.2615339,
+			"lon": -73.9394989,
+			"lat": 41.2615339,
 			"type": "Police",
 			"address": "236 Tate Ave, Buchanan, NY 10511"
 		}
@@ -510,8 +510,8 @@
 		"pk": 47,
 		"fields": {
 			"name": "Buffalo Police Department (A District)",
-			"longitude": -78.824151,
-			"latitude": 42.8484182,
+			"lon": -78.824151,
+			"lat": 42.8484182,
 			"type": "Police",
 			"address": "1847 South Park Ave, Buffalo, NY 14220"
 		}
@@ -521,8 +521,8 @@
 		"pk": 48,
 		"fields": {
 			"name": "Buffalo Police Department (B District)",
-			"longitude": -78.8716592,
-			"latitude": 42.8930307,
+			"lon": -78.8716592,
+			"lat": 42.8930307,
 			"type": "Police",
 			"address": "695 Main St, Buffalo, NY 14203"
 		}
@@ -532,8 +532,8 @@
 		"pk": 49,
 		"fields": {
 			"name": "Buffalo Police Department (C District)",
-			"longitude": -78.8385865,
-			"latitude": 42.9143835,
+			"lon": -78.8385865,
+			"lat": 42.9143835,
 			"type": "Police",
 			"address": "693 E Ferry St, Buffalo, NY 14211"
 		}
@@ -543,8 +543,8 @@
 		"pk": 50,
 		"fields": {
 			"name": "Buffalo Police Department (D District)",
-			"longitude": -78.8838201,
-			"latitude": 42.9473943,
+			"lon": -78.8838201,
+			"lat": 42.9473943,
 			"type": "Police",
 			"address": "669 Hertel Ave, Buffalo, NY 14207"
 		}
@@ -554,8 +554,8 @@
 		"pk": 51,
 		"fields": {
 			"name": "Buffalo Police Department (E District)",
-			"longitude": -78.8133032,
-			"latitude": 42.9303177,
+			"lon": -78.8133032,
+			"lat": 42.9303177,
 			"type": "Police",
 			"address": "2767 Bailey Ave, Buffalo, NY 14215"
 		}
@@ -565,8 +565,8 @@
 		"pk": 52,
 		"fields": {
 			"name": "C O Bigelow Chemists",
-			"longitude": -73.9990431,
-			"latitude": 40.7339088,
+			"lon": -73.9990431,
+			"lat": 40.7339088,
 			"type": "Pharmacy",
 			"address": "414 6th Ave, New York, NY 10011"
 		}
@@ -576,8 +576,8 @@
 		"pk": 53,
 		"fields": {
 			"name": "C&J's Northside Pharmacy",
-			"longitude": -76.1250215,
-			"latitude": 43.0821232,
+			"lon": -76.1250215,
+			"lat": 43.0821232,
 			"type": "Pharmacy",
 			"address": "2301 Teall Ave, Syracuse, NY 13206"
 		}
@@ -587,8 +587,8 @@
 		"pk": 54,
 		"fields": {
 			"name": "Cairo Police Department",
-			"longitude": -74.002772,
-			"latitude": 42.2980596,
+			"lon": -74.002772,
+			"lat": 42.2980596,
 			"type": "Police",
 			"address": "123 Angelo Canna Park, Cairo, NY 12413"
 		}
@@ -598,8 +598,8 @@
 		"pk": 55,
 		"fields": {
 			"name": "Cambridge Village Police Department",
-			"longitude": -73.3774629,
-			"latitude": 43.0372356,
+			"lon": -73.3774629,
+			"lat": 43.0372356,
 			"type": "Police",
 			"address": "56 N Park St, Cambridge, NY 12816"
 		}
@@ -609,8 +609,8 @@
 		"pk": 56,
 		"fields": {
 			"name": "Camden Police Department",
-			"longitude": -75.7520816,
-			"latitude": 43.341081,
+			"lon": -75.7520816,
+			"lat": 43.341081,
 			"type": "Police",
 			"address": "30 Fayette St, Camden, NY 13316"
 		}
@@ -620,8 +620,8 @@
 		"pk": 57,
 		"fields": {
 			"name": "Canandaigua Police Department",
-			"longitude": -77.2799567,
-			"latitude": 42.8881924,
+			"lon": -77.2799567,
+			"lat": 42.8881924,
 			"type": "Police",
 			"address": "21 Ontario St, Canandaigua, NY 14424"
 		}
@@ -631,8 +631,8 @@
 		"pk": 58,
 		"fields": {
 			"name": "Canisius College Bosch Hall",
-			"longitude": -78.8528401,
-			"latitude": 42.9272065,
+			"lon": -78.8528401,
+			"lat": 42.9272065,
 			"type": "School",
 			"address": "2001 Main St, Buffalo, NY 14208"
 		}
@@ -642,8 +642,8 @@
 		"pk": 59,
 		"fields": {
 			"name": "Canisteo Village Hall",
-			"longitude": -77.6043298,
-			"latitude": 42.269949,
+			"lon": -77.6043298,
+			"lat": 42.269949,
 			"type": "Police",
 			"address": "8 Green St, Canisteo, NY 14823"
 		}
@@ -653,8 +653,8 @@
 		"pk": 60,
 		"fields": {
 			"name": "Carthage Police Department / Kinney Pharmacy",
-			"longitude": -75.6087847,
-			"latitude": 43.9793327,
+			"lon": -75.6087847,
+			"lat": 43.9793327,
 			"type": "Police",
 			"address": "401 State St, Carthage, NY 13619"
 		}
@@ -664,8 +664,8 @@
 		"pk": 61,
 		"fields": {
 			"name": "Castle Hill Community Pharmacy",
-			"longitude": -73.8483009,
-			"latitude": 40.82137,
+			"lon": -73.8483009,
+			"lat": 40.82137,
 			"type": "Pharmacy",
 			"address": "706 Castle Hill Ave, Bronx, NY 10473"
 		}
@@ -675,8 +675,8 @@
 		"pk": 62,
 		"fields": {
 			"name": "Castle Topp Pharmacy",
-			"longitude": -73.8518255,
-			"latitude": 40.835398,
+			"lon": -73.8518255,
+			"lat": 40.835398,
 			"type": "Pharmacy",
 			"address": "1370 Castle Hill Ave, Bronx, NY 10462"
 		}
@@ -686,8 +686,8 @@
 		"pk": 63,
 		"fields": {
 			"name": "Cattaraugus County Sheriff / Corner Drug Store",
-			"longitude": -78.8681434,
-			"latitude": 42.3295847,
+			"lon": -78.8681434,
+			"lat": 42.3295847,
 			"type": "Police",
 			"address": "1 Washington St, Cattaraugus, NY 14719"
 		}
@@ -697,8 +697,8 @@
 		"pk": 64,
 		"fields": {
 			"name": "Cattaraugus County Sheriff's Department",
-			"longitude": -78.4500609,
-			"latitude": 42.08635,
+			"lon": -78.4500609,
+			"lat": 42.08635,
 			"type": "Police",
 			"address": "1 Leo Moss Dr, Olean, NY 14760"
 		}
@@ -708,8 +708,8 @@
 		"pk": 65,
 		"fields": {
 			"name": "Cayuga County Law Enforcement",
-			"longitude": -76.5445912,
-			"latitude": 42.9787107,
+			"lon": -76.5445912,
+			"lat": 42.9787107,
 			"type": "Police",
 			"address": "7445 County House Rd, Auburn, NY 13021"
 		}
@@ -719,8 +719,8 @@
 		"pk": 66,
 		"fields": {
 			"name": "Cayuga Heights Police Department",
-			"longitude": -76.4790368,
-			"latitude": 42.4697074,
+			"lon": -76.4790368,
+			"lat": 42.4697074,
 			"type": "Police",
 			"address": "836 Hanshaw Rd, Ithaca, NY 14850"
 		}
@@ -730,8 +730,8 @@
 		"pk": 67,
 		"fields": {
 			"name": "Champlain Valley Physicians Hospital",
-			"longitude": -73.4676023,
-			"latitude": 44.6984436,
+			"lon": -73.4676023,
+			"lat": 44.6984436,
 			"type": "Hospital",
 			"address": "214 Cornelia St, Plattsburgh, NY 12901"
 		}
@@ -741,8 +741,8 @@
 		"pk": 68,
 		"fields": {
 			"name": "Chautauqua County Sheriff's Office",
-			"longitude": -79.503649,
-			"latitude": 42.2544692,
+			"lon": -79.503649,
+			"lat": 42.2544692,
 			"type": "Police",
 			"address": "15 E Chautauqua St, Mayville, NY 14757"
 		}
@@ -752,8 +752,8 @@
 		"pk": 69,
 		"fields": {
 			"name": "Chenango County Sheriff / Greene Fire Department",
-			"longitude": -75.768701,
-			"latitude": 42.3337335,
+			"lon": -75.768701,
+			"lat": 42.3337335,
 			"type": "Police",
 			"address": "N Canal St, Greene, NY 13778"
 		}
@@ -763,8 +763,8 @@
 		"pk": 70,
 		"fields": {
 			"name": "Chittenango Police",
-			"longitude": -75.8665237,
-			"latitude": 43.0451423,
+			"lon": -75.8665237,
+			"lat": 43.0451423,
 			"type": "Police",
 			"address": "222 Genesee St, Chittenango, NY 13037"
 		}
@@ -774,8 +774,8 @@
 		"pk": 71,
 		"fields": {
 			"name": "City of Elmira Police Department",
-			"longitude": -76.8030917,
-			"latitude": 42.0915825,
+			"lon": -76.8030917,
+			"lat": 42.0915825,
 			"type": "Police",
 			"address": "317 E Church St, Elmira, NY 14901"
 		}
@@ -785,8 +785,8 @@
 		"pk": 72,
 		"fields": {
 			"name": "City of Hudson New York",
-			"longitude": -73.7879808,
-			"latitude": 42.2503205,
+			"lon": -73.7879808,
+			"lat": 42.2503205,
 			"type": "Government",
 			"address": "427 Warren St, Hudson, NY 12534"
 		}
@@ -796,8 +796,8 @@
 		"pk": 73,
 		"fields": {
 			"name": "City of Newburgh Police Department",
-			"longitude": -74.0091428,
-			"latitude": 41.4990973,
+			"lon": -74.0091428,
+			"lat": 41.4990973,
 			"type": "Police",
 			"address": "55 Broadway, Newburgh, NY 12550"
 		}
@@ -807,8 +807,8 @@
 		"pk": 74,
 		"fields": {
 			"name": "City of Olean Police Department",
-			"longitude": -78.4292745,
-			"latitude": 42.0778266,
+			"lon": -78.4292745,
+			"lat": 42.0778266,
 			"type": "Police",
 			"address": "101 E State St, Olean, NY 14760"
 		}
@@ -818,8 +818,8 @@
 		"pk": 75,
 		"fields": {
 			"name": "City of Peekskill Police Department",
-			"longitude": -73.9223596,
-			"latitude": 41.2906825,
+			"lon": -73.9223596,
+			"lat": 41.2906825,
 			"type": "Police",
 			"address": "2 Nelson Ave, Peekskill, NY 10566"
 		}
@@ -829,8 +829,8 @@
 		"pk": 76,
 		"fields": {
 			"name": "City of Plattsburgh Police Department",
-			"longitude": -73.4544005,
-			"latitude": 44.6923204,
+			"lon": -73.4544005,
+			"lat": 44.6923204,
 			"type": "Police",
 			"address": "45 Pine St, Plattsburgh, NY 12901"
 		}
@@ -840,8 +840,8 @@
 		"pk": 77,
 		"fields": {
 			"name": "City of Salamanca Police Department",
-			"longitude": -78.708431,
-			"latitude": 42.157576,
+			"lon": -78.708431,
+			"lat": 42.157576,
 			"type": "Police",
 			"address": "1 Barrett Dr, Salamanca, NY 14779"
 		}
@@ -851,8 +851,8 @@
 		"pk": 78,
 		"fields": {
 			"name": "Clarence Substation",
-			"longitude": -78.635841,
-			"latitude": 43.015322,
+			"lon": -78.635841,
+			"lat": 43.015322,
 			"type": "Government",
 			"address": "6185 Goodrich Rd, Clarence Center, NY 14032"
 		}
@@ -862,8 +862,8 @@
 		"pk": 79,
 		"fields": {
 			"name": "Clark Mills Police Department",
-			"longitude": -75.3768915,
-			"latitude": 43.0913506,
+			"lon": -75.3768915,
+			"lat": 43.0913506,
 			"type": "Police",
 			"address": "2 New St, Clark Mills, NY 13321"
 		}
@@ -873,8 +873,8 @@
 		"pk": 80,
 		"fields": {
 			"name": "Claxton Hepburn Medical Center",
-			"longitude": -75.499781,
-			"latitude": 44.691587,
+			"lon": -75.499781,
+			"lat": 44.691587,
 			"type": "Hospital",
 			"address": "214 King Street, Ogdensburg, NY 13669"
 		}
@@ -884,8 +884,8 @@
 		"pk": 81,
 		"fields": {
 			"name": "Clifton Springs Hospital & Clinic",
-			"longitude": -77.1366832,
-			"latitude": 42.9601279,
+			"lon": -77.1366832,
+			"lat": 42.9601279,
 			"type": "Hospital",
 			"address": "2 Coulter Rd, Clifton Springs, NY 14432"
 		}
@@ -895,8 +895,8 @@
 		"pk": 82,
 		"fields": {
 			"name": "Cobleskill Police Department",
-			"longitude": -74.4802672,
-			"latitude": 42.6689951,
+			"lon": -74.4802672,
+			"lat": 42.6689951,
 			"type": "Police",
 			"address": "378 Mineral Springs Rd, Cobleskill, NY 12043"
 		}
@@ -906,8 +906,8 @@
 		"pk": 83,
 		"fields": {
 			"name": "Columbia County Sheriff's Office",
-			"longitude": -73.756781,
-			"latitude": 42.2495575,
+			"lon": -73.756781,
+			"lat": 42.2495575,
 			"type": "Police",
 			"address": "85 Industrial Tract, Hudson, NY 12534"
 		}
@@ -917,8 +917,8 @@
 		"pk": 84,
 		"fields": {
 			"name": "Columbia University",
-			"longitude": -73.939063,
-			"latitude": 40.840458,
+			"lon": -73.939063,
+			"lat": 40.840458,
 			"type": "Police",
 			"address": "560 W 168th St, New York, NY 10032"
 		}
@@ -928,8 +928,8 @@
 		"pk": 85,
 		"fields": {
 			"name": "Columbia University",
-			"longitude": -73.9638331,
-			"latitude": 40.8079932,
+			"lon": -73.9638331,
+			"lat": 40.8079932,
 			"type": "Police",
 			"address": "W 116th St & Broadway, New York, NY 10027"
 		}
@@ -939,8 +939,8 @@
 		"pk": 86,
 		"fields": {
 			"name": "Community Care RX",
-			"longitude": -73.6333155,
-			"latitude": 40.7035208,
+			"lon": -73.6333155,
+			"lat": 40.7035208,
 			"type": "Pharmacy",
 			"address": "86 Front St, Hempstead, NY 11550"
 		}
@@ -950,8 +950,8 @@
 		"pk": 87,
 		"fields": {
 			"name": "Community Memorial Hospital",
-			"longitude": -75.5431629,
-			"latitude": 42.81327,
+			"lon": -75.5431629,
+			"lat": 42.81327,
 			"type": "Hospital",
 			"address": "150 Broad St, Hamilton, NY 13346"
 		}
@@ -961,8 +961,8 @@
 		"pk": 88,
 		"fields": {
 			"name": "Cornell University Police Department",
-			"longitude": -76.4806043,
-			"latitude": 42.4459844,
+			"lon": -76.4806043,
+			"lat": 42.4459844,
 			"type": "Police",
 			"address": "117 Statler Dr, Ithaca, NY 14853"
 		}
@@ -972,8 +972,8 @@
 		"pk": 89,
 		"fields": {
 			"name": "Cornerstone Drug & Gift",
-			"longitude": -73.3714846,
-			"latitude": 44.9832262,
+			"lon": -73.3714846,
+			"lat": 44.9832262,
 			"type": "Pharmacy",
 			"address": "72 Champlain St, Rouses Point, NY 12979"
 		}
@@ -983,8 +983,8 @@
 		"pk": 90,
 		"fields": {
 			"name": "Corning Hospital",
-			"longitude": -76.9697741,
-			"latitude": 42.1359226,
+			"lon": -76.9697741,
+			"lat": 42.1359226,
 			"type": "Hospital",
 			"address": "1 Guthrie Drive, Corning, NY 14830"
 		}
@@ -994,8 +994,8 @@
 		"pk": 91,
 		"fields": {
 			"name": "Cornwall Town Police Department",
-			"longitude": -74.0283899,
-			"latitude": 41.4389873,
+			"lon": -74.0283899,
+			"lat": 41.4389873,
 			"type": "Police",
 			"address": "183 Main St, Cornwall, NY 12518"
 		}
@@ -1005,8 +1005,8 @@
 		"pk": 92,
 		"fields": {
 			"name": "Cortland County Sheriff's Department",
-			"longitude": -76.1759286,
-			"latitude": 42.5984884,
+			"lon": -76.1759286,
+			"lat": 42.5984884,
 			"type": "Police",
 			"address": "54 Greenbush St, Cortland, NY 13045"
 		}
@@ -1016,8 +1016,8 @@
 		"pk": 93,
 		"fields": {
 			"name": "Cortland Police Department",
-			"longitude": -76.1784192,
-			"latitude": 42.5990567,
+			"lon": -76.1784192,
+			"lat": 42.5990567,
 			"type": "Police",
 			"address": "25 Court St, Cortland, NY 13045"
 		}
@@ -1027,8 +1027,8 @@
 		"pk": 94,
 		"fields": {
 			"name": "Cortlandt Manor Police Department",
-			"longitude": -73.90544,
-			"latitude": 41.3102123,
+			"lon": -73.90544,
+			"lat": 41.3102123,
 			"type": "Police",
 			"address": "1 Heady St, Cortlandt, NY 10567"
 		}
@@ -1038,8 +1038,8 @@
 		"pk": 95,
 		"fields": {
 			"name": "County Emergency Operations Center",
-			"longitude": -74.405467,
-			"latitude": 42.682246,
+			"lon": -74.405467,
+			"lat": 42.682246,
 			"type": "Police",
 			"address": "2783 NY-7, Cobleskill, NY 12043"
 		}
@@ -1049,8 +1049,8 @@
 		"pk": 96,
 		"fields": {
 			"name": "Coxsackie Police Department",
-			"longitude": -73.8273641,
-			"latitude": 42.3627644,
+			"lon": -73.8273641,
+			"lat": 42.3627644,
 			"type": "Police",
 			"address": "119 Mansion St, Coxsackie, NY 12051"
 		}
@@ -1060,8 +1060,8 @@
 		"pk": 97,
 		"fields": {
 			"name": "Crawford Town Police",
-			"longitude": -74.3047629,
-			"latitude": 41.6028803,
+			"lon": -74.3047629,
+			"lat": 41.6028803,
 			"type": "Police",
 			"address": "121 NY-302, Pine Bush, NY 12566"
 		}
@@ -1071,8 +1071,8 @@
 		"pk": 98,
 		"fields": {
 			"name": "Croton-on-Hudson Police Department",
-			"longitude": -73.8877096,
-			"latitude": 41.2083157,
+			"lon": -73.8877096,
+			"lat": 41.2083157,
 			"type": "Police",
 			"address": "1 Van Wyck St, Croton-On-Hudson, NY 10520"
 		}
@@ -1082,8 +1082,8 @@
 		"pk": 99,
 		"fields": {
 			"name": "Cuba Police Department",
-			"longitude": -78.2797593,
-			"latitude": 42.2182905,
+			"lon": -78.2797593,
+			"lat": 42.2182905,
 			"type": "Police",
 			"address": "15 Water St, Cuba, NY 14727"
 		}
@@ -1093,8 +1093,8 @@
 		"pk": 100,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -77.5048453,
-			"latitude": 42.7891059,
+			"lon": -77.5048453,
+			"lat": 42.7891059,
 			"type": "Pharmacy",
 			"address": "1 Honeoye Cmns #15, Honeoye, NY 14471"
 		}
@@ -1104,8 +1104,8 @@
 		"pk": 101,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8538271,
-			"latitude": 40.7265604,
+			"lon": -73.8538271,
+			"lat": 40.7265604,
 			"type": "Pharmacy",
 			"address": "100-02 Queens Blvd, Forest Hills, NY 11375"
 		}
@@ -1115,8 +1115,8 @@
 		"pk": 102,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.6877412,
-			"latitude": 42.9025714,
+			"lon": -73.6877412,
+			"lat": 42.9025714,
 			"type": "Pharmacy",
 			"address": "12 S Central Ave, Mechanicville, NY 12118"
 		}
@@ -1126,8 +1126,8 @@
 		"pk": 103,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9343821,
-			"latitude": 41.2705412,
+			"lon": -73.9343821,
+			"lat": 41.2705412,
 			"type": "Pharmacy",
 			"address": "12 Welcher Ave, Peekskill, NY 10566"
 		}
@@ -1137,8 +1137,8 @@
 		"pk": 104,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -75.8946945,
-			"latitude": 42.1585519,
+			"lon": -75.8946945,
+			"lat": 42.1585519,
 			"type": "Pharmacy",
 			"address": "1276 Front St, Binghamton, NY 13901"
 		}
@@ -1148,8 +1148,8 @@
 		"pk": 105,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.0864428,
-			"latitude": 40.5953047,
+			"lon": -74.0864428,
+			"lat": 40.5953047,
 			"type": "Pharmacy",
 			"address": "1361 Hylan Blvd, Staten Island, NY 10305"
 		}
@@ -1159,8 +1159,8 @@
 		"pk": 106,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9579604,
-			"latitude": 40.7689131,
+			"lon": -73.9579604,
+			"lat": 40.7689131,
 			"type": "Pharmacy",
 			"address": "1396 2nd Ave, New York, NY 10021"
 		}
@@ -1170,8 +1170,8 @@
 		"pk": 107,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9755335,
-			"latitude": 40.7508121,
+			"lon": -73.9755335,
+			"lat": 40.7508121,
 			"type": "Pharmacy",
 			"address": "150 E 42nd St, New York, NY 10017"
 		}
@@ -1181,8 +1181,8 @@
 		"pk": 108,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8949214,
-			"latitude": 41.2958284,
+			"lon": -73.8949214,
+			"lat": 41.2958284,
 			"type": "Pharmacy",
 			"address": "1827 Main St, Peekskill, NY 10566"
 		}
@@ -1192,8 +1192,8 @@
 		"pk": 109,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -79.2385069,
-			"latitude": 42.0936055,
+			"lon": -79.2385069,
+			"lat": 42.0936055,
 			"type": "Pharmacy",
 			"address": "19 S Main St, Jamestown, NY 14701"
 		}
@@ -1203,8 +1203,8 @@
 		"pk": 110,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.853089,
-			"latitude": 40.852999,
+			"lon": -73.853089,
+			"lat": 40.852999,
 			"type": "Pharmacy",
 			"address": "1916 Williamsbridge Rd, Bronx, NY 10461"
 		}
@@ -1214,8 +1214,8 @@
 		"pk": 111,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.1287262,
-			"latitude": 40.6128786,
+			"lon": -74.1287262,
+			"lat": 40.6128786,
 			"type": "Pharmacy",
 			"address": "1933 Victory Blvd, Staten Island, NY 10314"
 		}
@@ -1225,8 +1225,8 @@
 		"pk": 112,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.3313518,
-			"latitude": 40.763398,
+			"lon": -73.3313518,
+			"lat": 40.763398,
 			"type": "Pharmacy",
 			"address": "1944 Deer Park Rd, Deer Park, NY 11729"
 		}
@@ -1236,8 +1236,8 @@
 		"pk": 113,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.4085381,
-			"latitude": 40.8279227,
+			"lon": -73.4085381,
+			"lat": 40.8279227,
 			"type": "Pharmacy",
 			"address": "2 E Jericho Turnpike, Huntington Station, NY 11746"
 		}
@@ -1247,8 +1247,8 @@
 		"pk": 114,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.4225274,
-			"latitude": 40.6720523,
+			"lon": -73.4225274,
+			"lat": 40.6720523,
 			"type": "Pharmacy",
 			"address": "20 Merrick Rd, Amityville, NY 11701"
 		}
@@ -1258,8 +1258,8 @@
 		"pk": 115,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.6222997,
-			"latitude": 40.8619968,
+			"lon": -73.6222997,
+			"lat": 40.8619968,
 			"type": "Pharmacy",
 			"address": "201 Glen St, Glen Cove, NY 11542"
 		}
@@ -1269,8 +1269,8 @@
 		"pk": 116,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.5291296,
-			"latitude": 40.7625553,
+			"lon": -73.5291296,
+			"lat": 40.7625553,
 			"type": "Pharmacy",
 			"address": "202 W Old Country Rd, Hicksville, NY 11801"
 		}
@@ -1280,8 +1280,8 @@
 		"pk": 117,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.769882,
-			"latitude": 40.759744,
+			"lon": -73.769882,
+			"lat": 40.759744,
 			"type": "Pharmacy",
 			"address": "212-20 Northern Blvd, Flushing, NY 11361"
 		}
@@ -1291,8 +1291,8 @@
 		"pk": 118,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8311827,
-			"latitude": 40.9762896,
+			"lon": -73.8311827,
+			"lat": 40.9762896,
 			"type": "Pharmacy",
 			"address": "2290 Central Park Ave, Yonkers, NY 10710"
 		}
@@ -1302,8 +1302,8 @@
 		"pk": 119,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9824844,
-			"latitude": 40.7668312,
+			"lon": -73.9824844,
+			"lat": 40.7668312,
 			"type": "Pharmacy",
 			"address": "241 W 57th St, New York, NY 10019"
 		}
@@ -1313,8 +1313,8 @@
 		"pk": 120,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9825438,
-			"latitude": 40.7319489,
+			"lon": -73.9825438,
+			"lat": 40.7319489,
 			"type": "Pharmacy",
 			"address": "253 1st Avenue, New York, NY 10003"
 		}
@@ -1324,8 +1324,8 @@
 		"pk": 121,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8219695,
-			"latitude": 42.6255994,
+			"lon": -73.8219695,
+			"lat": 42.6255994,
 			"type": "Pharmacy",
 			"address": "260 Delaware Ave, Delmar, NY 12054"
 		}
@@ -1335,8 +1335,8 @@
 		"pk": 122,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.988327,
-			"latitude": 41.1623158,
+			"lon": -73.988327,
+			"lat": 41.1623158,
 			"type": "Pharmacy",
 			"address": "280 N Main St, New City, NY 10956"
 		}
@@ -1346,8 +1346,8 @@
 		"pk": 123,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.945237,
-			"latitude": 40.6162551,
+			"lon": -73.945237,
+			"lat": 40.6162551,
 			"type": "Pharmacy",
 			"address": "2925 Kings Hwy, Brooklyn, NY 11229"
 		}
@@ -1357,8 +1357,8 @@
 		"pk": 124,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.6831683,
-			"latitude": 41.2547599,
+			"lon": -73.6831683,
+			"lat": 41.2547599,
 			"type": "Pharmacy",
 			"address": "294 Katonah Ave, Katonah, NY 10536"
 		}
@@ -1368,8 +1368,8 @@
 		"pk": 125,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7754566,
-			"latitude": 40.91336,
+			"lon": -73.7754566,
+			"lat": 40.91336,
 			"type": "Pharmacy",
 			"address": "309 Main St, New Rochelle, NY 10801"
 		}
@@ -1379,8 +1379,8 @@
 		"pk": 126,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.910205,
-			"latitude": 40.776013,
+			"lon": -73.910205,
+			"lat": 40.776013,
 			"type": "Pharmacy",
 			"address": "31-01 Ditmars Blvd, Astoria, NY 11105"
 		}
@@ -1390,8 +1390,8 @@
 		"pk": 127,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7631385,
-			"latitude": 41.0253201,
+			"lon": -73.7631385,
+			"lat": 41.0253201,
 			"type": "Pharmacy",
 			"address": "325 Mamaroneck Ave, White Plains, NY 10605"
 		}
@@ -1401,8 +1401,8 @@
 		"pk": 128,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.78866,
-			"latitude": 43.0785019,
+			"lon": -73.78866,
+			"lat": 43.0785019,
 			"type": "Pharmacy",
 			"address": "34 Congress St, Saratoga Springs, NY 12866"
 		}
@@ -1412,8 +1412,8 @@
 		"pk": 129,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8206535,
-			"latitude": 40.8256704,
+			"lon": -73.8206535,
+			"lat": 40.8256704,
 			"type": "Pharmacy",
 			"address": "3775 E Tremont Ave, Bronx, NY 10465"
 		}
@@ -1423,8 +1423,8 @@
 		"pk": 130,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.5936878,
-			"latitude": 40.6437379,
+			"lon": -73.5936878,
+			"lat": 40.6437379,
 			"type": "Pharmacy",
 			"address": "403 Atlantic Ave, Freeport, NY 11520"
 		}
@@ -1434,8 +1434,8 @@
 		"pk": 131,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.930517,
-			"latitude": 41.7759176,
+			"lon": -73.930517,
+			"lat": 41.7759176,
 			"type": "Pharmacy",
 			"address": "4170 Albany Post Rd, Hyde Park, NY 12538"
 		}
@@ -1445,8 +1445,8 @@
 		"pk": 132,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7083871,
-			"latitude": 40.6693276,
+			"lon": -73.7083871,
+			"lat": 40.6693276,
 			"type": "Pharmacy",
 			"address": "44 N Central Ave, Valley Stream, NY 11580"
 		}
@@ -1456,8 +1456,8 @@
 		"pk": 133,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.3083229,
-			"latitude": 40.6973936,
+			"lon": -73.3083229,
+			"lat": 40.6973936,
 			"type": "Pharmacy",
 			"address": "499 Montauk Hwy, West Islip, NY 11795"
 		}
@@ -1467,8 +1467,8 @@
 		"pk": 134,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.1296052,
-			"latitude": 41.113736,
+			"lon": -74.1296052,
+			"lat": 41.113736,
 			"type": "Pharmacy",
 			"address": "5 Indian Rock, Suffern, NY 10901"
 		}
@@ -1478,8 +1478,8 @@
 		"pk": 135,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9755189,
-			"latitude": 40.7881027,
+			"lon": -73.9755189,
+			"lat": 40.7881027,
 			"type": "Pharmacy",
 			"address": "540 Amsterdam Ave, New York, NY 10024"
 		}
@@ -1489,8 +1489,8 @@
 		"pk": 136,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7109094,
-			"latitude": 42.5975769,
+			"lon": -73.7109094,
+			"lat": 42.5975769,
 			"type": "Pharmacy",
 			"address": "598 Columbia Turnpike, East Greenbush, NY 12061"
 		}
@@ -1500,8 +1500,8 @@
 		"pk": 137,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9713866,
-			"latitude": 40.7588892,
+			"lon": -73.9713866,
+			"lat": 40.7588892,
 			"type": "Pharmacy",
 			"address": "630 Lexington Ave, New York, NY 10022"
 		}
@@ -1511,8 +1511,8 @@
 		"pk": 138,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.1630954,
-			"latitude": 40.5602505,
+			"lon": -74.1630954,
+			"lat": 40.5602505,
 			"type": "Pharmacy",
 			"address": "640 Arthur Kill Rd, Staten Island, NY 10308"
 		}
@@ -1522,8 +1522,8 @@
 		"pk": 139,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.013395,
-			"latitude": 41.0605059,
+			"lon": -74.013395,
+			"lat": 41.0605059,
 			"type": "Pharmacy",
 			"address": "75 N Middletown Rd, Pearl River, NY 10965"
 		}
@@ -1533,8 +1533,8 @@
 		"pk": 140,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.988742,
-			"latitude": 42.2938828,
+			"lon": -73.988742,
+			"lat": 42.2938828,
 			"type": "Pharmacy",
 			"address": "7600 NY-32, Cairo, NY 12413"
 		}
@@ -1544,8 +1544,8 @@
 		"pk": 141,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8719071,
-			"latitude": 40.712829,
+			"lon": -73.8719071,
+			"lat": 40.712829,
 			"type": "Pharmacy",
 			"address": "7960 Metropolitan Ave, Middle Village, NY 11379"
 		}
@@ -1555,8 +1555,8 @@
 		"pk": 142,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -74.1164356,
-			"latitude": 40.628743,
+			"lon": -74.1164356,
+			"lat": 40.628743,
 			"type": "Pharmacy",
 			"address": "812 Forest Ave, Staten Island, NY 10310"
 		}
@@ -1566,8 +1566,8 @@
 		"pk": 143,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7852942,
-			"latitude": 42.8645048,
+			"lon": -73.7852942,
+			"lat": 42.8645048,
 			"type": "Pharmacy",
 			"address": "839 NY-146, Clifton Park, NY 12065"
 		}
@@ -1577,8 +1577,8 @@
 		"pk": 144,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.7896124,
-			"latitude": 42.6809819,
+			"lon": -73.7896124,
+			"lat": 42.6809819,
 			"type": "Pharmacy",
 			"address": "885 Central Ave, Albany, NY 12206"
 		}
@@ -1588,8 +1588,8 @@
 		"pk": 145,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.8783316,
-			"latitude": 40.7565488,
+			"lon": -73.8783316,
+			"lat": 40.7565488,
 			"type": "Pharmacy",
 			"address": "89-11 Northern Blvd, Jackson Heights, NY 11372"
 		}
@@ -1599,8 +1599,8 @@
 		"pk": 146,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -77.5609233,
-			"latitude": 43.1238494,
+			"lon": -77.5609233,
+			"lat": 43.1238494,
 			"type": "Pharmacy",
 			"address": "2100 Monroe Ave, Rochester, NY 14618"
 		}
@@ -1610,8 +1610,8 @@
 		"pk": 147,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -73.9289095,
-			"latitude": 40.6343505,
+			"lon": -73.9289095,
+			"lat": 40.6343505,
 			"type": "Pharmacy",
 			"address": "4901 Kings Hwy, Brooklyn, NY 11234"
 		}
@@ -1621,8 +1621,8 @@
 		"pk": 148,
 		"fields": {
 			"name": "CVS Pharmacy",
-			"longitude": -77.7051089,
-			"latitude": 43.169724,
+			"lon": -77.7051089,
+			"lat": 43.169724,
 			"type": "Pharmacy",
 			"address": "525 Spencerport Rd, Rochester, NY 14606"
 		}
@@ -1632,8 +1632,8 @@
 		"pk": 149,
 		"fields": {
 			"name": "Dale Pharmacy & Surgical",
-			"longitude": -73.8393225,
-			"latitude": 40.695812,
+			"lon": -73.8393225,
+			"lat": 40.695812,
 			"type": "Pharmacy",
 			"address": "108-13 Jamaica Ave, Jamaica, NY 11418"
 		}
@@ -1643,8 +1643,8 @@
 		"pk": 150,
 		"fields": {
 			"name": "Dansville Police Department",
-			"longitude": -77.6957075,
-			"latitude": 42.5595555,
+			"lon": -77.6957075,
+			"lat": 42.5595555,
 			"type": "Police",
 			"address": "14 Clara Barton St, Dansville, NY 14437"
 		}
@@ -1654,8 +1654,8 @@
 		"pk": 151,
 		"fields": {
 			"name": "DEA New York Division",
-			"longitude": -75.0592438,
-			"latitude": 41.6085973,
+			"lon": -75.0592438,
+			"lat": 41.6085973,
 			"type": "Government",
 			"address": "210 Bridge St, Narrowsburg, NY 12764"
 		}
@@ -1665,8 +1665,8 @@
 		"pk": 152,
 		"fields": {
 			"name": "Degraff Memorial Hospital",
-			"longitude": -78.862146,
-			"latitude": 43.025128,
+			"lon": -78.862146,
+			"lat": 43.025128,
 			"type": "Hospital",
 			"address": "445 Tremont St, North Tonawanda, NY 14120"
 		}
@@ -1676,8 +1676,8 @@
 		"pk": 153,
 		"fields": {
 			"name": "Delco Drugs & Specialty Pharmacy",
-			"longitude": -74.1653143,
-			"latitude": 40.544795,
+			"lon": -74.1653143,
+			"lat": 40.544795,
 			"type": "Pharmacy",
 			"address": "3833 Richmond Ave, Staten Island, NY 10312"
 		}
@@ -1687,8 +1687,8 @@
 		"pk": 154,
 		"fields": {
 			"name": "Department of Family Services Robert Travis Bldg",
-			"longitude": -74.7123819,
-			"latitude": 41.795761,
+			"lon": -74.7123819,
+			"lat": 41.795761,
 			"type": "Government",
 			"address": "16 Community Ln, Liberty, NY 12754"
 		}
@@ -1698,8 +1698,8 @@
 		"pk": 155,
 		"fields": {
 			"name": "Department of Health",
-			"longitude": -73.6257954,
-			"latitude": 41.4286204,
+			"lon": -73.6257954,
+			"lat": 41.4286204,
 			"type": "Government",
 			"address": "1 Geneva Rd, Brewster, NY 10509"
 		}
@@ -1709,8 +1709,8 @@
 		"pk": 156,
 		"fields": {
 			"name": "Depew Police Department",
-			"longitude": -78.6855745,
-			"latitude": 42.9050791,
+			"lon": -78.6855745,
+			"lat": 42.9050791,
 			"type": "Police",
 			"address": "85 Manitou St, Depew, NY 14043"
 		}
@@ -1720,8 +1720,8 @@
 		"pk": 157,
 		"fields": {
 			"name": "Desais Pharmacy",
-			"longitude": -73.9000996,
-			"latitude": 40.8847499,
+			"lon": -73.9000996,
+			"lat": 40.8847499,
 			"type": "Pharmacy",
 			"address": "228 W 238th St, Bronx, NY 10463"
 		}
@@ -1731,8 +1731,8 @@
 		"pk": 158,
 		"fields": {
 			"name": "Dexter Prescription Center",
-			"longitude": -78.853687,
-			"latitude": 42.9147209,
+			"lon": -78.853687,
+			"lat": 42.9147209,
 			"type": "Pharmacy",
 			"address": "1453 Jefferson Ave, Buffalo, NY 14208"
 		}
@@ -1742,8 +1742,8 @@
 		"pk": 159,
 		"fields": {
 			"name": "Dolgeville Police Department",
-			"longitude": -74.7705087,
-			"latitude": 43.1033012,
+			"lon": -74.7705087,
+			"lat": 43.1033012,
 			"type": "Police",
 			"address": "41 N Main St, Dolgeville, NY 13329"
 		}
@@ -1753,8 +1753,8 @@
 		"pk": 160,
 		"fields": {
 			"name": "Dongan Hills Pharmacy",
-			"longitude": -74.1006801,
-			"latitude": 40.5915529,
+			"lon": -74.1006801,
+			"lat": 40.5915529,
 			"type": "Pharmacy",
 			"address": "1560 Richmond Rd, Staten Island, NY 10304"
 		}
@@ -1764,8 +1764,8 @@
 		"pk": 161,
 		"fields": {
 			"name": "Dryden Police Department",
-			"longitude": -76.2978284,
-			"latitude": 42.4895252,
+			"lon": -76.2978284,
+			"lat": 42.4895252,
 			"type": "Police",
 			"address": "16 South St, Dryden, NY 13053"
 		}
@@ -1775,8 +1775,8 @@
 		"pk": 162,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9902571,
-			"latitude": 40.734279,
+			"lon": -73.9902571,
+			"lat": 40.734279,
 			"type": "Pharmacy",
 			"address": "1 Union Square E, New York, NY 10003"
 		}
@@ -1786,8 +1786,8 @@
 		"pk": 163,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9900714,
-			"latitude": 40.7341994,
+			"lon": -73.9900714,
+			"lat": 40.7341994,
 			"type": "Pharmacy",
 			"address": "1 Union Square South, New York, NY 10003"
 		}
@@ -1797,8 +1797,8 @@
 		"pk": 164,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.8443709,
-			"latitude": 40.7204998,
+			"lon": -73.8443709,
+			"lat": 40.7204998,
 			"type": "Pharmacy",
 			"address": "107-16 71st Ave, Flushing, NY 11375"
 		}
@@ -1808,8 +1808,8 @@
 		"pk": 165,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9573556,
-			"latitude": 40.7825136,
+			"lon": -73.9573556,
+			"lat": 40.7825136,
 			"type": "Pharmacy",
 			"address": "1231 Madison Ave, New York, NY 10128"
 		}
@@ -1819,8 +1819,8 @@
 		"pk": 166,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.8296816,
-			"latitude": 40.7593762,
+			"lon": -73.8296816,
+			"lat": 40.7593762,
 			"type": "Pharmacy",
 			"address": "136-02 Roosevelt Ave, Flushing, NY 11354"
 		}
@@ -1830,8 +1830,8 @@
 		"pk": 167,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9500368,
-			"latitude": 40.7714637,
+			"lon": -73.9500368,
+			"lat": 40.7714637,
 			"type": "Pharmacy",
 			"address": "1498 York Ave, New York, NY 10075"
 		}
@@ -1841,8 +1841,8 @@
 		"pk": 168,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.978543,
-			"latitude": 40.746168,
+			"lon": -73.978543,
+			"lat": 40.746168,
 			"type": "Pharmacy",
 			"address": "155 E 34th St, New York, NY 10016"
 		}
@@ -1852,8 +1852,8 @@
 		"pk": 169,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9722813,
-			"latitude": 40.7933261,
+			"lon": -73.9722813,
+			"lat": 40.7933261,
 			"type": "Pharmacy",
 			"address": "2522 Broadway, New York, NY 10025"
 		}
@@ -1863,8 +1863,8 @@
 		"pk": 170,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9734246,
-			"latitude": 40.6780599,
+			"lon": -73.9734246,
+			"lat": 40.6780599,
 			"type": "Pharmacy",
 			"address": "296 Flatbush Ave, Brooklyn, NY 11217"
 		}
@@ -1874,8 +1874,8 @@
 		"pk": 171,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -74.0096853,
-			"latitude": 40.7069083,
+			"lon": -74.0096853,
+			"lat": 40.7069083,
 			"type": "Pharmacy",
 			"address": "40 Wall St, New York, NY 10005"
 		}
@@ -1885,8 +1885,8 @@
 		"pk": 172,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -74.0108135,
-			"latitude": 40.6450073,
+			"lon": -74.0108135,
+			"lat": 40.6450073,
 			"type": "Pharmacy",
 			"address": "5008 5th Ave, Brooklyn, NY 11220"
 		}
@@ -1896,8 +1896,8 @@
 		"pk": 173,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9790395,
-			"latitude": 40.7603402,
+			"lon": -73.9790395,
+			"lat": 40.7603402,
 			"type": "Pharmacy",
 			"address": "51 W 51st St, New York, NY 10019"
 		}
@@ -1907,8 +1907,8 @@
 		"pk": 174,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9899357,
-			"latitude": 40.7575866,
+			"lon": -73.9899357,
+			"lat": 40.7575866,
 			"type": "Pharmacy",
 			"address": "661 8th Ave, New York, NY 10036"
 		}
@@ -1918,8 +1918,8 @@
 		"pk": 175,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9922843,
-			"latitude": 40.7429529,
+			"lon": -73.9922843,
+			"lat": 40.7429529,
 			"type": "Pharmacy",
 			"address": "71 W 23rd St, New York, NY 10010"
 		}
@@ -1929,8 +1929,8 @@
 		"pk": 176,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9665724,
-			"latitude": 40.793881,
+			"lon": -73.9665724,
+			"lat": 40.793881,
 			"type": "Pharmacy",
 			"address": "775 Columbus Ave, New York, NY 10025"
 		}
@@ -1940,8 +1940,8 @@
 		"pk": 177,
 		"fields": {
 			"name": "Duane Reade",
-			"longitude": -73.9673607,
-			"latitude": 40.7599046,
+			"lon": -73.9673607,
+			"lat": 40.7599046,
 			"type": "Pharmacy",
 			"address": "949 3rd Ave, New York, NY 10022"
 		}
@@ -1951,8 +1951,8 @@
 		"pk": 178,
 		"fields": {
 			"name": "Durham Police Department",
-			"longitude": -74.1323929,
-			"latitude": 42.403044,
+			"lon": -74.1323929,
+			"lat": 42.403044,
 			"type": "Police",
 			"address": "7309 NY-81, East Durham, NY 12423"
 		}
@@ -1962,8 +1962,8 @@
 		"pk": 179,
 		"fields": {
 			"name": "Dutchess Chemists",
-			"longitude": -73.7073066,
-			"latitude": 41.8693335,
+			"lon": -73.7073066,
+			"lat": 41.8693335,
 			"type": "Pharmacy",
 			"address": "6032 NY-82, Stanfordville, NY 12581"
 		}
@@ -1973,8 +1973,8 @@
 		"pk": 180,
 		"fields": {
 			"name": "Dutchess County Sheriff's Office",
-			"longitude": -73.9214135,
-			"latitude": 41.711014,
+			"lon": -73.9214135,
+			"lat": 41.711014,
 			"type": "Police",
 			"address": "150 N Hamilton St, Poughkeepsie, NY 12601"
 		}
@@ -1984,8 +1984,8 @@
 		"pk": 181,
 		"fields": {
 			"name": "Dutchess County Sheriff's Office Pawling Substation",
-			"longitude": -73.6006802,
-			"latitude": 41.5624634,
+			"lon": -73.6006802,
+			"lat": 41.5624634,
 			"type": "Police",
 			"address": "9 Memorial Ave, Pawling, NY 12564"
 		}
@@ -1995,8 +1995,8 @@
 		"pk": 182,
 		"fields": {
 			"name": "East Aurora/Town of Aurora PD",
-			"longitude": -78.6134062,
-			"latitude": 42.7676802,
+			"lon": -78.6134062,
+			"lat": 42.7676802,
 			"type": "Police",
 			"address": "571 Main St, East Aurora, NY 14052"
 		}
@@ -2006,8 +2006,8 @@
 		"pk": 183,
 		"fields": {
 			"name": "East Fishkill Town Police",
-			"longitude": -73.7954316,
-			"latitude": 41.5532916,
+			"lon": -73.7954316,
+			"lat": 41.5532916,
 			"type": "Police",
 			"address": "2468 NY-52, Hopewell Junction, NY 12533"
 		}
@@ -2017,8 +2017,8 @@
 		"pk": 184,
 		"fields": {
 			"name": "East Greenbush Police Department",
-			"longitude": -73.7313052,
-			"latitude": 42.6173544,
+			"lon": -73.7313052,
+			"lat": 42.6173544,
 			"type": "Police",
 			"address": "225 Columbia Turnpike, Rensselaer, NY 12144"
 		}
@@ -2028,8 +2028,8 @@
 		"pk": 185,
 		"fields": {
 			"name": "East Hampton Police Department",
-			"longitude": -72.2500821,
-			"latitude": 40.9557072,
+			"lon": -72.2500821,
+			"lat": 40.9557072,
 			"type": "Police",
 			"address": "131 Wainscott NW Rd, Wainscott, NY 11975"
 		}
@@ -2039,8 +2039,8 @@
 		"pk": 186,
 		"fields": {
 			"name": "East Hampton Village Police Department",
-			"longitude": -72.1831234,
-			"latitude": 40.9693839,
+			"lon": -72.1831234,
+			"lat": 40.9693839,
 			"type": "Police",
 			"address": "1 Cedar St, East Hampton, NY 11937"
 		}
@@ -2050,8 +2050,8 @@
 		"pk": 187,
 		"fields": {
 			"name": "East Rochester Police Department",
-			"longitude": -77.4855207,
-			"latitude": 43.1125486,
+			"lon": -77.4855207,
+			"lat": 43.1125486,
 			"type": "Police",
 			"address": "317 Main St, East Rochester, NY 14445"
 		}
@@ -2061,8 +2061,8 @@
 		"pk": 188,
 		"fields": {
 			"name": "Eastchester Police Department",
-			"longitude": -73.8113961,
-			"latitude": 40.9555192,
+			"lon": -73.8113961,
+			"lat": 40.9555192,
 			"type": "Police",
 			"address": "40 Mill Rd, Eastchester, NY 10709"
 		}
@@ -2072,8 +2072,8 @@
 		"pk": 189,
 		"fields": {
 			"name": "Echo Pharmacy",
-			"longitude": -72.9987427,
-			"latitude": 40.9439452,
+			"lon": -72.9987427,
+			"lat": 40.9439452,
 			"type": "Pharmacy",
 			"address": "56 Echo Ave, Miller Place, NY 11764"
 		}
@@ -2083,8 +2083,8 @@
 		"pk": 190,
 		"fields": {
 			"name": "Ecopark",
-			"longitude": -77.697094,
-			"latitude": 43.1019043,
+			"lon": -77.697094,
+			"lat": 43.1019043,
 			"type": "Recycling Center",
 			"address": "10 Avion Dr, Rochester, NY 14624"
 		}
@@ -2094,8 +2094,8 @@
 		"pk": 191,
 		"fields": {
 			"name": "Ellicottville Pharmacy",
-			"longitude": -78.6658024,
-			"latitude": 42.2659541,
+			"lon": -78.6658024,
+			"lat": 42.2659541,
 			"type": "Pharmacy",
 			"address": "6133 US-219, Ellicottville, NY 14731"
 		}
@@ -2105,8 +2105,8 @@
 		"pk": 192,
 		"fields": {
 			"name": "Elma Town Hall",
-			"longitude": -78.6386991,
-			"latitude": 42.8144338,
+			"lon": -78.6386991,
+			"lat": 42.8144338,
 			"type": "Government",
 			"address": "1600 Bowen Rd, Elma, NY 14059"
 		}
@@ -2116,8 +2116,8 @@
 		"pk": 193,
 		"fields": {
 			"name": "Elmsford Police Department",
-			"longitude": -73.820137,
-			"latitude": 41.053533,
+			"lon": -73.820137,
+			"lat": 41.053533,
 			"type": "Police",
 			"address": "15 S Stone Ave, Elmsford, NY 10523"
 		}
@@ -2127,8 +2127,8 @@
 		"pk": 194,
 		"fields": {
 			"name": "Erie Community College Safety Office City Campus",
-			"longitude": -78.8758761,
-			"latitude": 42.8794249,
+			"lon": -78.8758761,
+			"lat": 42.8794249,
 			"type": "School",
 			"address": "121 Ellicott St, Buffalo, NY 14203"
 		}
@@ -2138,8 +2138,8 @@
 		"pk": 195,
 		"fields": {
 			"name": "Erie Community College Safety Office South Campus",
-			"longitude": -78.7981276,
-			"latitude": 42.7729759,
+			"lon": -78.7981276,
+			"lat": 42.7729759,
 			"type": "School",
 			"address": "4041 Southwestern Blvd, Orchard Park, NY 14127"
 		}
@@ -2149,8 +2149,8 @@
 		"pk": 196,
 		"fields": {
 			"name": "Erie County Medical Center",
-			"longitude": -78.8318242,
-			"latitude": 42.9264245,
+			"lon": -78.8318242,
+			"lat": 42.9264245,
 			"type": "Government",
 			"address": "462 Grider St, Buffalo, NY 14215"
 		}
@@ -2160,8 +2160,8 @@
 		"pk": 197,
 		"fields": {
 			"name": "Erie County Sheriff's Office",
-			"longitude": -78.877014,
-			"latitude": 42.887338,
+			"lon": -78.877014,
+			"lat": 42.887338,
 			"type": "Police",
 			"address": "10 Delaware Ave, Buffalo, NY 14202"
 		}
@@ -2171,8 +2171,8 @@
 		"pk": 198,
 		"fields": {
 			"name": "Erie County Sheriff's Substation Colden",
-			"longitude": -78.684927,
-			"latitude": 42.643237,
+			"lon": -78.684927,
+			"lat": 42.643237,
 			"type": "Police",
 			"address": "8812 State Rd, Colden, NY 14033"
 		}
@@ -2182,8 +2182,8 @@
 		"pk": 199,
 		"fields": {
 			"name": "Erie County Sheriff's Substation Grand Island",
-			"longitude": -78.9603392,
-			"latitude": 43.0217524,
+			"lon": -78.9603392,
+			"lat": 43.0217524,
 			"type": "Police",
 			"address": "1856 Whitehaven Rd, Grand Island, NY 14072"
 		}
@@ -2193,8 +2193,8 @@
 		"pk": 200,
 		"fields": {
 			"name": "Erie County Sheriff's Substation Springville",
-			"longitude": -78.6652703,
-			"latitude": 42.5100446,
+			"lon": -78.6652703,
+			"lat": 42.5100446,
 			"type": "Police",
 			"address": "65 Franklin St, Springville, NY 14141"
 		}
@@ -2204,8 +2204,8 @@
 		"pk": 201,
 		"fields": {
 			"name": "ErieCommunity College",
-			"longitude": -78.7218196,
-			"latitude": 42.9613654,
+			"lon": -78.7218196,
+			"lat": 42.9613654,
 			"type": "School",
 			"address": "6205 Main St, Williamsville, NY 14221"
 		}
@@ -2215,8 +2215,8 @@
 		"pk": 202,
 		"fields": {
 			"name": "Esco Drug",
-			"longitude": -73.9904178,
-			"latitude": 40.7619194,
+			"lon": -73.9904178,
+			"lat": 40.7619194,
 			"type": "Pharmacy",
 			"address": "687 9th Ave, New York, NY 10036"
 		}
@@ -2226,8 +2226,8 @@
 		"pk": 203,
 		"fields": {
 			"name": "Established Drugs",
-			"longitude": -73.9486339,
-			"latitude": 40.6434649,
+			"lon": -73.9486339,
+			"lat": 40.6434649,
 			"type": "Pharmacy",
 			"address": "3001 Clarendon Rd, Brooklyn, NY 11226"
 		}
@@ -2237,8 +2237,8 @@
 		"pk": 204,
 		"fields": {
 			"name": "Evans Municipal Center",
-			"longitude": -79.041817,
-			"latitude": 42.6464481,
+			"lon": -79.041817,
+			"lat": 42.6464481,
 			"type": "Government",
 			"address": "8787 Erie Rd #5, Angola, NY 14006"
 		}
@@ -2248,8 +2248,8 @@
 		"pk": 205,
 		"fields": {
 			"name": "Fairport Police Department",
-			"longitude": -77.4413693,
-			"latitude": 43.1005168,
+			"lon": -77.4413693,
+			"lat": 43.1005168,
 			"type": "Police",
 			"address": "31 S Main St, Fairport, NY 14450"
 		}
@@ -2259,8 +2259,8 @@
 		"pk": 206,
 		"fields": {
 			"name": "Fallsburg Police Station",
-			"longitude": -74.628702,
-			"latitude": 41.70768,
+			"lon": -74.628702,
+			"lat": 41.70768,
 			"type": "Government",
 			"address": "19 Railroad Plaza, South Fallsburg, NY 12779"
 		}
@@ -2270,8 +2270,8 @@
 		"pk": 207,
 		"fields": {
 			"name": "Family Pharmacy Plus",
-			"longitude": -78.6956636,
-			"latitude": 43.1587307,
+			"lon": -78.6956636,
+			"lat": 43.1587307,
 			"type": "Pharmacy",
 			"address": "320 S Transit St, Lockport, NY 14094"
 		}
@@ -2281,8 +2281,8 @@
 		"pk": 208,
 		"fields": {
 			"name": "Fillmore Pharmacy",
-			"longitude": -78.112299,
-			"latitude": 42.4617742,
+			"lon": -78.112299,
+			"lat": 42.4617742,
 			"type": "Pharmacy",
 			"address": "272 S Genesee St, Fillmore, NY 14735"
 		}
@@ -2292,8 +2292,8 @@
 		"pk": 209,
 		"fields": {
 			"name": "Floral Park Police Department",
-			"longitude": -73.7057204,
-			"latitude": 40.723983,
+			"lon": -73.7057204,
+			"lat": 40.723983,
 			"type": "Police",
 			"address": "1 Floral Blvd, Floral Park, NY 11001"
 		}
@@ -2303,8 +2303,8 @@
 		"pk": 210,
 		"fields": {
 			"name": "Floral Park Police Department",
-			"longitude": -73.7315829,
-			"latitude": 40.7773752,
+			"lon": -73.7315829,
+			"lat": 40.7773752,
 			"type": "Police",
 			"address": "Great Neck Rd, North Hempstead, NY 11021"
 		}
@@ -2314,8 +2314,8 @@
 		"pk": 211,
 		"fields": {
 			"name": "Fort Edward Police Department",
-			"longitude": -73.579773,
-			"latitude": 43.2636867,
+			"lon": -73.579773,
+			"lat": 43.2636867,
 			"type": "Police",
 			"address": "118 Broadway, Fort Edward, NY 12828"
 		}
@@ -2325,8 +2325,8 @@
 		"pk": 212,
 		"fields": {
 			"name": "Foxcare Pharmacy",
-			"longitude": -75.0291695,
-			"latitude": 42.456269,
+			"lon": -75.0291695,
+			"lat": 42.456269,
 			"type": "Pharmacy",
 			"address": "1 Foxcare Dr, Oneonta, NY 13820"
 		}
@@ -2336,8 +2336,8 @@
 		"pk": 213,
 		"fields": {
 			"name": "Franco Pharmacy",
-			"longitude": -73.8887837,
-			"latitude": 40.749456,
+			"lon": -73.8887837,
+			"lat": 40.749456,
 			"type": "Pharmacy",
 			"address": "77-01 37th Ave, Flushing, NY 11372"
 		}
@@ -2347,8 +2347,8 @@
 		"pk": 214,
 		"fields": {
 			"name": "Franhill Pharmacy",
-			"longitude": -73.7607992,
-			"latitude": 40.7210754,
+			"lon": -73.7607992,
+			"lat": 40.7210754,
 			"type": "Pharmacy",
 			"address": "204-19 Hillside Avenue, Hollis, NY 11423"
 		}
@@ -2358,8 +2358,8 @@
 		"pk": 215,
 		"fields": {
 			"name": "Franklin County Sheriff's Office",
-			"longitude": -74.3182999,
-			"latitude": 44.869814,
+			"lon": -74.3182999,
+			"lat": 44.869814,
 			"type": "Police",
 			"address": "45 Bare Hill Rd, Malone, NY 12953"
 		}
@@ -2369,8 +2369,8 @@
 		"pk": 216,
 		"fields": {
 			"name": "Franklin Square Pharmacy",
-			"longitude": -73.6746831,
-			"latitude": 40.7071075,
+			"lon": -73.6746831,
+			"lat": 40.7071075,
 			"type": "Pharmacy",
 			"address": "925 Hempstead Turnpike, Franklin Square, NY 11010"
 		}
@@ -2380,8 +2380,8 @@
 		"pk": 217,
 		"fields": {
 			"name": "Frederick Ferris Thompson Hos",
-			"longitude": -77.2897296,
-			"latitude": 42.8762316,
+			"lon": -77.2897296,
+			"lat": 42.8762316,
 			"type": "Hospital",
 			"address": "350 Parrish St, Canandaigua, NY 14424"
 		}
@@ -2391,8 +2391,8 @@
 		"pk": 218,
 		"fields": {
 			"name": "Fulton County Sheriff Office",
-			"longitude": -74.3490858,
-			"latitude": 43.018037,
+			"lon": -74.3490858,
+			"lat": 43.018037,
 			"type": "Police",
 			"address": "2712 NY-29, Johnstown, NY 12095"
 		}
@@ -2402,8 +2402,8 @@
 		"pk": 219,
 		"fields": {
 			"name": "Galens Pharmacy",
-			"longitude": -76.8721411,
-			"latitude": 43.0825038,
+			"lon": -76.8721411,
+			"lat": 43.0825038,
 			"type": "Pharmacy",
 			"address": "17 Sodus St, Clyde, NY 14433"
 		}
@@ -2413,8 +2413,8 @@
 		"pk": 220,
 		"fields": {
 			"name": "Garden City Police Department",
-			"longitude": -73.6368128,
-			"latitude": 40.7265409,
+			"lon": -73.6368128,
+			"lat": 40.7265409,
 			"type": "Police",
 			"address": "349 Stewart Ave, Garden City, NY 11530"
 		}
@@ -2424,8 +2424,8 @@
 		"pk": 221,
 		"fields": {
 			"name": "Gates Police Dept",
-			"longitude": -77.6939461,
-			"latitude": 43.1487544,
+			"lon": -77.6939461,
+			"lat": 43.1487544,
 			"type": "Police",
 			"address": "1605 Buffalo Rd, Rochester, NY 14624"
 		}
@@ -2435,8 +2435,8 @@
 		"pk": 222,
 		"fields": {
 			"name": "Geddes Police Department",
-			"longitude": -76.2121443,
-			"latitude": 43.0606055,
+			"lon": -76.2121443,
+			"lat": 43.0606055,
 			"type": "Police",
 			"address": "1000 Woods Rd, Solvay, NY 13209"
 		}
@@ -2446,8 +2446,8 @@
 		"pk": 223,
 		"fields": {
 			"name": "Genesee County Sheriff's Office",
-			"longitude": -78.1992786,
-			"latitude": 43.0148533,
+			"lon": -78.1992786,
+			"lat": 43.0148533,
 			"type": "Police",
 			"address": "165 Park Rd, Batavia, NY 14020"
 		}
@@ -2457,8 +2457,8 @@
 		"pk": 224,
 		"fields": {
 			"name": "Geneva Police Department",
-			"longitude": -76.9787976,
-			"latitude": 42.8711652,
+			"lon": -76.9787976,
+			"lat": 42.8711652,
 			"type": "Police",
 			"address": "255 Exchange St, Geneva, NY 14456"
 		}
@@ -2468,8 +2468,8 @@
 		"pk": 225,
 		"fields": {
 			"name": "Gerould's Prof Pharmacy",
-			"longitude": -76.822857,
-			"latitude": 42.085105,
+			"lon": -76.822857,
+			"lat": 42.085105,
 			"type": "Pharmacy",
 			"address": "215 Hoffman St, Elmira, NY 14905"
 		}
@@ -2479,8 +2479,8 @@
 		"pk": 226,
 		"fields": {
 			"name": "Glen Cove Police Department",
-			"longitude": -73.6314988,
-			"latitude": 40.8631802,
+			"lon": -73.6314988,
+			"lat": 40.8631802,
 			"type": "Police",
 			"address": "1 Bridge St, Glen Cove, NY 11542"
 		}
@@ -2490,8 +2490,8 @@
 		"pk": 227,
 		"fields": {
 			"name": "Glens Falls Police Department",
-			"longitude": -73.6443307,
-			"latitude": 43.3108637,
+			"lon": -73.6443307,
+			"lat": 43.3108637,
 			"type": "Police",
 			"address": "42 Ridge St, Glens Falls, NY 12801"
 		}
@@ -2501,8 +2501,8 @@
 		"pk": 228,
 		"fields": {
 			"name": "Gloversville Police Department",
-			"longitude": -74.3493081,
-			"latitude": 43.0519693,
+			"lon": -74.3493081,
+			"lat": 43.0519693,
 			"type": "Police",
 			"address": "3 Frontage Rd, Gloversville, NY 12078"
 		}
@@ -2512,8 +2512,8 @@
 		"pk": 229,
 		"fields": {
 			"name": "Goshen Police Department",
-			"longitude": -74.3263382,
-			"latitude": 41.402036,
+			"lon": -74.3263382,
+			"lat": 41.402036,
 			"type": "Police",
 			"address": "1 Grand St, Goshen, NY 10924"
 		}
@@ -2523,8 +2523,8 @@
 		"pk": 230,
 		"fields": {
 			"name": "Gouverneur Hospital",
-			"longitude": -75.4742644,
-			"latitude": 44.3376121,
+			"lon": -75.4742644,
+			"lat": 44.3376121,
 			"type": "Hospital",
 			"address": "77 W Barney St, Gouverneur, NY 13642"
 		}
@@ -2534,8 +2534,8 @@
 		"pk": 231,
 		"fields": {
 			"name": "Gowanda Village Municipal Building",
-			"longitude": -78.9324926,
-			"latitude": 42.4624474,
+			"lon": -78.9324926,
+			"lat": 42.4624474,
 			"type": "Police",
 			"address": "27 E Main St, Gowanda, NY 14070"
 		}
@@ -2545,8 +2545,8 @@
 		"pk": 232,
 		"fields": {
 			"name": "Grand Island Police Dept",
-			"longitude": -78.9651682,
-			"latitude": 43.0228915,
+			"lon": -78.9651682,
+			"lat": 43.0228915,
 			"type": "Police",
 			"address": "2255 Baseline Rd, Grand Island, NY 14072"
 		}
@@ -2556,8 +2556,8 @@
 		"pk": 233,
 		"fields": {
 			"name": "Grand Island Town Hall",
-			"longitude": -78.978555,
-			"latitude": 43.095818,
+			"lon": -78.978555,
+			"lat": 43.095818,
 			"type": "Government",
 			"address": "1560 Military Rd, Niagara Falls, NY 14304"
 		}
@@ -2567,8 +2567,8 @@
 		"pk": 234,
 		"fields": {
 			"name": "Granville Police Department",
-			"longitude": -73.266388,
-			"latitude": 43.402151,
+			"lon": -73.266388,
+			"lat": 43.402151,
 			"type": "Police",
 			"address": "51 Quaker St, Granville, NY 12832"
 		}
@@ -2578,8 +2578,8 @@
 		"pk": 235,
 		"fields": {
 			"name": "Greece Police Department",
-			"longitude": -77.6978548,
-			"latitude": 43.2577179,
+			"lon": -77.6978548,
+			"lat": 43.2577179,
 			"type": "Police",
 			"address": "6 Vince Tofany Blvd, Rochester, NY 14612"
 		}
@@ -2589,8 +2589,8 @@
 		"pk": 236,
 		"fields": {
 			"name": "Greenburgh Police Department",
-			"longitude": -73.7884634,
-			"latitude": 41.0412134,
+			"lon": -73.7884634,
+			"lat": 41.0412134,
 			"type": "Police",
 			"address": "188 Tarrytown Rd, White Plains, NY 10607"
 		}
@@ -2600,8 +2600,8 @@
 		"pk": 237,
 		"fields": {
 			"name": "Greene County Sheriff's Office",
-			"longitude": -73.8639135,
-			"latitude": 42.2175391,
+			"lon": -73.8639135,
+			"lat": 42.2175391,
 			"type": "Police",
 			"address": "80 Bridge St, Catskill, NY 12414"
 		}
@@ -2611,8 +2611,8 @@
 		"pk": 238,
 		"fields": {
 			"name": "Greenfield Pharmacy",
-			"longitude": -73.9636034,
-			"latitude": 40.6413127,
+			"lon": -73.9636034,
+			"lat": 40.6413127,
 			"type": "Pharmacy",
 			"address": "1526 Cortelyou Rd, Brooklyn, NY 11226"
 		}
@@ -2622,8 +2622,8 @@
 		"pk": 239,
 		"fields": {
 			"name": "Greenvale Pharmacy",
-			"longitude": -73.629636,
-			"latitude": 40.8093812,
+			"lon": -73.629636,
+			"lat": 40.8093812,
 			"type": "Pharmacy",
 			"address": "5 Northern Blvd, Greenvale, NY 11548"
 		}
@@ -2633,8 +2633,8 @@
 		"pk": 240,
 		"fields": {
 			"name": "Greenwich Police Department",
-			"longitude": -73.5030424,
-			"latitude": 43.0914973,
+			"lon": -73.5030424,
+			"lat": 43.0914973,
 			"type": "Police",
 			"address": "6 Academy St, Greenwich, NY 12834"
 		}
@@ -2644,8 +2644,8 @@
 		"pk": 241,
 		"fields": {
 			"name": "Groton Police Department",
-			"longitude": -76.36712,
-			"latitude": 42.5905345,
+			"lon": -76.36712,
+			"lat": 42.5905345,
 			"type": "Police",
 			"address": "108 E Cortland St, Groton, NY 13073"
 		}
@@ -2655,8 +2655,8 @@
 		"pk": 242,
 		"fields": {
 			"name": "Hammondsport Police Department",
-			"longitude": -77.219264,
-			"latitude": 42.41024,
+			"lon": -77.219264,
+			"lat": 42.41024,
 			"type": "Police",
 			"address": "18 Water St, Hammondsport, NY 14840"
 		}
@@ -2666,8 +2666,8 @@
 		"pk": 243,
 		"fields": {
 			"name": "Harpell Chemists",
-			"longitude": -73.8136358,
-			"latitude": 40.7889973,
+			"lon": -73.8136358,
+			"lat": 40.7889973,
 			"type": "Pharmacy",
 			"address": "12-65 150th St, Flushing, NY 11357"
 		}
@@ -2677,8 +2677,8 @@
 		"pk": 244,
 		"fields": {
 			"name": "Harrison Police Department",
-			"longitude": -73.7242026,
-			"latitude": 40.9977761,
+			"lon": -73.7242026,
+			"lat": 40.9977761,
 			"type": "Police",
 			"address": "650 North St, Harrison, NY 10528"
 		}
@@ -2688,8 +2688,8 @@
 		"pk": 245,
 		"fields": {
 			"name": "Hastings-on-Hudson Police Department",
-			"longitude": -73.883751,
-			"latitude": 40.995749,
+			"lon": -73.883751,
+			"lat": 40.995749,
 			"type": "Police",
 			"address": "7 Maple Ave #1, Hastings-On-Hudson, NY 10706"
 		}
@@ -2699,8 +2699,8 @@
 		"pk": 246,
 		"fields": {
 			"name": "Healthsmart",
-			"longitude": -73.861892,
-			"latitude": 41.1621126,
+			"lon": -73.861892,
+			"lat": 41.1621126,
 			"type": "Pharmacy",
 			"address": "203 Main St, Ossining, NY 10562"
 		}
@@ -2710,8 +2710,8 @@
 		"pk": 247,
 		"fields": {
 			"name": "Herbst Pharmacy",
-			"longitude": -76.6234166,
-			"latitude": 43.035172,
+			"lon": -76.6234166,
+			"lat": 43.035172,
 			"type": "Pharmacy",
 			"address": "1 Church St, Port Byron, NY 13140"
 		}
@@ -2721,8 +2721,8 @@
 		"pk": 248,
 		"fields": {
 			"name": "Herkimer County Sheriff's Office",
-			"longitude": -74.9885585,
-			"latitude": 43.0287228,
+			"lon": -74.9885585,
+			"lat": 43.0287228,
 			"type": "Police",
 			"address": "320 N Main St #2900, Herkimer, NY 13350"
 		}
@@ -2732,8 +2732,8 @@
 		"pk": 249,
 		"fields": {
 			"name": "Herkimer Police Department",
-			"longitude": -74.985866,
-			"latitude": 43.0272227,
+			"lon": -74.985866,
+			"lat": 43.0272227,
 			"type": "Police",
 			"address": "120 Green St, Herkimer, NY 13350"
 		}
@@ -2743,8 +2743,8 @@
 		"pk": 250,
 		"fields": {
 			"name": "Highland Falls Police Department",
-			"longitude": -73.9653155,
-			"latitude": 41.3705452,
+			"lon": -73.9653155,
+			"lat": 41.3705452,
 			"type": "Police",
 			"address": "301 Main St, Highland Falls, NY 10928"
 		}
@@ -2754,8 +2754,8 @@
 		"pk": 251,
 		"fields": {
 			"name": "Holland Town Hall",
-			"longitude": -78.5422609,
-			"latitude": 42.6428619,
+			"lon": -78.5422609,
+			"lat": 42.6428619,
 			"type": "Government",
 			"address": "47 Pearl St, Holland, NY 14080"
 		}
@@ -2765,8 +2765,8 @@
 		"pk": 252,
 		"fields": {
 			"name": "Holley Fire Department",
-			"longitude": -78.0255222,
-			"latitude": 43.2243654,
+			"lon": -78.0255222,
+			"lat": 43.2243654,
 			"type": "Police",
 			"address": "7 Thomas St, Holley, NY 14470"
 		}
@@ -2776,8 +2776,8 @@
 		"pk": 253,
 		"fields": {
 			"name": "Horseheads Police Department",
-			"longitude": -76.8206933,
-			"latitude": 42.1668176,
+			"lon": -76.8206933,
+			"lat": 42.1668176,
 			"type": "Police",
 			"address": "202 S Main St, Horseheads, NY 14845"
 		}
@@ -2787,8 +2787,8 @@
 		"pk": 254,
 		"fields": {
 			"name": "Hudson Falls Police Department",
-			"longitude": -73.5846096,
-			"latitude": 43.3028937,
+			"lon": -73.5846096,
+			"lat": 43.3028937,
 			"type": "Police",
 			"address": "218 Main St, Hudson Falls, NY 12839"
 		}
@@ -2798,8 +2798,8 @@
 		"pk": 255,
 		"fields": {
 			"name": "Hudson Square Pharmacy",
-			"longitude": -74.0080699,
-			"latitude": 40.7276924,
+			"lon": -74.0080699,
+			"lat": 40.7276924,
 			"type": "Pharmacy",
 			"address": "345 Hudson St, New York, NY 10014"
 		}
@@ -2809,8 +2809,8 @@
 		"pk": 256,
 		"fields": {
 			"name": "I & O Pharmacy",
-			"longitude": -73.9515473,
-			"latitude": 40.724703,
+			"lon": -73.9515473,
+			"lat": 40.724703,
 			"type": "Pharmacy",
 			"address": "669 Manhattan Ave, Brooklyn, NY 11222"
 		}
@@ -2820,8 +2820,8 @@
 		"pk": 257,
 		"fields": {
 			"name": "Ilion Police Department",
-			"longitude": -75.0374079,
-			"latitude": 43.0143321,
+			"lon": -75.0374079,
+			"lat": 43.0143321,
 			"type": "Police",
 			"address": "55 First Street, Ilion, NY 13357"
 		}
@@ -2831,8 +2831,8 @@
 		"pk": 258,
 		"fields": {
 			"name": "Irondequoit Police Department",
-			"longitude": -77.5817049,
-			"latitude": 43.2125938,
+			"lon": -77.5817049,
+			"lat": 43.2125938,
 			"type": "Police",
 			"address": "1300 Titus Ave, Irondequoit, NY 14617"
 		}
@@ -2842,8 +2842,8 @@
 		"pk": 259,
 		"fields": {
 			"name": "Isla Drugs Stores",
-			"longitude": -73.943261,
-			"latitude": 40.7939477,
+			"lon": -73.943261,
+			"lat": 40.7939477,
 			"type": "Pharmacy",
 			"address": "1994 3rd Ave, New York, NY 10029"
 		}
@@ -2853,8 +2853,8 @@
 		"pk": 260,
 		"fields": {
 			"name": "Islip Pharmacy and Surgical",
-			"longitude": -73.2153704,
-			"latitude": 40.7289469,
+			"lon": -73.2153704,
+			"lat": 40.7289469,
 			"type": "Pharmacy",
 			"address": "437 Main St, Islip, NY 11751"
 		}
@@ -2864,8 +2864,8 @@
 		"pk": 261,
 		"fields": {
 			"name": "Ithaca Police Department",
-			"longitude": -76.4975558,
-			"latitude": 42.437198,
+			"lon": -76.4975558,
+			"lat": 42.437198,
 			"type": "Police",
 			"address": "120 E Clinton St, Ithaca, NY 14850"
 		}
@@ -2875,8 +2875,8 @@
 		"pk": 262,
 		"fields": {
 			"name": "J & D Chemists",
-			"longitude": -73.7238234,
-			"latitude": 40.652467,
+			"lon": -73.7238234,
+			"lat": 40.652467,
 			"type": "Pharmacy",
 			"address": "945 Rosedale Rd, Valley Stream, NY 11581"
 		}
@@ -2886,8 +2886,8 @@
 		"pk": 263,
 		"fields": {
 			"name": "J A K Pharma",
-			"longitude": -73.8887257,
-			"latitude": 40.8545503,
+			"lon": -73.8887257,
+			"lat": 40.8545503,
 			"type": "Pharmacy",
 			"address": "2343 Arthur Ave, Bronx, NY 10458"
 		}
@@ -2897,8 +2897,8 @@
 		"pk": 264,
 		"fields": {
 			"name": "J Rutowski & Sons",
-			"longitude": -78.1327476,
-			"latitude": 42.741437,
+			"lon": -78.1327476,
+			"lat": 42.741437,
 			"type": "Pharmacy",
 			"address": "75 N Main St, Warsaw, NY 14569"
 		}
@@ -2908,8 +2908,8 @@
 		"pk": 265,
 		"fields": {
 			"name": "Jamestown Police Department",
-			"longitude": -79.2381007,
-			"latitude": 42.0961665,
+			"lon": -79.2381007,
+			"lat": 42.0961665,
 			"type": "Police",
 			"address": "201 E 2nd St, Jamestown, NY 14701"
 		}
@@ -2919,8 +2919,8 @@
 		"pk": 266,
 		"fields": {
 			"name": "Jefferson County Sheriff's Department",
-			"longitude": -75.9277097,
-			"latitude": 43.9727741,
+			"lon": -75.9277097,
+			"lat": 43.9727741,
 			"type": "Police",
 			"address": "753 Waterman Dr, Watertown, NY 13601"
 		}
@@ -2930,8 +2930,8 @@
 		"pk": 267,
 		"fields": {
 			"name": "Jefferson Pharmacy",
-			"longitude": -74.9353014,
-			"latitude": 41.7799207,
+			"lon": -74.9353014,
+			"lat": 41.7799207,
 			"type": "Government",
 			"address": "4892 E Main St, Jeffersonville, NY 12748"
 		}
@@ -2941,8 +2941,8 @@
 		"pk": 268,
 		"fields": {
 			"name": "Johnson City Elks",
-			"longitude": -75.9909216,
-			"latitude": 42.1196159,
+			"lon": -75.9909216,
+			"lat": 42.1196159,
 			"type": "Police",
 			"address": "4212 Watson Blvd, Johnson City, NY 13790"
 		}
@@ -2952,8 +2952,8 @@
 		"pk": 269,
 		"fields": {
 			"name": "Jordan Police Department",
-			"longitude": -76.4722595,
-			"latitude": 43.0656545,
+			"lon": -76.4722595,
+			"lat": 43.0656545,
 			"type": "Police",
 			"address": "7 Mechanic St, Jordan, NY 13080"
 		}
@@ -2963,8 +2963,8 @@
 		"pk": 270,
 		"fields": {
 			"name": "Keezac Pharmacy",
-			"longitude": -73.5274708,
-			"latitude": 40.6697926,
+			"lon": -73.5274708,
+			"lat": 40.6697926,
 			"type": "Pharmacy",
 			"address": "109 Bedford Ave, Bellmore, NY 11710"
 		}
@@ -2974,8 +2974,8 @@
 		"pk": 271,
 		"fields": {
 			"name": "Kelly's Pharmacy",
-			"longitude": -73.8335148,
-			"latitude": 42.3624931,
+			"lon": -73.8335148,
+			"lat": 42.3624931,
 			"type": "Pharmacy",
 			"address": "34 Hope Plaza, Coxsackie, NY 12192"
 		}
@@ -2985,8 +2985,8 @@
 		"pk": 272,
 		"fields": {
 			"name": "Kelly's Pharmacy",
-			"longitude": -74.0211436,
-			"latitude": 42.4155595,
+			"lon": -74.0211436,
+			"lat": 42.4155595,
 			"type": "Pharmacy",
 			"address": "4852 NY-81, Greenville, NY 12083"
 		}
@@ -2996,8 +2996,8 @@
 		"pk": 273,
 		"fields": {
 			"name": "Kenmore Mercy Hospital",
-			"longitude": -78.8799441,
-			"latitude": 42.9776518,
+			"lon": -78.8799441,
+			"lat": 42.9776518,
 			"type": "Hospital",
 			"address": "2950 Elmwood Ave, Kenmore, NY 14217"
 		}
@@ -3007,8 +3007,8 @@
 		"pk": 274,
 		"fields": {
 			"name": "Kenmore Police Department",
-			"longitude": -78.8782763,
-			"latitude": 42.9624849,
+			"lon": -78.8782763,
+			"lat": 42.9624849,
 			"type": "Police",
 			"address": "2395 Elmwood Ave, Kenmore, NY 14217"
 		}
@@ -3018,8 +3018,8 @@
 		"pk": 275,
 		"fields": {
 			"name": "Kent Police Department",
-			"longitude": -73.670469,
-			"latitude": 41.4796698,
+			"lon": -73.670469,
+			"lat": 41.4796698,
 			"type": "Police",
 			"address": "25 Sybils Crossing, Carmel Hamlet, NY 10512"
 		}
@@ -3029,8 +3029,8 @@
 		"pk": 276,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -72.9232114,
-			"latitude": 40.8881898,
+			"lon": -72.9232114,
+			"lat": 40.8881898,
 			"type": "Pharmacy",
 			"address": "1235 Middle Country Rd, Middle Island, NY 11953"
 		}
@@ -3040,8 +3040,8 @@
 		"pk": 277,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -72.481546,
-			"latitude": 41.019717,
+			"lon": -72.481546,
+			"lat": 41.019717,
 			"type": "Pharmacy",
 			"address": "315-25 Main Rd, Cutchogue, NY 11935"
 		}
@@ -3051,8 +3051,8 @@
 		"pk": 278,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -73.51533,
-			"latitude": 40.7245907,
+			"lon": -73.51533,
+			"lat": 40.7245907,
 			"type": "Pharmacy",
 			"address": "3284 Hempstead Turnpike, Levittown, NY 11756"
 		}
@@ -3062,8 +3062,8 @@
 		"pk": 279,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -73.029113,
-			"latitude": 40.7610834,
+			"lon": -73.029113,
+			"lat": 40.7610834,
 			"type": "Pharmacy",
 			"address": "440 Montauk Hwy, Patchogue, NY 11772"
 		}
@@ -3073,8 +3073,8 @@
 		"pk": 280,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -72.7947568,
-			"latitude": 40.867395,
+			"lon": -72.7947568,
+			"lat": 40.867395,
 			"type": "Pharmacy",
 			"address": "460 County Rd 111 #12, Manorville, NY 11949"
 		}
@@ -3084,8 +3084,8 @@
 		"pk": 281,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -73.4158341,
-			"latitude": 40.8874365,
+			"lon": -73.4158341,
+			"lat": 40.8874365,
 			"type": "Pharmacy",
 			"address": "50 New York Ave, Halesite, NY 11743"
 		}
@@ -3095,8 +3095,8 @@
 		"pk": 282,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -73.031558,
-			"latitude": 40.9310684,
+			"lon": -73.031558,
+			"lat": 40.9310684,
 			"type": "Pharmacy",
 			"address": "5507 Nesconset Hwy, Mt Sinai, NY 11766"
 		}
@@ -3106,8 +3106,8 @@
 		"pk": 283,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -72.7994112,
-			"latitude": 40.7993625,
+			"lon": -72.7994112,
+			"lat": 40.7993625,
 			"type": "Pharmacy",
 			"address": "552 Montauk Hwy, Center Moriches, NY 11934"
 		}
@@ -3117,8 +3117,8 @@
 		"pk": 284,
 		"fields": {
 			"name": "King Kullen Pharmacy",
-			"longitude": -73.4810883,
-			"latitude": 40.7441427,
+			"lon": -73.4810883,
+			"lat": 40.7441427,
 			"type": "Pharmacy",
 			"address": "598 Stewart Ave, Bethpage, NY 11714"
 		}
@@ -3128,8 +3128,8 @@
 		"pk": 285,
 		"fields": {
 			"name": "King's Tribeca Pharmacy",
-			"longitude": -74.0095405,
-			"latitude": 40.7161264,
+			"lon": -74.0095405,
+			"lat": 40.7161264,
 			"type": "Pharmacy",
 			"address": "5 Hudson St, New York, NY 10013"
 		}
@@ -3139,8 +3139,8 @@
 		"pk": 286,
 		"fields": {
 			"name": "Kings Point Police Department",
-			"longitude": -73.7550741,
-			"latitude": 40.8149567,
+			"lon": -73.7550741,
+			"lat": 40.8149567,
 			"type": "Police",
 			"address": "32 Stepping Stone Ln, Great Neck, NY 11024"
 		}
@@ -3150,8 +3150,8 @@
 		"pk": 287,
 		"fields": {
 			"name": "Kingston Police Department",
-			"longitude": -73.9855281,
-			"latitude": 41.9210145,
+			"lon": -73.9855281,
+			"lat": 41.9210145,
 			"type": "Police",
 			"address": "1 Garraghan Dr, Kingston, NY 12401"
 		}
@@ -3161,8 +3161,8 @@
 		"pk": 288,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.130625,
-			"latitude": 43.0012075,
+			"lon": -76.130625,
+			"lat": 43.0012075,
 			"type": "Pharmacy",
 			"address": "104 Lafayette Rd, Syracuse, NY 13205"
 		}
@@ -3172,8 +3172,8 @@
 		"pk": 289,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -75.3828436,
-			"latitude": 43.0468792,
+			"lon": -75.3828436,
+			"lat": 43.0468792,
 			"type": "Pharmacy",
 			"address": "12 Franklin Ave, Clinton, NY 13323"
 		}
@@ -3183,8 +3183,8 @@
 		"pk": 290,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.1056286,
-			"latitude": 43.0685803,
+			"lon": -76.1056286,
+			"lat": 43.0685803,
 			"type": "Pharmacy",
 			"address": "2912 James St, Syracuse, NY 13206"
 		}
@@ -3194,8 +3194,8 @@
 		"pk": 291,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.1106129,
-			"latitude": 43.028819,
+			"lon": -76.1106129,
+			"lat": 43.028819,
 			"type": "Pharmacy",
 			"address": "307 Nottingham Rd, Syracuse, NY 13210"
 		}
@@ -3205,8 +3205,8 @@
 		"pk": 292,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.3303406,
-			"latitude": 43.1591646,
+			"lon": -76.3303406,
+			"lat": 43.1591646,
 			"type": "Pharmacy",
 			"address": "31 E Genesee St, Baldwinsville, NY 13027"
 		}
@@ -3216,8 +3216,8 @@
 		"pk": 293,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.12266,
-			"latitude": 43.559594,
+			"lon": -76.12266,
+			"lat": 43.559594,
 			"type": "Pharmacy",
 			"address": "3873 Rome Rd, Pulaski, NY 13142"
 		}
@@ -3227,8 +3227,8 @@
 		"pk": 294,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.149593,
-			"latitude": 43.0584194,
+			"lon": -76.149593,
+			"lat": 43.0584194,
 			"type": "Pharmacy",
 			"address": "406 Butternut St, Syracuse, NY 13208"
 		}
@@ -3238,8 +3238,8 @@
 		"pk": 295,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -75.8651056,
-			"latitude": 43.0532177,
+			"lon": -75.8651056,
+			"lat": 43.0532177,
 			"type": "Pharmacy",
 			"address": "540 Genesee St, Chittenango, NY 13037"
 		}
@@ -3249,8 +3249,8 @@
 		"pk": 296,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.5570194,
-			"latitude": 42.9300798,
+			"lon": -76.5570194,
+			"lat": 42.9300798,
 			"type": "Pharmacy",
 			"address": "62 Owasco St, Auburn, NY 13021"
 		}
@@ -3260,8 +3260,8 @@
 		"pk": 297,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -76.0923142,
-			"latitude": 43.1664568,
+			"lon": -76.0923142,
+			"lat": 43.1664568,
 			"type": "Pharmacy",
 			"address": "8150 Thompson Rd, Cicero, NY 13039"
 		}
@@ -3271,8 +3271,8 @@
 		"pk": 298,
 		"fields": {
 			"name": "Kinney Drugs",
-			"longitude": -75.9313543,
-			"latitude": 43.9839508,
+			"lon": -75.9313543,
+			"lat": 43.9839508,
 			"type": "Pharmacy",
 			"address": "905 Coffeen St, Watertown, NY 13601"
 		}
@@ -3282,8 +3282,8 @@
 		"pk": 299,
 		"fields": {
 			"name": "Lackawanna Police Department",
-			"longitude": -78.8251575,
-			"latitude": 42.826158,
+			"lon": -78.8251575,
+			"lat": 42.826158,
 			"type": "Police",
 			"address": "714 Ridge Rd, Buffalo, NY 14218"
 		}
@@ -3293,8 +3293,8 @@
 		"pk": 300,
 		"fields": {
 			"name": "Lancaster Police Department",
-			"longitude": -78.6227616,
-			"latitude": 42.9293298,
+			"lon": -78.6227616,
+			"lat": 42.9293298,
 			"type": "Police",
 			"address": "529 Pavement Rd, Lancaster, NY 14086"
 		}
@@ -3304,8 +3304,8 @@
 		"pk": 301,
 		"fields": {
 			"name": "Larchmont Police Department",
-			"longitude": -73.7515091,
-			"latitude": 40.927252,
+			"lon": -73.7515091,
+			"lat": 40.927252,
 			"type": "Police",
 			"address": "120 Larchmont Ave, Larchmont, NY 10538"
 		}
@@ -3315,8 +3315,8 @@
 		"pk": 302,
 		"fields": {
 			"name": "Larwood Pharmacy",
-			"longitude": -78.612384,
-			"latitude": 42.7648586,
+			"lon": -78.612384,
+			"lat": 42.7648586,
 			"type": "Pharmacy",
 			"address": "597 Oakwood Ave, East Aurora, NY 14052"
 		}
@@ -3326,8 +3326,8 @@
 		"pk": 303,
 		"fields": {
 			"name": "Lenox Hill Hospital",
-			"longitude": -73.9607736,
-			"latitude": 40.7738805,
+			"lon": -73.9607736,
+			"lat": 40.7738805,
 			"type": "Hospital",
 			"address": "100 E 77th St, New York, NY 10075"
 		}
@@ -3337,8 +3337,8 @@
 		"pk": 304,
 		"fields": {
 			"name": "Leroy Police Department",
-			"longitude": -77.9923019,
-			"latitude": 42.9776465,
+			"lon": -77.9923019,
+			"lat": 42.9776465,
 			"type": "Police",
 			"address": "New York State Bicycle Rte 19 A & W Main St, Le Roy, NY 14482"
 		}
@@ -3348,8 +3348,8 @@
 		"pk": 305,
 		"fields": {
 			"name": "Lewisboro Police Department",
-			"longitude": -73.566878,
-			"latitude": 41.281385,
+			"lon": -73.566878,
+			"lat": 41.281385,
 			"type": "Police",
 			"address": "79 Bouton Rd, South Salem, NY 10590"
 		}
@@ -3359,8 +3359,8 @@
 		"pk": 306,
 		"fields": {
 			"name": "Lewiston Police Department",
-			"longitude": -79.0172243,
-			"latitude": 43.2180246,
+			"lon": -79.0172243,
+			"lat": 43.2180246,
 			"type": "Police",
 			"address": "4059 Creek Rd, Youngstown, NY 14174"
 		}
@@ -3370,8 +3370,8 @@
 		"pk": 307,
 		"fields": {
 			"name": "Liberty Police Department",
-			"longitude": -74.7468284,
-			"latitude": 41.8022332,
+			"lon": -74.7468284,
+			"lat": 41.8022332,
 			"type": "Government",
 			"address": "159 N Main St, Liberty, NY 12754"
 		}
@@ -3381,8 +3381,8 @@
 		"pk": 308,
 		"fields": {
 			"name": "Lima Village Pharmacy",
-			"longitude": -77.6119716,
-			"latitude": 42.9045638,
+			"lon": -77.6119716,
+			"lat": 42.9045638,
 			"type": "Pharmacy",
 			"address": "7298 W Main St, Lima, NY 14485"
 		}
@@ -3392,8 +3392,8 @@
 		"pk": 309,
 		"fields": {
 			"name": "Lincoln Pharmacy",
-			"longitude": -73.7714706,
-			"latitude": 42.645327,
+			"lon": -73.7714706,
+			"lat": 42.645327,
 			"type": "Pharmacy",
 			"address": "300 Morton Ave, Albany, NY 12209"
 		}
@@ -3403,8 +3403,8 @@
 		"pk": 310,
 		"fields": {
 			"name": "Little Falls Police Department",
-			"longitude": -74.8555561,
-			"latitude": 43.0445606,
+			"lon": -74.8555561,
+			"lat": 43.0445606,
 			"type": "Police",
 			"address": "659 E Main St, Little Falls, NY 13365"
 		}
@@ -3414,8 +3414,8 @@
 		"pk": 311,
 		"fields": {
 			"name": "Livingston County Sheriff's Office",
-			"longitude": -77.8156503,
-			"latitude": 42.8009905,
+			"lon": -77.8156503,
+			"lat": 42.8009905,
 			"type": "Police",
 			"address": "4 Court St, Geneseo, NY 14454"
 		}
@@ -3425,8 +3425,8 @@
 		"pk": 312,
 		"fields": {
 			"name": "Livonia-lakeville Pharmacy",
-			"longitude": -77.6950108,
-			"latitude": 42.8329088,
+			"lon": -77.6950108,
+			"lat": 42.8329088,
 			"type": "Pharmacy",
 			"address": "5975 Big Tree Rd, Lakeville, NY 14480"
 		}
@@ -3436,8 +3436,8 @@
 		"pk": 313,
 		"fields": {
 			"name": "Lloyd Harbor Police Department",
-			"longitude": -73.4531247,
-			"latitude": 40.8941556,
+			"lon": -73.4531247,
+			"lat": 40.8941556,
 			"type": "Police",
 			"address": "380 W Neck Rd, Lloyd Harbor, NY 11743"
 		}
@@ -3447,8 +3447,8 @@
 		"pk": 314,
 		"fields": {
 			"name": "Long Beach Police Department",
-			"longitude": -73.6664513,
-			"latitude": 40.5896043,
+			"lon": -73.6664513,
+			"lat": 40.5896043,
 			"type": "Police",
 			"address": "1 W Chester St, Long Beach, NY 11561"
 		}
@@ -3458,8 +3458,8 @@
 		"pk": 315,
 		"fields": {
 			"name": "Long Island Jewish Medical Center",
-			"longitude": -73.706923,
-			"latitude": 40.7531964,
+			"lon": -73.706923,
+			"lat": 40.7531964,
 			"type": "Hospital",
 			"address": "270-5 76th Ave, Queens, NY 11040"
 		}
@@ -3469,8 +3469,8 @@
 		"pk": 316,
 		"fields": {
 			"name": "Lynbrook Police Department",
-			"longitude": -73.6752487,
-			"latitude": 40.6576093,
+			"lon": -73.6752487,
+			"lat": 40.6576093,
 			"type": "Police",
 			"address": "1 Columbus Dr, Lynbrook, NY 11563"
 		}
@@ -3480,8 +3480,8 @@
 		"pk": 317,
 		"fields": {
 			"name": "Madison County Department of Social Services",
-			"longitude": -75.7086028,
-			"latitude": 43.0800366,
+			"lon": -75.7086028,
+			"lat": 43.0800366,
 			"type": "Government",
 			"address": "133 N Court St, Wampsville, NY 13163"
 		}
@@ -3491,8 +3491,8 @@
 		"pk": 318,
 		"fields": {
 			"name": "Madison County Sheriff's Office",
-			"longitude": -75.7074332,
-			"latitude": 43.080852,
+			"lon": -75.7074332,
+			"lat": 43.080852,
 			"type": "Police",
 			"address": "138 N Court St #7, Wampsville, NY 13163"
 		}
@@ -3502,8 +3502,8 @@
 		"pk": 319,
 		"fields": {
 			"name": "Manson Pharmacy",
-			"longitude": -73.819005,
-			"latitude": 40.7089274,
+			"lon": -73.819005,
+			"lat": 40.7089274,
 			"type": "Pharmacy",
 			"address": "137 Queens Blvd, Briarwood, NY 11435"
 		}
@@ -3513,8 +3513,8 @@
 		"pk": 320,
 		"fields": {
 			"name": "Margaretville Hospital Pharmacy",
-			"longitude": -74.6424667,
-			"latitude": 42.1464352,
+			"lon": -74.6424667,
+			"lat": 42.1464352,
 			"type": "Hospital",
 			"address": "42084 State Highway 28, Margaretville, NY 12455"
 		}
@@ -3524,8 +3524,8 @@
 		"pk": 321,
 		"fields": {
 			"name": "Marilla Town Hall",
-			"longitude": -78.5555807,
-			"latitude": 42.8392229,
+			"lon": -78.5555807,
+			"lat": 42.8392229,
 			"type": "Government",
 			"address": "1740 Two Rod Rd, Marilla, NY 14102"
 		}
@@ -3535,8 +3535,8 @@
 		"pk": 322,
 		"fields": {
 			"name": "Market Street Apothecary",
-			"longitude": -77.0577281,
-			"latitude": 42.1437901,
+			"lon": -77.0577281,
+			"lat": 42.1437901,
 			"type": "Pharmacy",
 			"address": "78 W Market St, Corning, NY 14830"
 		}
@@ -3546,8 +3546,8 @@
 		"pk": 323,
 		"fields": {
 			"name": "Marlborough Police Department",
-			"longitude": -73.9601909,
-			"latitude": 41.65924,
+			"lon": -73.9601909,
+			"lat": 41.65924,
 			"type": "Police",
 			"address": "21 Milton Turnpike, Milton, NY 12547"
 		}
@@ -3557,8 +3557,8 @@
 		"pk": 324,
 		"fields": {
 			"name": "Massena Police Department",
-			"longitude": -74.893341,
-			"latitude": 44.931143,
+			"lon": -74.893341,
+			"lat": 44.931143,
 			"type": "Police",
 			"address": "60 Main St #3, Massena, NY 13662"
 		}
@@ -3568,8 +3568,8 @@
 		"pk": 325,
 		"fields": {
 			"name": "Matthews Pharmacy",
-			"longitude": -74.3941057,
-			"latitude": 41.7168648,
+			"lon": -74.3941057,
+			"lat": 41.7168648,
 			"type": "Pharmacy",
 			"address": "101 Canal St, Ellenville, NY 12428"
 		}
@@ -3579,8 +3579,8 @@
 		"pk": 326,
 		"fields": {
 			"name": "Meacham Pharmacy",
-			"longitude": -73.6902483,
-			"latitude": 40.7053665,
+			"lon": -73.6902483,
+			"lat": 40.7053665,
 			"type": "Pharmacy",
 			"address": "107 Meacham Ave, Elmont, NY 11003"
 		}
@@ -3590,8 +3590,8 @@
 		"pk": 327,
 		"fields": {
 			"name": "Mead Square Pharmacy",
-			"longitude": -77.41187,
-			"latitude": 42.9824139,
+			"lon": -77.41187,
+			"lat": 42.9824139,
 			"type": "Pharmacy",
 			"address": "53 W Main St, Victor, NY 14564"
 		}
@@ -3601,8 +3601,8 @@
 		"pk": 328,
 		"fields": {
 			"name": "Medaille College Public Safety Office",
-			"longitude": -78.8546536,
-			"latitude": 42.929451,
+			"lon": -78.8546536,
+			"lat": 42.929451,
 			"type": "School",
 			"address": "2 Agassiz Cir, Buffalo, NY 14214"
 		}
@@ -3612,8 +3612,8 @@
 		"pk": 329,
 		"fields": {
 			"name": "Medicine Shoppe",
-			"longitude": -78.3851711,
-			"latitude": 43.2201427,
+			"lon": -78.3851711,
+			"lat": 43.2201427,
 			"type": "Pharmacy",
 			"address": "142 E Center St, Medina, NY 14103"
 		}
@@ -3623,8 +3623,8 @@
 		"pk": 330,
 		"fields": {
 			"name": "Mercy Ambulatory Center",
-			"longitude": -78.7726319,
-			"latitude": 42.7803611,
+			"lon": -78.7726319,
+			"lat": 42.7803611,
 			"type": "Hospital",
 			"address": "3669 Southwestern Blvd, Orchard Park, NY 14127"
 		}
@@ -3634,8 +3634,8 @@
 		"pk": 331,
 		"fields": {
 			"name": "Middleport Family Health Center",
-			"longitude": -78.4848095,
-			"latitude": 43.2056228,
+			"lon": -78.4848095,
+			"lat": 43.2056228,
 			"type": "Hospital",
 			"address": "14105 Rochester Rd, Middleport, NY 14105"
 		}
@@ -3645,8 +3645,8 @@
 		"pk": 332,
 		"fields": {
 			"name": "Middleport Police Department",
-			"longitude": -78.4767604,
-			"latitude": 43.2121961,
+			"lon": -78.4767604,
+			"lat": 43.2121961,
 			"type": "Police",
 			"address": "22 Main St, Middleport, NY 14105"
 		}
@@ -3656,8 +3656,8 @@
 		"pk": 333,
 		"fields": {
 			"name": "Middletown Police Department",
-			"longitude": -74.4219224,
-			"latitude": 41.4455972,
+			"lon": -74.4219224,
+			"lat": 41.4455972,
 			"type": "Police",
 			"address": "2 James St, Middletown, NY 10940"
 		}
@@ -3667,8 +3667,8 @@
 		"pk": 334,
 		"fields": {
 			"name": "Millerton Police Department",
-			"longitude": -73.5097386,
-			"latitude": 41.955238,
+			"lon": -73.5097386,
+			"lat": 41.955238,
 			"type": "Police",
 			"address": "21 Dutchess Ave, Millerton, NY 12546"
 		}
@@ -3678,8 +3678,8 @@
 		"pk": 335,
 		"fields": {
 			"name": "Monroe Co Sheriff's - Zone B",
-			"longitude": -77.6504942,
-			"latitude": 43.0567111,
+			"lon": -77.6504942,
+			"lat": 43.0567111,
 			"type": "Police",
 			"address": "245 Summit Point Dr, Henrietta, NY 14467"
 		}
@@ -3689,8 +3689,8 @@
 		"pk": 336,
 		"fields": {
 			"name": "Monroe County Sheriff's Department Headquarters",
-			"longitude": -77.6134058,
-			"latitude": 43.1525354,
+			"lon": -77.6134058,
+			"lat": 43.1525354,
 			"type": "Police",
 			"address": "130 S Plymouth Ave, Rochester, NY 14614"
 		}
@@ -3700,8 +3700,8 @@
 		"pk": 337,
 		"fields": {
 			"name": "Monroe County Sheriff's Office",
-			"longitude": -77.5037589,
-			"latitude": 43.1205256,
+			"lon": -77.5037589,
+			"lat": 43.1205256,
 			"type": "Police",
 			"address": "789 Linden Ave, Rochester, NY 14625"
 		}
@@ -3711,8 +3711,8 @@
 		"pk": 338,
 		"fields": {
 			"name": "Montgomery CO Sheriff's Office",
-			"longitude": -74.3327551,
-			"latitude": 42.9337475,
+			"lon": -74.3327551,
+			"lat": 42.9337475,
 			"type": "Police",
 			"address": "200 Clark Dr, Fultonville, NY 12072"
 		}
@@ -3722,8 +3722,8 @@
 		"pk": 339,
 		"fields": {
 			"name": "Monticello Police Dept",
-			"longitude": -74.6817135,
-			"latitude": 41.6543168,
+			"lon": -74.6817135,
+			"lat": 41.6543168,
 			"type": "Police",
 			"address": "2 Pleasant St, Monticello, NY 12701"
 		}
@@ -3733,8 +3733,8 @@
 		"pk": 340,
 		"fields": {
 			"name": "Mount Pleasant Police Department",
-			"longitude": -73.7776937,
-			"latitude": 41.0963139,
+			"lon": -73.7776937,
+			"lat": 41.0963139,
 			"type": "Police",
 			"address": "1 Town Hall Plaza, Valhalla, NY 10595"
 		}
@@ -3744,8 +3744,8 @@
 		"pk": 341,
 		"fields": {
 			"name": "Mount Vernon Police Department",
-			"longitude": -73.8387574,
-			"latitude": 40.9127886,
+			"lon": -73.8387574,
+			"lat": 40.9127886,
 			"type": "Police",
 			"address": "2 Roosevelt Square N, Mt Vernon, NY 10550"
 		}
@@ -3755,8 +3755,8 @@
 		"pk": 342,
 		"fields": {
 			"name": "Mt St Mary's Hospital",
-			"longitude": -79.0326191,
-			"latitude": 43.1541101,
+			"lon": -79.0326191,
+			"lat": 43.1541101,
 			"type": "Police",
 			"address": "5300 Military Rd, Lewiston, NY 14092"
 		}
@@ -3766,8 +3766,8 @@
 		"pk": 343,
 		"fields": {
 			"name": "Nassau County Police Department First Precinct",
-			"longitude": -73.6093282,
-			"latitude": 40.6508013,
+			"lon": -73.6093282,
+			"lat": 40.6508013,
 			"type": "Police",
 			"address": "900 Merrick Rd, Baldwin, NY 11510"
 		}
@@ -3777,8 +3777,8 @@
 		"pk": 344,
 		"fields": {
 			"name": "Nassau County Police Department Fourth Precinct",
-			"longitude": -73.6900401,
-			"latitude": 40.6464574,
+			"lon": -73.6900401,
+			"lat": 40.6464574,
 			"type": "Police",
 			"address": "1699 Broadway, Hewlett, NY 11557"
 		}
@@ -3788,8 +3788,8 @@
 		"pk": 345,
 		"fields": {
 			"name": "Nassau County Police Department",
-			"longitude": -73.6391398,
-			"latitude": 40.736645,
+			"lon": -73.6391398,
+			"lat": 40.736645,
 			"type": "Police",
 			"address": "1490 Franklin Ave, Mineola, NY 11501"
 		}
@@ -3799,8 +3799,8 @@
 		"pk": 346,
 		"fields": {
 			"name": "Nassau County Police Department 5th Precinct",
-			"longitude": -73.7043373,
-			"latitude": 40.6874108,
+			"lon": -73.7043373,
+			"lat": 40.6874108,
 			"type": "Police",
 			"address": "1655 Dutch Broadway, Elmont, NY 11003"
 		}
@@ -3810,8 +3810,8 @@
 		"pk": 347,
 		"fields": {
 			"name": "Nassau County Police Department Second Precinct",
-			"longitude": -73.4861973,
-			"latitude": 40.8121022,
+			"lon": -73.4861973,
+			"lat": 40.8121022,
 			"type": "Police",
 			"address": "7700 Jericho Turnpike, Woodbury, NY 11797"
 		}
@@ -3821,8 +3821,8 @@
 		"pk": 348,
 		"fields": {
 			"name": "Nassau County Police Department Seventh Precinct",
-			"longitude": -73.4966221,
-			"latitude": 40.6649886,
+			"lon": -73.4966221,
+			"lat": 40.6649886,
 			"type": "Police",
 			"address": "3636 Merrick Rd, Seaford, NY 11783"
 		}
@@ -3832,8 +3832,8 @@
 		"pk": 349,
 		"fields": {
 			"name": "Nassau County Police Department Sixth Precinct",
-			"longitude": -73.7060763,
-			"latitude": 40.7819833,
+			"lon": -73.7060763,
+			"lat": 40.7819833,
 			"type": "Police",
 			"address": "100 Community Dr, Manhasset, NY 11030"
 		}
@@ -3843,8 +3843,8 @@
 		"pk": 350,
 		"fields": {
 			"name": "Nassau County Police Department Third Precinct",
-			"longitude": -73.6482401,
-			"latitude": 40.7556131,
+			"lon": -73.6482401,
+			"lat": 40.7556131,
 			"type": "Police",
 			"address": "214 Hillside Avenue, Williston Park, NY 11596"
 		}
@@ -3854,8 +3854,8 @@
 		"pk": 351,
 		"fields": {
 			"name": "Nassuau Pharmacy Inc.",
-			"longitude": -73.5720027,
-			"latitude": 42.5151819,
+			"lon": -73.5720027,
+			"lat": 42.5151819,
 			"type": "Pharmacy",
 			"address": "3541 Old US Rte 20, Nassau, NY 12123"
 		}
@@ -3865,8 +3865,8 @@
 		"pk": 352,
 		"fields": {
 			"name": "New Castle Police Department",
-			"longitude": -73.7746658,
-			"latitude": 41.1554437,
+			"lon": -73.7746658,
+			"lat": 41.1554437,
 			"type": "Police",
 			"address": "200 S Greeley Ave, Chappaqua, NY 10514"
 		}
@@ -3876,8 +3876,8 @@
 		"pk": 353,
 		"fields": {
 			"name": "New Hartford Police Department",
-			"longitude": -75.2787581,
-			"latitude": 43.0548705,
+			"lon": -75.2787581,
+			"lat": 43.0548705,
 			"type": "Police",
 			"address": "32 Kellogg Rd, New Hartford, NY 13413"
 		}
@@ -3887,8 +3887,8 @@
 		"pk": 354,
 		"fields": {
 			"name": "New Paltz Pharmacy",
-			"longitude": -74.0784946,
-			"latitude": 41.7454562,
+			"lon": -74.0784946,
+			"lat": 41.7454562,
 			"type": "Pharmacy",
 			"address": "190 Main St, New Paltz, NY 12561"
 		}
@@ -3898,8 +3898,8 @@
 		"pk": 355,
 		"fields": {
 			"name": "New Rochelle Prescription Center",
-			"longitude": -73.7834308,
-			"latitude": 40.9079114,
+			"lon": -73.7834308,
+			"lat": 40.9079114,
 			"type": "Pharmacy",
 			"address": "551 Main St, New Rochelle, NY 10801"
 		}
@@ -3909,8 +3909,8 @@
 		"pk": 356,
 		"fields": {
 			"name": "New York City Police Department",
-			"longitude": -73.9759337,
-			"latitude": 40.5796231,
+			"lon": -73.9759337,
+			"lat": 40.5796231,
 			"type": "Police",
 			"address": "2951 W 8th St, Brooklyn, NY 11224"
 		}
@@ -3920,8 +3920,8 @@
 		"pk": 357,
 		"fields": {
 			"name": "New York City Police Department 62nd Precinct",
-			"longitude": -74.0030971,
-			"latitude": 40.6024907,
+			"lon": -74.0030971,
+			"lat": 40.6024907,
 			"type": "Police",
 			"address": "1925 Bath Ave, Brooklyn, NY 11214"
 		}
@@ -3931,8 +3931,8 @@
 		"pk": 358,
 		"fields": {
 			"name": "New York City Police Department 63rd Precinct",
-			"longitude": -73.9416307,
-			"latitude": 40.6279491,
+			"lon": -73.9416307,
+			"lat": 40.6279491,
 			"type": "Police",
 			"address": "1844 Brooklyn Ave, Brooklyn, NY 11210"
 		}
@@ -3942,8 +3942,8 @@
 		"pk": 359,
 		"fields": {
 			"name": "New York City Police Department 68th Precinct",
-			"longitude": -74.0225905,
-			"latitude": 40.6390113,
+			"lon": -74.0225905,
+			"lat": 40.6390113,
 			"type": "Police",
 			"address": "333 65th St, Brooklyn, NY 11220"
 		}
@@ -3953,8 +3953,8 @@
 		"pk": 360,
 		"fields": {
 			"name": "New York City Police Department 70th Precinct",
-			"longitude": -73.9737171,
-			"latitude": 40.6303797,
+			"lon": -73.9737171,
+			"lat": 40.6303797,
 			"type": "Police",
 			"address": "154 Lawrence Ave, Brooklyn, NY 11230"
 		}
@@ -3964,8 +3964,8 @@
 		"pk": 361,
 		"fields": {
 			"name": "New York City Police Department 71st Precinct",
-			"longitude": -73.9478099,
-			"latitude": 40.6643938,
+			"lon": -73.9478099,
+			"lat": 40.6643938,
 			"type": "Police",
 			"address": "421 Empire Blvd, Brooklyn, NY 11225"
 		}
@@ -3975,8 +3975,8 @@
 		"pk": 362,
 		"fields": {
 			"name": "New York City Police Department 72nd Precinct",
-			"longitude": -74.0009111,
-			"latitude": 40.6583506,
+			"lon": -74.0009111,
+			"lat": 40.6583506,
 			"type": "Police",
 			"address": "830 4th Ave, Brooklyn, NY 11232"
 		}
@@ -3986,8 +3986,8 @@
 		"pk": 363,
 		"fields": {
 			"name": "New York Police Department - 120th Precinct",
-			"longitude": -74.0774297,
-			"latitude": 40.6446249,
+			"lon": -74.0774297,
+			"lat": 40.6446249,
 			"type": "Police",
 			"address": "78 Richmond Terrace, Staten Island, NY 10301"
 		}
@@ -3997,8 +3997,8 @@
 		"pk": 364,
 		"fields": {
 			"name": "New York Police Department - 121st Precinct",
-			"longitude": -74.1491992,
-			"latitude": 40.6236077,
+			"lon": -74.1491992,
+			"lat": 40.6236077,
 			"type": "Police",
 			"address": "970 Richmond Ave, Staten Island, NY 10314"
 		}
@@ -4008,8 +4008,8 @@
 		"pk": 365,
 		"fields": {
 			"name": "New York Police Department - 122nd Precinct",
-			"longitude": -74.1059766,
-			"latitude": 40.5738512,
+			"lon": -74.1059766,
+			"lat": 40.5738512,
 			"type": "Police",
 			"address": "2320 Hylan Blvd, Staten Island, NY 10306"
 		}
@@ -4019,8 +4019,8 @@
 		"pk": 366,
 		"fields": {
 			"name": "New York Police Department - 123rd Precinct",
-			"longitude": -74.2500553,
-			"latitude": 40.5118544,
+			"lon": -74.2500553,
+			"lat": 40.5118544,
 			"type": "Police",
 			"address": "116 Main St, Staten Island, NY 10307"
 		}
@@ -4030,8 +4030,8 @@
 		"pk": 367,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -73.683361,
-			"latitude": 42.52076,
+			"lon": -73.683361,
+			"lat": 42.52076,
 			"type": "Police",
 			"address": "1485 U.S. 9, Castleton-On-Hudson, NY 12033"
 		}
@@ -4041,8 +4041,8 @@
 		"pk": 368,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -77.3417477,
-			"latitude": 42.9573317,
+			"lon": -77.3417477,
+			"lat": 42.9573317,
 			"type": "Police",
 			"address": "1569 Rochester Rd, Farmington, NY 14425"
 		}
@@ -4052,8 +4052,8 @@
 		"pk": 369,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -78.1868127,
-			"latitude": 43.0303286,
+			"lon": -78.1868127,
+			"lat": 43.0303286,
 			"type": "Police",
 			"address": "4525 W Saile Dr, Batavia, NY 14020"
 		}
@@ -4063,8 +4063,8 @@
 		"pk": 370,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -74.3614243,
-			"latitude": 41.447012,
+			"lon": -74.3614243,
+			"lat": 41.447012,
 			"type": "Police",
 			"address": "55 Crystal Run Rd, Middletown, NY 10941"
 		}
@@ -4074,8 +4074,8 @@
 		"pk": 371,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -73.4197567,
-			"latitude": 40.7250129,
+			"lon": -73.4197567,
+			"lat": 40.7250129,
 			"type": "Police",
 			"address": "7140 Republic Airport, Farmingdale, NY 11735"
 		}
@@ -4085,8 +4085,8 @@
 		"pk": 372,
 		"fields": {
 			"name": "New York State Police",
-			"longitude": -75.3515588,
-			"latitude": 42.323008,
+			"lon": -75.3515588,
+			"lat": 42.323008,
 			"type": "Police",
 			"address": "823 NY-7, Unadilla, NY 13849"
 		}
@@ -4096,8 +4096,8 @@
 		"pk": 373,
 		"fields": {
 			"name": "New York State Police Troop B Ray Brook",
-			"longitude": -74.0826349,
-			"latitude": 44.2999094,
+			"lon": -74.0826349,
+			"lat": 44.2999094,
 			"type": "Police",
 			"address": "1097 NY-86, Saranac Lake, NY 12983"
 		}
@@ -4107,8 +4107,8 @@
 		"pk": 374,
 		"fields": {
 			"name": "New York State Police Troop D Oneida",
-			"longitude": -75.649648,
-			"latitude": 43.077529,
+			"lon": -75.649648,
+			"lat": 43.077529,
 			"type": "Police",
 			"address": "261 Genesee St, Oneida, NY 13421"
 		}
@@ -4118,8 +4118,8 @@
 		"pk": 375,
 		"fields": {
 			"name": "New York State Police Troop G",
-			"longitude": -73.7810088,
-			"latitude": 42.7571165,
+			"lon": -73.7810088,
+			"lat": 42.7571165,
 			"type": "Police",
 			"address": "760 Troy Schenectady Rd, Latham, NY 12110"
 		}
@@ -4129,8 +4129,8 @@
 		"pk": 376,
 		"fields": {
 			"name": "New York State Police Troop K Poughkeepsie",
-			"longitude": -73.7549518,
-			"latitude": 41.7832961,
+			"lon": -73.7549518,
+			"lat": 41.7832961,
 			"type": "Police",
 			"address": "2541 US-44, Salt Point, NY 12578"
 		}
@@ -4140,8 +4140,8 @@
 		"pk": 377,
 		"fields": {
 			"name": "Newstead Town Hall",
-			"longitude": -78.503942,
-			"latitude": 43.012195,
+			"lon": -78.503942,
+			"lat": 43.012195,
 			"type": "Government",
 			"address": "5 Clarence Center Rd, Akron, NY 14001"
 		}
@@ -4151,8 +4151,8 @@
 		"pk": 378,
 		"fields": {
 			"name": "Niagara Falls Police Department",
-			"longitude": -79.0527794,
-			"latitude": 43.106192,
+			"lon": -79.0527794,
+			"lat": 43.106192,
 			"type": "Police",
 			"address": "1925 Main St, Niagara Falls, NY 14305"
 		}
@@ -4162,8 +4162,8 @@
 		"pk": 379,
 		"fields": {
 			"name": "Nicholson Pharmacy",
-			"longitude": -78.0334065,
-			"latitude": 42.2234153,
+			"lon": -78.0334065,
+			"lat": 42.2234153,
 			"type": "Pharmacy",
 			"address": "36 Schuyler St, Belmont, NY 14813"
 		}
@@ -4173,8 +4173,8 @@
 		"pk": 380,
 		"fields": {
 			"name": "Niskayuna Police Department",
-			"longitude": -73.8854128,
-			"latitude": 42.8190983,
+			"lon": -73.8854128,
+			"lat": 42.8190983,
 			"type": "Police",
 			"address": "1 Niskayuna Cir, Niskayuna, NY 12309"
 		}
@@ -4184,8 +4184,8 @@
 		"pk": 381,
 		"fields": {
 			"name": "North Castle Police Department",
-			"longitude": -73.7130865,
-			"latitude": 41.124545,
+			"lon": -73.7130865,
+			"lat": 41.124545,
 			"type": "Police",
 			"address": "15 Bedford Rd #2, Armonk, NY 10504"
 		}
@@ -4195,8 +4195,8 @@
 		"pk": 382,
 		"fields": {
 			"name": "North End Fire Station",
-			"longitude": -73.7196243,
-			"latitude": 42.6599928,
+			"lon": -73.7196243,
+			"lat": 42.6599928,
 			"type": "Government",
 			"address": "2 St Francis Pl, Rensselaer, NY 12144"
 		}
@@ -4206,8 +4206,8 @@
 		"pk": 383,
 		"fields": {
 			"name": "North Greenbush Police Department",
-			"longitude": -73.6804151,
-			"latitude": 42.6864257,
+			"lon": -73.6804151,
+			"lat": 42.6864257,
 			"type": "Police",
 			"address": "133 Bloomingrove Dr, Troy, NY 12180"
 		}
@@ -4217,8 +4217,8 @@
 		"pk": 384,
 		"fields": {
 			"name": "North Salem Police Department",
-			"longitude": -73.5905596,
-			"latitude": 41.328846,
+			"lon": -73.5905596,
+			"lat": 41.328846,
 			"type": "Police",
 			"address": "66 June Rd, North Salem, NY 10560"
 		}
@@ -4228,8 +4228,8 @@
 		"pk": 385,
 		"fields": {
 			"name": "North Street Pharmacy",
-			"longitude": -76.989062,
-			"latitude": 42.8768109,
+			"lon": -76.989062,
+			"lat": 42.8768109,
 			"type": "Pharmacy",
 			"address": "200 North St #103, Geneva, NY 14456"
 		}
@@ -4239,8 +4239,8 @@
 		"pk": 386,
 		"fields": {
 			"name": "North Tonawanda Police Department",
-			"longitude": -78.8700085,
-			"latitude": 43.0295024,
+			"lon": -78.8700085,
+			"lat": 43.0295024,
 			"type": "Police",
 			"address": "216 Payne Ave, North Tonawanda, NY 14120"
 		}
@@ -4250,8 +4250,8 @@
 		"pk": 387,
 		"fields": {
 			"name": "Northern Dutchess Hospital",
-			"longitude": -73.912876,
-			"latitude": 41.935072,
+			"lon": -73.912876,
+			"lat": 41.935072,
 			"type": "Hospital",
 			"address": "6511 Spring Brook Ave, Rhinebeck, NY 12572"
 		}
@@ -4261,8 +4261,8 @@
 		"pk": 388,
 		"fields": {
 			"name": "Northern Westchester hospital",
-			"longitude": -73.7245114,
-			"latitude": 41.1972011,
+			"lon": -73.7245114,
+			"lat": 41.1972011,
 			"type": "Hospital",
 			"address": "400 E Main St, Mt Kisco, NY 10549"
 		}
@@ -4272,8 +4272,8 @@
 		"pk": 389,
 		"fields": {
 			"name": "Northport VA Police Department",
-			"longitude": -73.3087836,
-			"latitude": 40.893643,
+			"lon": -73.3087836,
+			"lat": 40.893643,
 			"type": "Police",
 			"address": "79 Middleville Rd, Northport, NY 11768"
 		}
@@ -4283,8 +4283,8 @@
 		"pk": 390,
 		"fields": {
 			"name": "Northport Village Police Department",
-			"longitude": -73.3474282,
-			"latitude": 40.9005613,
+			"lon": -73.3474282,
+			"lat": 40.9005613,
 			"type": "Police",
 			"address": "224 Main St, Northport, NY 11768"
 		}
@@ -4294,8 +4294,8 @@
 		"pk": 391,
 		"fields": {
 			"name": "Norwich Police Department",
-			"longitude": -75.5223473,
-			"latitude": 42.5310008,
+			"lon": -75.5223473,
+			"lat": 42.5310008,
 			"type": "Police",
 			"address": "18 E Main St, Norwich, NY 13815"
 		}
@@ -4305,8 +4305,8 @@
 		"pk": 392,
 		"fields": {
 			"name": "NPL Drugs",
-			"longitude": -73.909436,
-			"latitude": 40.6172155,
+			"lon": -73.909436,
+			"lat": 40.6172155,
 			"type": "Pharmacy",
 			"address": "6602 Avenue U, Brooklyn, NY 11234"
 		}
@@ -4316,8 +4316,8 @@
 		"pk": 393,
 		"fields": {
 			"name": "O'Conner Hospital",
-			"longitude": -74.9164078,
-			"latitude": 42.2681568,
+			"lon": -74.9164078,
+			"lat": 42.2681568,
 			"type": "Hospital",
 			"address": "460 Andes Rd, Delhi, NY 13753"
 		}
@@ -4327,8 +4327,8 @@
 		"pk": 394,
 		"fields": {
 			"name": "Oak Park Pharmacy",
-			"longitude": -73.9798576,
-			"latitude": 40.6605349,
+			"lon": -73.9798576,
+			"lat": 40.6605349,
 			"type": "Pharmacy",
 			"address": "205 Prospect Park West, Brooklyn, NY 11215"
 		}
@@ -4338,8 +4338,8 @@
 		"pk": 395,
 		"fields": {
 			"name": "Ocean Breeze Pharmacy",
-			"longitude": -74.094069,
-			"latitude": 40.5847828,
+			"lon": -74.094069,
+			"lat": 40.5847828,
 			"type": "Pharmacy",
 			"address": "1817 Hylan Blvd, Staten Island, NY 10305"
 		}
@@ -4349,8 +4349,8 @@
 		"pk": 396,
 		"fields": {
 			"name": "Ogden Police Department",
-			"longitude": -77.8023986,
-			"latitude": 43.1703969,
+			"lon": -77.8023986,
+			"lat": 43.1703969,
 			"type": "Police",
 			"address": "269 Ogden Center Rd, Spencerport, NY 14559"
 		}
@@ -4360,8 +4360,8 @@
 		"pk": 397,
 		"fields": {
 			"name": "Old Brookville Police Department",
-			"longitude": -73.5718583,
-			"latitude": 40.8301163,
+			"lon": -73.5718583,
+			"lat": 40.8301163,
 			"type": "Police",
 			"address": "5701 Northern Blvd, Glen Head, NY 11545"
 		}
@@ -4371,8 +4371,8 @@
 		"pk": 398,
 		"fields": {
 			"name": "Olive Police Department",
-			"longitude": -74.2290763,
-			"latitude": 41.9750023,
+			"lon": -74.2290763,
+			"lat": 41.9750023,
 			"type": "Police",
 			"address": "50 Bostock Rd, Shokan, NY 12481"
 		}
@@ -4382,8 +4382,8 @@
 		"pk": 399,
 		"fields": {
 			"name": "Oneida County Sheriff's Department",
-			"longitude": -75.3767286,
-			"latitude": 43.1559399,
+			"lon": -75.3767286,
+			"lat": 43.1559399,
 			"type": "Police",
 			"address": "6065 Judd Rd, Oriskany, NY 13424"
 		}
@@ -4393,8 +4393,8 @@
 		"pk": 400,
 		"fields": {
 			"name": "Oneonta Police Station",
-			"longitude": -75.0643087,
-			"latitude": 42.4512576,
+			"lon": -75.0643087,
+			"lat": 42.4512576,
 			"type": "Police",
 			"address": "81 Main St #2, Oneonta, NY 13820"
 		}
@@ -4404,8 +4404,8 @@
 		"pk": 401,
 		"fields": {
 			"name": "Onondaga Community College",
-			"longitude": -76.1967384,
-			"latitude": 43.0033537,
+			"lon": -76.1967384,
+			"lat": 43.0033537,
 			"type": "School",
 			"address": "4941 Onondaga Rd, Syracuse, NY 13215"
 		}
@@ -4415,8 +4415,8 @@
 		"pk": 402,
 		"fields": {
 			"name": "Ontario County Motor Vehicle Bureau",
-			"longitude": -77.2804281,
-			"latitude": 42.8887138,
+			"lon": -77.2804281,
+			"lat": 42.8887138,
 			"type": "Government",
 			"address": "20 Ontario St, Canandaigua, NY 14424"
 		}
@@ -4426,8 +4426,8 @@
 		"pk": 403,
 		"fields": {
 			"name": "Ontario County Public Health",
-			"longitude": -77.2103646,
-			"latitude": 42.8834632,
+			"lon": -77.2103646,
+			"lat": 42.8834632,
 			"type": "Government",
 			"address": "3019 County Complex Dr, Canandaigua, NY 14424"
 		}
@@ -4437,8 +4437,8 @@
 		"pk": 404,
 		"fields": {
 			"name": "Ontario County Sheriff's Office",
-			"longitude": -77.278453,
-			"latitude": 42.8893905,
+			"lon": -77.278453,
+			"lat": 42.8893905,
 			"type": "Police",
 			"address": "74 Ontario St, Canandaigua, NY 14424"
 		}
@@ -4448,8 +4448,8 @@
 		"pk": 405,
 		"fields": {
 			"name": "Orange County Sheriff's Office",
-			"longitude": -74.3594952,
-			"latitude": 41.4048799,
+			"lon": -74.3594952,
+			"lat": 41.4048799,
 			"type": "Police",
 			"address": "110 Wells Farm Rd, Goshen, NY 10924"
 		}
@@ -4459,8 +4459,8 @@
 		"pk": 406,
 		"fields": {
 			"name": "Orangetown Police Department",
-			"longitude": -73.9559123,
-			"latitude": 41.0464984,
+			"lon": -73.9559123,
+			"lat": 41.0464984,
 			"type": "Police",
 			"address": "26 W Orangeburg Rd, Orangeburg, NY 10962"
 		}
@@ -4470,8 +4470,8 @@
 		"pk": 407,
 		"fields": {
 			"name": "Orchard Park Police Department",
-			"longitude": -78.7434141,
-			"latitude": 42.7664131,
+			"lon": -78.7434141,
+			"lat": 42.7664131,
 			"type": "Police",
 			"address": "4295 S Buffalo St, Orchard Park, NY 14127"
 		}
@@ -4481,8 +4481,8 @@
 		"pk": 408,
 		"fields": {
 			"name": "Oswego Valley Pharmacy",
-			"longitude": -76.2987088,
-			"latitude": 43.2300188,
+			"lon": -76.2987088,
+			"lat": 43.2300188,
 			"type": "Pharmacy",
 			"address": "464 Main St, Phoenix, NY 13135"
 		}
@@ -4492,8 +4492,8 @@
 		"pk": 409,
 		"fields": {
 			"name": "Otsego County Sheriff's Office",
-			"longitude": -74.950149,
-			"latitude": 42.652749,
+			"lon": -74.950149,
+			"lat": 42.652749,
 			"type": "Police",
 			"address": "172 County Hwy 33 W, Cooperstown, NY 13326"
 		}
@@ -4503,8 +4503,8 @@
 		"pk": 410,
 		"fields": {
 			"name": "Oxford Police Department",
-			"longitude": -75.5980297,
-			"latitude": 42.4418725,
+			"lon": -75.5980297,
+			"lat": 42.4418725,
 			"type": "Police",
 			"address": "20 Lafayette Park, Oxford, NY 13830"
 		}
@@ -4514,8 +4514,8 @@
 		"pk": 411,
 		"fields": {
 			"name": "Paak Pharmacy",
-			"longitude": -73.0074579,
-			"latitude": 40.791905,
+			"lon": -73.0074579,
+			"lat": 40.791905,
 			"type": "Pharmacy",
 			"address": "689 Medford Ave, Patchogue, NY 11772"
 		}
@@ -4525,8 +4525,8 @@
 		"pk": 412,
 		"fields": {
 			"name": "Palmer Pharmacy",
-			"longitude": -76.4983664,
-			"latitude": 42.4385347,
+			"lon": -76.4983664,
+			"lat": 42.4385347,
 			"type": "Pharmacy",
 			"address": "131 E Green St #2, Ithaca, NY 14850"
 		}
@@ -4536,8 +4536,8 @@
 		"pk": 413,
 		"fields": {
 			"name": "Patterson Town Hall",
-			"longitude": -73.6046362,
-			"latitude": 41.5138455,
+			"lon": -73.6046362,
+			"lat": 41.5138455,
 			"type": "Government",
 			"address": "1142 NY-311, Patterson, NY 12563"
 		}
@@ -4547,8 +4547,8 @@
 		"pk": 414,
 		"fields": {
 			"name": "Paul's Pharmacy",
-			"longitude": -73.518533,
-			"latitude": 41.214318,
+			"lon": -73.518533,
+			"lat": 41.214318,
 			"type": "Pharmacy",
 			"address": "222 Oakridge Commons, South Salem, NY 10590"
 		}
@@ -4558,8 +4558,8 @@
 		"pk": 415,
 		"fields": {
 			"name": "Peconic Bay Medical Center",
-			"longitude": -72.673557,
-			"latitude": 40.934406,
+			"lon": -72.673557,
+			"lat": 40.934406,
 			"type": "Hospital",
 			"address": "1300 Roanoke Ave, Riverhead, NY 11901"
 		}
@@ -4569,8 +4569,8 @@
 		"pk": 416,
 		"fields": {
 			"name": "Pelham Manor Police Department",
-			"longitude": -73.8042496,
-			"latitude": 40.8905915,
+			"lon": -73.8042496,
+			"lat": 40.8905915,
 			"type": "Police",
 			"address": "4 Penfield Pl, Pelham, NY 10803"
 		}
@@ -4580,8 +4580,8 @@
 		"pk": 417,
 		"fields": {
 			"name": "Pelham Police Department",
-			"longitude": -73.809185,
-			"latitude": 40.9116969,
+			"lon": -73.809185,
+			"lat": 40.9116969,
 			"type": "Police",
 			"address": "34 Fifth Ave, Pelham, NY 10803"
 		}
@@ -4591,8 +4591,8 @@
 		"pk": 418,
 		"fields": {
 			"name": "Perry Police Department",
-			"longitude": -78.0025216,
-			"latitude": 42.7171476,
+			"lon": -78.0025216,
+			"lat": 42.7171476,
 			"type": "Police",
 			"address": "46 N Main St, Perry, NY 14530"
 		}
@@ -4602,8 +4602,8 @@
 		"pk": 419,
 		"fields": {
 			"name": "Phelps Hospital Northwell Health",
-			"longitude": -73.8643045,
-			"latitude": 41.1086081,
+			"lon": -73.8643045,
+			"lat": 41.1086081,
 			"type": "Hospital",
 			"address": "777 N Broadway, Sleepy Hollow, NY 10591"
 		}
@@ -4613,8 +4613,8 @@
 		"pk": 420,
 		"fields": {
 			"name": "Phelps Police Department",
-			"longitude": -77.059805,
-			"latitude": 42.9600859,
+			"lon": -77.059805,
+			"lat": 42.9600859,
 			"type": "Police",
 			"address": "8 Banta St, Phelps, NY 14532"
 		}
@@ -4624,8 +4624,8 @@
 		"pk": 421,
 		"fields": {
 			"name": "Philipstown Town Hall",
-			"longitude": -73.9502347,
-			"latitude": 41.4232135,
+			"lon": -73.9502347,
+			"lat": 41.4232135,
 			"type": "Government",
 			"address": "238 Main St, Cold Spring, NY 10516"
 		}
@@ -4635,8 +4635,8 @@
 		"pk": 422,
 		"fields": {
 			"name": "Plainview family Pharmacy",
-			"longitude": -73.47337,
-			"latitude": 40.7822141,
+			"lon": -73.47337,
+			"lat": 40.7822141,
 			"type": "Pharmacy",
 			"address": "142 Manetto Hill Rd, Plainview, NY 11803"
 		}
@@ -4646,8 +4646,8 @@
 		"pk": 423,
 		"fields": {
 			"name": "Pleasantville Police Department",
-			"longitude": -73.7916575,
-			"latitude": 41.1338412,
+			"lon": -73.7916575,
+			"lat": 41.1338412,
 			"type": "Police",
 			"address": "80 Wheeler Ave, Pleasantville, NY 10570"
 		}
@@ -4657,8 +4657,8 @@
 		"pk": 424,
 		"fields": {
 			"name": "Police Department",
-			"longitude": -73.6731879,
-			"latitude": 42.5516318,
+			"lon": -73.6731879,
+			"lat": 42.5516318,
 			"type": "Police",
 			"address": "1797 Columbia Turnpike, Castleton-On-Hudson, NY 12033"
 		}
@@ -4668,8 +4668,8 @@
 		"pk": 425,
 		"fields": {
 			"name": "Police Department",
-			"longitude": -76.1829114,
-			"latitude": 42.637108,
+			"lon": -76.1829114,
+			"lat": 42.637108,
 			"type": "Police",
 			"address": "43 James St, Homer, NY 13077"
 		}
@@ -4679,8 +4679,8 @@
 		"pk": 426,
 		"fields": {
 			"name": "Police HQ",
-			"longitude": -75.9845184,
-			"latitude": 43.0038199,
+			"lon": -75.9845184,
+			"lat": 43.0038199,
 			"type": "Police",
 			"address": "1 Arkie Albanese Ave, Manlius, NY 13104"
 		}
@@ -4690,8 +4690,8 @@
 		"pk": 427,
 		"fields": {
 			"name": "Police HQ",
-			"longitude": -75.4555018,
-			"latitude": 43.2136114,
+			"lon": -75.4555018,
+			"lat": 43.2136114,
 			"type": "Police",
 			"address": "301 N James St, Rome, NY 13440"
 		}
@@ -4701,8 +4701,8 @@
 		"pk": 428,
 		"fields": {
 			"name": "Police HQ",
-			"longitude": -75.2334577,
-			"latitude": 43.1040825,
+			"lon": -75.2334577,
+			"lat": 43.1040825,
 			"type": "Police",
 			"address": "413 Oriskany St W, Utica, NY 13502"
 		}
@@ -4712,8 +4712,8 @@
 		"pk": 429,
 		"fields": {
 			"name": "Police HQ Drop Box",
-			"longitude": -76.2484026,
-			"latitude": 43.0453408,
+			"lon": -76.2484026,
+			"lat": 43.0453408,
 			"type": "Police",
 			"address": "4600 W Genesee St, Syracuse, NY 13219"
 		}
@@ -4723,8 +4723,8 @@
 		"pk": 430,
 		"fields": {
 			"name": "Police Station",
-			"longitude": -74.074168,
-			"latitude": 41.731431,
+			"lon": -74.074168,
+			"lat": 41.731431,
 			"type": "Police",
 			"address": "83 S Putt Corners Rd, New Paltz, NY 12561"
 		}
@@ -4734,8 +4734,8 @@
 		"pk": 431,
 		"fields": {
 			"name": "Port Chester Police Department",
-			"longitude": -73.6587833,
-			"latitude": 41.0067735,
+			"lon": -73.6587833,
+			"lat": 41.0067735,
 			"type": "Police",
 			"address": "350 N Main St #1, Port Chester, NY 10573"
 		}
@@ -4745,8 +4745,8 @@
 		"pk": 432,
 		"fields": {
 			"name": "Port Jervis Police Department",
-			"longitude": -74.6910433,
-			"latitude": 41.3750809,
+			"lon": -74.6910433,
+			"lat": 41.3750809,
 			"type": "Police",
 			"address": "20 Hammond St, Port Jervis, NY 12771"
 		}
@@ -4756,8 +4756,8 @@
 		"pk": 433,
 		"fields": {
 			"name": "Port Washington Police Department",
-			"longitude": -73.6822783,
-			"latitude": 40.8238125,
+			"lon": -73.6822783,
+			"lat": 40.8238125,
 			"type": "Police",
 			"address": "500 Port Washington Blvd, Port Washington, NY 11050"
 		}
@@ -4767,8 +4767,8 @@
 		"pk": 434,
 		"fields": {
 			"name": "Pound Ridge Police Department",
-			"longitude": -73.5687758,
-			"latitude": 41.1986216,
+			"lon": -73.5687758,
+			"lat": 41.1986216,
 			"type": "Police",
 			"address": "177 Westchester Ave, Pound Ridge, NY 10576"
 		}
@@ -4778,8 +4778,8 @@
 		"pk": 435,
 		"fields": {
 			"name": "Prizels Pharmacy",
-			"longitude": -78.4274088,
-			"latitude": 42.0906815,
+			"lon": -78.4274088,
+			"lat": 42.0906815,
 			"type": "Pharmacy",
 			"address": "535 Main St, Olean, NY 14760"
 		}
@@ -4789,8 +4789,8 @@
 		"pk": 436,
 		"fields": {
 			"name": "Public Library",
-			"longitude": -73.9048429,
-			"latitude": 42.7002964,
+			"lon": -73.9048429,
+			"lat": 42.7002964,
 			"type": "Government",
 			"address": "2228 Western Ave, Guilderland, NY 12084"
 		}
@@ -4800,8 +4800,8 @@
 		"pk": 437,
 		"fields": {
 			"name": "Public Safety Building",
-			"longitude": -78.2206175,
-			"latitude": 43.2398186,
+			"lon": -78.2206175,
+			"lat": 43.2398186,
 			"type": "Police",
 			"address": "13925 NY-31, Albion, NY 14411"
 		}
@@ -4811,8 +4811,8 @@
 		"pk": 438,
 		"fields": {
 			"name": "Putnam County Sheriff's Office",
-			"longitude": -73.675485,
-			"latitude": 41.425256,
+			"lon": -73.675485,
+			"lat": 41.425256,
 			"type": "Police",
 			"address": "3 County Center, Carmel Hamlet, NY 10512"
 		}
@@ -4822,8 +4822,8 @@
 		"pk": 439,
 		"fields": {
 			"name": "Putnam Hospital Center",
-			"longitude": -73.6637171,
-			"latitude": 41.3832085,
+			"lon": -73.6637171,
+			"lat": 41.3832085,
 			"type": "Police",
 			"address": "670 Stoneleigh Ave, Carmel Hamlet, NY 10512"
 		}
@@ -4833,8 +4833,8 @@
 		"pk": 440,
 		"fields": {
 			"name": "Putnam Valley Town Hall",
-			"longitude": -73.8658799,
-			"latitude": 41.3680399,
+			"lon": -73.8658799,
+			"lat": 41.3680399,
 			"type": "Government",
 			"address": "265 Oscawana Lake Rd, Putnam Valley, NY 10579"
 		}
@@ -4844,8 +4844,8 @@
 		"pk": 441,
 		"fields": {
 			"name": "Quinlan Pharmacy",
-			"longitude": -77.5917883,
-			"latitude": 42.5690389,
+			"lon": -77.5917883,
+			"lat": 42.5690389,
 			"type": "Pharmacy",
 			"address": "107 N Main St, Wayland, NY 14572"
 		}
@@ -4855,8 +4855,8 @@
 		"pk": 442,
 		"fields": {
 			"name": "Red Hook Police Department",
-			"longitude": -73.8766394,
-			"latitude": 41.9943283,
+			"lon": -73.8766394,
+			"lat": 41.9943283,
 			"type": "Police",
 			"address": "7467 S Broadway, Red Hook, NY 12571"
 		}
@@ -4866,8 +4866,8 @@
 		"pk": 443,
 		"fields": {
 			"name": "Rite Choice Pharmacy",
-			"longitude": -73.941605,
-			"latitude": 40.679693,
+			"lon": -73.941605,
+			"lat": 40.679693,
 			"type": "Pharmacy",
 			"address": "1484 Fulton St, Brooklyn, NY 11216"
 		}
@@ -4877,8 +4877,8 @@
 		"pk": 444,
 		"fields": {
 			"name": "Riverhead Police Department",
-			"longitude": -72.6540822,
-			"latitude": 40.9223504,
+			"lon": -72.6540822,
+			"lat": 40.9223504,
 			"type": "Police",
 			"address": "210 Howell Ave, Riverhead, NY 11901"
 		}
@@ -4888,8 +4888,8 @@
 		"pk": 445,
 		"fields": {
 			"name": "Riverside Remedies RX",
-			"longitude": -75.058535,
-			"latitude": 41.766401,
+			"lon": -75.058535,
+			"lat": 41.766401,
 			"type": "Pharmacy",
 			"address": "39 Lower Main St, Callicoon, NY 12723"
 		}
@@ -4899,8 +4899,8 @@
 		"pk": 446,
 		"fields": {
 			"name": "RML Pharmacy",
-			"longitude": -78.8791567,
-			"latitude": 42.762086,
+			"lon": -78.8791567,
+			"lat": 42.762086,
 			"type": "Pharmacy",
 			"address": "4481 Lake Shore Rd, Hamburg, NY 14075"
 		}
@@ -4910,8 +4910,8 @@
 		"pk": 447,
 		"fields": {
 			"name": "Rochester General Hospital",
-			"longitude": -77.5867238,
-			"latitude": 43.1930205,
+			"lon": -77.5867238,
+			"lat": 43.1930205,
 			"type": "Hospital",
 			"address": "1415 Portland Ave, Rochester, NY 14621"
 		}
@@ -4921,8 +4921,8 @@
 		"pk": 448,
 		"fields": {
 			"name": "Rock Hill Healthmart Pharmacy",
-			"longitude": -74.5937229,
-			"latitude": 41.6246247,
+			"lon": -74.5937229,
+			"lat": 41.6246247,
 			"type": "Pharmacy",
 			"address": "253 Rock Hill Dr, Rock Hill, NY 12775"
 		}
@@ -4932,8 +4932,8 @@
 		"pk": 449,
 		"fields": {
 			"name": "Rockland County Sheriff's Office",
-			"longitude": -73.9390522,
-			"latitude": 41.0948144,
+			"lon": -73.9390522,
+			"lat": 41.0948144,
 			"type": "Police",
 			"address": "16 Hwy 59 E, Nyack, NY 10960"
 		}
@@ -4943,8 +4943,8 @@
 		"pk": 450,
 		"fields": {
 			"name": "Rockland County Sheriff's Office",
-			"longitude": -73.9945268,
-			"latitude": 41.1472495,
+			"lon": -73.9945268,
+			"lat": 41.1472495,
 			"type": "Police",
 			"address": "55 New Hempstead Rd, New City, NY 10956"
 		}
@@ -4954,8 +4954,8 @@
 		"pk": 451,
 		"fields": {
 			"name": "Rockville Centre Police Department",
-			"longitude": -73.643273,
-			"latitude": 40.6586656,
+			"lon": -73.643273,
+			"lat": 40.6586656,
 			"type": "Police",
 			"address": "34 Maple Ave, Rockville Centre, NY 11570"
 		}
@@ -4965,8 +4965,8 @@
 		"pk": 452,
 		"fields": {
 			"name": "Rotterdam Police Department",
-			"longitude": -73.9909457,
-			"latitude": 42.7955166,
+			"lon": -73.9909457,
+			"lat": 42.7955166,
 			"type": "Police",
 			"address": "101 Princetown Rd, Rotterdam, NY 12306"
 		}
@@ -4976,8 +4976,8 @@
 		"pk": 453,
 		"fields": {
 			"name": "Rushville Village Offices",
-			"longitude": -77.226085,
-			"latitude": 42.760089,
+			"lon": -77.226085,
+			"lat": 42.760089,
 			"type": "Government",
 			"address": "1 S Main St, Rushville, NY 14544"
 		}
@@ -4987,8 +4987,8 @@
 		"pk": 454,
 		"fields": {
 			"name": "RX City Pharamcy",
-			"longitude": -76.5702709,
-			"latitude": 42.9301519,
+			"lon": -76.5702709,
+			"lat": 42.9301519,
 			"type": "Pharmacy",
 			"address": "161 Genesee St #105, Auburn, NY 13021"
 		}
@@ -4998,8 +4998,8 @@
 		"pk": 455,
 		"fields": {
 			"name": "Rye Brook Police Department",
-			"longitude": -73.6746371,
-			"latitude": 41.0346637,
+			"lon": -73.6746371,
+			"lat": 41.0346637,
 			"type": "Police",
 			"address": "938 King St, Rye Brook, NY 10573"
 		}
@@ -5009,8 +5009,8 @@
 		"pk": 456,
 		"fields": {
 			"name": "Rye Police Department",
-			"longitude": -73.6830981,
-			"latitude": 40.9852982,
+			"lon": -73.6830981,
+			"lat": 40.9852982,
 			"type": "Police",
 			"address": "21 McCullough Pl, Rye, NY 10580"
 		}
@@ -5020,8 +5020,8 @@
 		"pk": 457,
 		"fields": {
 			"name": "S & M Pharmacy",
-			"longitude": -73.8250026,
-			"latitude": 40.7320567,
+			"lon": -73.8250026,
+			"lat": 40.7320567,
 			"type": "Pharmacy",
 			"address": "68-50 Main St, Flushing, NY 11367"
 		}
@@ -5031,8 +5031,8 @@
 		"pk": 458,
 		"fields": {
 			"name": "Sag Harbor Village Police Department",
-			"longitude": -72.2944597,
-			"latitude": 41.0006048,
+			"lon": -72.2944597,
+			"lat": 41.0006048,
 			"type": "Police",
 			"address": "70 Division St, Sag Harbor, NY 11963"
 		}
@@ -5042,8 +5042,8 @@
 		"pk": 459,
 		"fields": {
 			"name": "Saint Regis Mohawk Tribal Police",
-			"longitude": -74.653818,
-			"latitude": 44.9664553,
+			"lon": -74.653818,
+			"lat": 44.9664553,
 			"type": "Police",
 			"address": "412 NY-37, Akwesasne, NY 13655"
 		}
@@ -5053,8 +5053,8 @@
 		"pk": 460,
 		"fields": {
 			"name": "Salamanca City Municipal Building",
-			"longitude": -78.7071162,
-			"latitude": 42.1574713,
+			"lon": -78.7071162,
+			"lat": 42.1574713,
 			"type": "Police",
 			"address": "225 Wildwood Ave, Salamanca, NY 14779"
 		}
@@ -5064,8 +5064,8 @@
 		"pk": 461,
 		"fields": {
 			"name": "Sands Point Police Department",
-			"longitude": -73.716996,
-			"latitude": 40.852953,
+			"lon": -73.716996,
+			"lat": 40.852953,
 			"type": "Police",
 			"address": "26 Tibbits Ln, Port Washington, NY 11050"
 		}
@@ -5075,8 +5075,8 @@
 		"pk": 462,
 		"fields": {
 			"name": "Saranac Lake Police Department",
-			"longitude": -74.1319583,
-			"latitude": 44.3242147,
+			"lon": -74.1319583,
+			"lat": 44.3242147,
 			"type": "Police",
 			"address": "1 Main St, Saranac Lake, NY 12983"
 		}
@@ -5086,8 +5086,8 @@
 		"pk": 463,
 		"fields": {
 			"name": "Saratoga County Sheriff's Office",
-			"longitude": -73.8724835,
-			"latitude": 43.0203164,
+			"lon": -73.8724835,
+			"lat": 43.0203164,
 			"type": "Police",
 			"address": "6010 County Farm Rd, Ballston Spa, NY 12020"
 		}
@@ -5097,8 +5097,8 @@
 		"pk": 464,
 		"fields": {
 			"name": "Saratoga Police Department",
-			"longitude": -73.7842376,
-			"latitude": 43.0833295,
+			"lon": -73.7842376,
+			"lat": 43.0833295,
 			"type": "Police",
 			"address": "474 Broadway, Saratoga Springs, NY 12866"
 		}
@@ -5108,8 +5108,8 @@
 		"pk": 465,
 		"fields": {
 			"name": "Saratoga Springs Police Department",
-			"longitude": -73.7840416,
-			"latitude": 43.0832593,
+			"lon": -73.7840416,
+			"lat": 43.0832593,
 			"type": "Police",
 			"address": "5 Lake Ave, Saratoga Springs, NY 12866"
 		}
@@ -5119,8 +5119,8 @@
 		"pk": 466,
 		"fields": {
 			"name": "Saugerties Police Department",
-			"longitude": -73.9588511,
-			"latitude": 42.0814994,
+			"lon": -73.9588511,
+			"lat": 42.0814994,
 			"type": "Police",
 			"address": "4 High St, Saugerties, NY 12477"
 		}
@@ -5130,8 +5130,8 @@
 		"pk": 467,
 		"fields": {
 			"name": "Savall Drug",
-			"longitude": -73.5576316,
-			"latitude": 40.6763833,
+			"lon": -73.5576316,
+			"lat": 40.6763833,
 			"type": "Pharmacy",
 			"address": "393 Merrick Ave N, Merrick, NY 11566"
 		}
@@ -5141,8 +5141,8 @@
 		"pk": 468,
 		"fields": {
 			"name": "Scarsdale Police Department",
-			"longitude": -73.7654257,
-			"latitude": 40.9906692,
+			"lon": -73.7654257,
+			"lat": 40.9906692,
 			"type": "Police",
 			"address": "25 Ramsey Rd, Scarsdale, NY 10583"
 		}
@@ -5152,8 +5152,8 @@
 		"pk": 469,
 		"fields": {
 			"name": "Scarsdale Police Department",
-			"longitude": -73.7848786,
-			"latitude": 41.0051478,
+			"lon": -73.7848786,
+			"lat": 41.0051478,
 			"type": "Police",
 			"address": "50 Tompkins Rd, Scarsdale, NY 10583"
 		}
@@ -5163,8 +5163,8 @@
 		"pk": 470,
 		"fields": {
 			"name": "Schenectady County Sheriff's Office",
-			"longitude": -73.9399962,
-			"latitude": 42.8099415,
+			"lon": -73.9399962,
+			"lat": 42.8099415,
 			"type": "Police",
 			"address": "320 Veeder Ave, Schenectady, NY 12307"
 		}
@@ -5174,8 +5174,8 @@
 		"pk": 471,
 		"fields": {
 			"name": "Schenectady County Sheriff's Substation",
-			"longitude": -74.031243,
-			"latitude": 42.7804982,
+			"lon": -74.031243,
+			"lat": 42.7804982,
 			"type": "Police",
 			"address": "130 Princetown Plaza, Schenectady, NY 12306"
 		}
@@ -5185,8 +5185,8 @@
 		"pk": 472,
 		"fields": {
 			"name": "Schenectady Police Department",
-			"longitude": -73.9369924,
-			"latitude": 42.8145873,
+			"lon": -73.9369924,
+			"lat": 42.8145873,
 			"type": "Police",
 			"address": "531 Liberty St, Schenectady, NY 12305"
 		}
@@ -5196,8 +5196,8 @@
 		"pk": 473,
 		"fields": {
 			"name": "Schuyler County Human Services Complex",
-			"longitude": -76.8412703,
-			"latitude": 42.3409968,
+			"lon": -76.8412703,
+			"lat": 42.3409968,
 			"type": "Police",
 			"address": "323 Owego St, Montour Falls, NY 14865"
 		}
@@ -5207,8 +5207,8 @@
 		"pk": 474,
 		"fields": {
 			"name": "Schuyler County Sheriff / Odessa Fire Department",
-			"longitude": -76.7909279,
-			"latitude": 42.337129,
+			"lon": -76.7909279,
+			"lat": 42.337129,
 			"type": "Police",
 			"address": "300 Main St, Odessa, NY 14869"
 		}
@@ -5218,8 +5218,8 @@
 		"pk": 475,
 		"fields": {
 			"name": "Schuyler County Sheriff's Office",
-			"longitude": -76.8707899,
-			"latitude": 42.3768833,
+			"lon": -76.8707899,
+			"lat": 42.3768833,
 			"type": "Police",
 			"address": "106 10th St, Watkins Glen, NY 14891"
 		}
@@ -5229,8 +5229,8 @@
 		"pk": 476,
 		"fields": {
 			"name": "Scotia Police Department",
-			"longitude": -73.9638118,
-			"latitude": 42.8268917,
+			"lon": -73.9638118,
+			"lat": 42.8268917,
 			"type": "Police",
 			"address": "4 North Ten Broeck Street, Scotia, NY 12302"
 		}
@@ -5240,8 +5240,8 @@
 		"pk": 477,
 		"fields": {
 			"name": "Seneca County Sheriff's Office",
-			"longitude": -76.8249803,
-			"latitude": 42.7209826,
+			"lon": -76.8249803,
+			"lat": 42.7209826,
 			"type": "Police",
 			"address": "6150 NY-96, Romulus, NY 14541"
 		}
@@ -5251,8 +5251,8 @@
 		"pk": 478,
 		"fields": {
 			"name": "Setauket Fire House",
-			"longitude": -73.1132981,
-			"latitude": 40.8968929,
+			"lon": -73.1132981,
+			"lat": 40.8968929,
 			"type": "Police",
 			"address": "394 Nicolls Rd, Setauket- East Setauket, NY 11733"
 		}
@@ -5262,8 +5262,8 @@
 		"pk": 479,
 		"fields": {
 			"name": "Shadaken Police Dept",
-			"longitude": -74.3165419,
-			"latitude": 42.0844325,
+			"lon": -74.3165419,
+			"lat": 42.0844325,
 			"type": "Police",
 			"address": "58 NY-214, Phoenicia, NY 12464"
 		}
@@ -5273,8 +5273,8 @@
 		"pk": 480,
 		"fields": {
 			"name": "Shawangunk Town Police Department",
-			"longitude": -74.180924,
-			"latitude": 41.604143,
+			"lon": -74.180924,
+			"lat": 41.604143,
 			"type": "Police",
 			"address": "13 Bona Ventura Ave, Wallkill, NY 12589"
 		}
@@ -5284,8 +5284,8 @@
 		"pk": 481,
 		"fields": {
 			"name": "Shelter Island Police Department",
-			"longitude": -72.3385821,
-			"latitude": 41.0695405,
+			"lon": -72.3385821,
+			"lat": 41.0695405,
 			"type": "Police",
 			"address": "44 N Ferry Rd, Shelter Island, NY 11964"
 		}
@@ -5295,8 +5295,8 @@
 		"pk": 482,
 		"fields": {
 			"name": "Sheriff's HQ",
-			"longitude": -76.4668825,
-			"latitude": 42.4927791,
+			"lon": -76.4668825,
+			"lat": 42.4927791,
 			"type": "Police",
 			"address": "779 Warren Rd, Ithaca, NY 14850"
 		}
@@ -5306,8 +5306,8 @@
 		"pk": 483,
 		"fields": {
 			"name": "Sherrill Police Department",
-			"longitude": -75.5994344,
-			"latitude": 43.0722949,
+			"lon": -75.5994344,
+			"lat": 43.0722949,
 			"type": "Police",
 			"address": "373 Sherrill Rd, Sherrill, NY 13461"
 		}
@@ -5317,8 +5317,8 @@
 		"pk": 484,
 		"fields": {
 			"name": "Sidney Police Department",
-			"longitude": -75.390539,
-			"latitude": 42.3171807,
+			"lon": -75.390539,
+			"lat": 42.3171807,
 			"type": "Police",
 			"address": "21 Liberty St, Sidney, NY 13838"
 		}
@@ -5328,8 +5328,8 @@
 		"pk": 485,
 		"fields": {
 			"name": "Silver Creek Village Hall",
-			"longitude": -79.1695355,
-			"latitude": 42.5452377,
+			"lon": -79.1695355,
+			"lat": 42.5452377,
 			"type": "Government",
 			"address": "172 Central Ave, Silver Creek, NY 14136"
 		}
@@ -5339,8 +5339,8 @@
 		"pk": 486,
 		"fields": {
 			"name": "Sisters of Charity Hospital, St. Joseph's Campus",
-			"longitude": -78.7823226,
-			"latitude": 42.9143415,
+			"lon": -78.7823226,
+			"lat": 42.9143415,
 			"type": "Hospital",
 			"address": "2605 Harlem Rd, Cheektowaga, NY 14225"
 		}
@@ -5350,8 +5350,8 @@
 		"pk": 487,
 		"fields": {
 			"name": "Slaterville Fire Station",
-			"longitude": -76.3490308,
-			"latitude": 42.3936544,
+			"lon": -76.3490308,
+			"lat": 42.3936544,
 			"type": "Police",
 			"address": "2681 Slaterville Rd, Slaterville Springs, NY 14881"
 		}
@@ -5361,8 +5361,8 @@
 		"pk": 488,
 		"fields": {
 			"name": "Sleepyhollow Police Department",
-			"longitude": -73.8594878,
-			"latitude": 41.0849525,
+			"lon": -73.8594878,
+			"lat": 41.0849525,
 			"type": "Police",
 			"address": "28 Beekman Ave, Sleepy Hollow, NY 10591"
 		}
@@ -5372,8 +5372,8 @@
 		"pk": 489,
 		"fields": {
 			"name": "Smithtown Public Safety",
-			"longitude": -73.1962886,
-			"latitude": 40.852974,
+			"lon": -73.1962886,
+			"lat": 40.852974,
 			"type": "Police",
 			"address": "65 Maple Ave, Smithtown, NY 11787"
 		}
@@ -5383,8 +5383,8 @@
 		"pk": 490,
 		"fields": {
 			"name": "Somers Police Department",
-			"longitude": -73.7169133,
-			"latitude": 41.318144,
+			"lon": -73.7169133,
+			"lat": 41.318144,
 			"type": "Police",
 			"address": "139 Primrose St, Somers, NY 10589"
 		}
@@ -5394,8 +5394,8 @@
 		"pk": 491,
 		"fields": {
 			"name": "Somers Police Department",
-			"longitude": -73.715512,
-			"latitude": 41.3070316,
+			"lon": -73.715512,
+			"lat": 41.3070316,
 			"type": "Police",
 			"address": "98 Primrose St, Katonah, NY 10536"
 		}
@@ -5405,8 +5405,8 @@
 		"pk": 492,
 		"fields": {
 			"name": "Southampton Town Police Department",
-			"longitude": -72.538956,
-			"latitude": 40.886659,
+			"lon": -72.538956,
+			"lat": 40.886659,
 			"type": "Police",
 			"address": "110 Old Riverhead Rd, Hampton Bays, NY 11946"
 		}
@@ -5416,8 +5416,8 @@
 		"pk": 493,
 		"fields": {
 			"name": "Southold Police Department",
-			"longitude": -72.4563728,
-			"latitude": 41.0397194,
+			"lon": -72.4563728,
+			"lat": 41.0397194,
 			"type": "Police",
 			"address": "41405 NY-25, Peconic, NY 11958"
 		}
@@ -5427,8 +5427,8 @@
 		"pk": 494,
 		"fields": {
 			"name": "Southside Hospital",
-			"longitude": -73.241505,
-			"latitude": 40.7257613,
+			"lon": -73.241505,
+			"lat": 40.7257613,
 			"type": "Hospital",
 			"address": "301 E Main St, Bay Shore, NY 11706"
 		}
@@ -5438,8 +5438,8 @@
 		"pk": 495,
 		"fields": {
 			"name": "Southside Pharmacy",
-			"longitude": -79.2279091,
-			"latitude": 42.079808,
+			"lon": -79.2279091,
+			"lat": 42.079808,
 			"type": "Police",
 			"address": "766 Foote Ave, Jamestown, NY 14701"
 		}
@@ -5449,8 +5449,8 @@
 		"pk": 496,
 		"fields": {
 			"name": "St. George Pharmacy",
-			"longitude": -74.0773914,
-			"latitude": 40.6438301,
+			"lon": -74.0773914,
+			"lat": 40.6438301,
 			"type": "Pharmacy",
 			"address": "99 Stuyvesant Pl, Staten Island, NY 10301"
 		}
@@ -5460,8 +5460,8 @@
 		"pk": 497,
 		"fields": {
 			"name": "St. Lawrence County Sheriff's Office",
-			"longitude": -75.1696157,
-			"latitude": 44.5986572,
+			"lon": -75.1696157,
+			"lat": 44.5986572,
 			"type": "Police",
 			"address": "48 Court St, Canton, NY 13617"
 		}
@@ -5471,8 +5471,8 @@
 		"pk": 498,
 		"fields": {
 			"name": "Sterling Pharmacy",
-			"longitude": -73.7722275,
-			"latitude": 40.7664768,
+			"lon": -73.7722275,
+			"lat": 40.7664768,
 			"type": "Pharmacy",
 			"address": "38-01 Bell Blvd, Bayside, NY 11361"
 		}
@@ -5482,8 +5482,8 @@
 		"pk": 499,
 		"fields": {
 			"name": "Steuben County Clerk",
-			"longitude": -77.3167746,
-			"latitude": 42.3329678,
+			"lon": -77.3167746,
+			"lat": 42.3329678,
 			"type": "Government",
 			"address": "3 East Pulteney Square, Bath, NY 14810"
 		}
@@ -5493,8 +5493,8 @@
 		"pk": 500,
 		"fields": {
 			"name": "Steuben County Sheriff's Office",
-			"longitude": -77.29539,
-			"latitude": 42.350548,
+			"lon": -77.29539,
+			"lat": 42.350548,
 			"type": "Police",
 			"address": "6979/7007 Rumsey Street Extension, Bath, NY 14810"
 		}
@@ -5504,8 +5504,8 @@
 		"pk": 501,
 		"fields": {
 			"name": "Stone's Pharmacy",
-			"longitude": -73.8411252,
-			"latitude": 43.3167686,
+			"lon": -73.8411252,
+			"lat": 43.3167686,
 			"type": "Pharmacy",
 			"address": "1 Main St, Lake Luzerne, NY 12846"
 		}
@@ -5515,8 +5515,8 @@
 		"pk": 502,
 		"fields": {
 			"name": "Strong Memorial Hospital Pharmacy",
-			"longitude": -77.624972,
-			"latitude": 43.1231147,
+			"lon": -77.624972,
+			"lat": 43.1231147,
 			"type": "Hospital",
 			"address": "601 Elmwood Ave, Rochester, NY 14642"
 		}
@@ -5526,8 +5526,8 @@
 		"pk": 503,
 		"fields": {
 			"name": "Strong Ties Community Support Clinic Pharmacy",
-			"longitude": -77.6332079,
-			"latitude": 43.0998636,
+			"lon": -77.6332079,
+			"lat": 43.0998636,
 			"type": "Pharmacy",
 			"address": "2613 W Henrietta Rd, Rochester, NY 14623"
 		}
@@ -5537,8 +5537,8 @@
 		"pk": 504,
 		"fields": {
 			"name": "Suffolk County Police Department - Fifth Precinct",
-			"longitude": -73.0256308,
-			"latitude": 40.7684241,
+			"lon": -73.0256308,
+			"lat": 40.7684241,
 			"type": "Police",
 			"address": "125 Waverly Ave, Patchogue, NY 11772"
 		}
@@ -5548,8 +5548,8 @@
 		"pk": 505,
 		"fields": {
 			"name": "Suffolk County Police Department - First Precinct",
-			"longitude": -73.3712778,
-			"latitude": 40.7129129,
+			"lon": -73.3712778,
+			"lat": 40.7129129,
 			"type": "Police",
 			"address": "555 Babylon Farmingdale Rd, West Babylon, NY 11704"
 		}
@@ -5559,8 +5559,8 @@
 		"pk": 506,
 		"fields": {
 			"name": "Suffolk County Police Department - Fourth Precinct",
-			"longitude": -73.1963532,
-			"latitude": 40.8174565,
+			"lon": -73.1963532,
+			"lat": 40.8174565,
 			"type": "Police",
 			"address": "727 Veterans Memorial Hwy, Hauppauge, NY 11788"
 		}
@@ -5570,8 +5570,8 @@
 		"pk": 507,
 		"fields": {
 			"name": "Suffolk County Police Department - Second Precinct",
-			"longitude": -73.3636395,
-			"latitude": 40.8346897,
+			"lon": -73.3636395,
+			"lat": 40.8346897,
 			"type": "Police",
 			"address": "1071 Park Ave, Huntington, NY 11743"
 		}
@@ -5581,8 +5581,8 @@
 		"pk": 508,
 		"fields": {
 			"name": "Suffolk County Police Department - Seventh Precinct",
-			"longitude": -72.8861982,
-			"latitude": 40.8406024,
+			"lon": -72.8861982,
+			"lat": 40.8406024,
 			"type": "Police",
 			"address": "1491 William Floyd Pkwy, Shirley, NY 11967"
 		}
@@ -5592,8 +5592,8 @@
 		"pk": 509,
 		"fields": {
 			"name": "Suffolk County Police Department - Sixth Precinct",
-			"longitude": -73.0992168,
-			"latitude": 40.8947928,
+			"lon": -73.0992168,
+			"lat": 40.8947928,
 			"type": "Police",
 			"address": "25th St, Stony Brook, NY 11790"
 		}
@@ -5603,8 +5603,8 @@
 		"pk": 510,
 		"fields": {
 			"name": "Suffolk County Police Department - Sixth Precinct",
-			"longitude": -73.0249389,
-			"latitude": 40.8665875,
+			"lon": -73.0249389,
+			"lat": 40.8665875,
 			"type": "Police",
 			"address": "400 Middle Country Rd, Selden, NY 11784"
 		}
@@ -5614,8 +5614,8 @@
 		"pk": 511,
 		"fields": {
 			"name": "Suffolk County Police Department - Third Precinct",
-			"longitude": -73.263129,
-			"latitude": 40.7583699,
+			"lon": -73.263129,
+			"lat": 40.7583699,
 			"type": "Police",
 			"address": "1630 5th Ave, Bay Shore, NY 11706"
 		}
@@ -5625,8 +5625,8 @@
 		"pk": 512,
 		"fields": {
 			"name": "Summit Park Pharmacy",
-			"longitude": -78.9069748,
-			"latitude": 43.0918514,
+			"lon": -78.9069748,
+			"lat": 43.0918514,
 			"type": "Pharmacy",
 			"address": "2578 Niagara Falls Blvd, Niagara Falls, NY 14304"
 		}
@@ -5636,8 +5636,8 @@
 		"pk": 513,
 		"fields": {
 			"name": "SUNY Cortland University Police",
-			"longitude": -76.1949015,
-			"latitude": 42.5934875,
+			"lon": -76.1949015,
+			"lat": 42.5934875,
 			"type": "Police",
 			"address": "4 Pashley Dr, Cortland, NY 13045"
 		}
@@ -5647,8 +5647,8 @@
 		"pk": 514,
 		"fields": {
 			"name": "SUNY New Paltz University Police Department",
-			"longitude": -74.0851655,
-			"latitude": 41.7390054,
+			"lon": -74.0851655,
+			"lat": 41.7390054,
 			"type": "Police",
 			"address": "1 Hawk Dr, New Paltz, NY 12561"
 		}
@@ -5658,8 +5658,8 @@
 		"pk": 515,
 		"fields": {
 			"name": "SUNY Old Westbury",
-			"longitude": -73.5799522,
-			"latitude": 40.7804509,
+			"lon": -73.5799522,
+			"lat": 40.7804509,
 			"type": "Police",
 			"address": "223 Store Hill Rd, Old Westbury, NY 11568"
 		}
@@ -5669,8 +5669,8 @@
 		"pk": 516,
 		"fields": {
 			"name": "Super Health Pharmacy",
-			"longitude": -74.2152896,
-			"latitude": 40.5221133,
+			"lon": -74.2152896,
+			"lat": 40.5221133,
 			"type": "Pharmacy",
 			"address": "6400 Amboy Rd, Staten Island, NY 10309"
 		}
@@ -5680,8 +5680,8 @@
 		"pk": 517,
 		"fields": {
 			"name": "Syracuse Police Department",
-			"longitude": -76.1469493,
-			"latitude": 43.0467898,
+			"lon": -76.1469493,
+			"lat": 43.0467898,
 			"type": "Police",
 			"address": "511 S State St, Syracuse, NY 13202"
 		}
@@ -5691,8 +5691,8 @@
 		"pk": 518,
 		"fields": {
 			"name": "T.C. Dept of Probation",
-			"longitude": -76.5031156,
-			"latitude": 42.4397605,
+			"lon": -76.5031156,
+			"lat": 42.4397605,
 			"type": "Police",
 			"address": "320 W State St, Ithaca, NY 14850"
 		}
@@ -5702,8 +5702,8 @@
 		"pk": 519,
 		"fields": {
 			"name": "Taconic Pharmacy",
-			"longitude": -73.8096958,
-			"latitude": 41.3325647,
+			"lon": -73.8096958,
+			"lat": 41.3325647,
 			"type": "Pharmacy",
 			"address": "3659 Lee Road, Yorktown Heights, NY 10598"
 		}
@@ -5713,8 +5713,8 @@
 		"pk": 520,
 		"fields": {
 			"name": "Tarrytown Police Dept",
-			"longitude": -73.8638675,
-			"latitude": 41.0766407,
+			"lon": -73.8638675,
+			"lat": 41.0766407,
 			"type": "Police",
 			"address": "1 Depot Plaza, Tarrytown, NY 10591"
 		}
@@ -5724,8 +5724,8 @@
 		"pk": 521,
 		"fields": {
 			"name": "TC3 Campus Police (Tomp Cort Comm College)",
-			"longitude": -76.2865588,
-			"latitude": 42.5026424,
+			"lon": -76.2865588,
+			"lat": 42.5026424,
 			"type": "Police",
 			"address": "170 North Street, Dryden, NY 13053"
 		}
@@ -5735,8 +5735,8 @@
 		"pk": 522,
 		"fields": {
 			"name": "The Medicine Shoppe",
-			"longitude": -74.7249738,
-			"latitude": 41.7844587,
+			"lon": -74.7249738,
+			"lat": 41.7844587,
 			"type": "Pharmacy",
 			"address": "1987 NY-52, Liberty, NY 12754"
 		}
@@ -5746,8 +5746,8 @@
 		"pk": 523,
 		"fields": {
 			"name": "The Medicine Shoppe",
-			"longitude": -77.2843074,
-			"latitude": 42.8875138,
+			"lon": -77.2843074,
+			"lat": 42.8875138,
 			"type": "Pharmacy",
 			"address": "66 West Ave, Canandaigua, NY 14424"
 		}
@@ -5757,8 +5757,8 @@
 		"pk": 524,
 		"fields": {
 			"name": "The Medicine Shoppe Pharmacy of Liberty",
-			"longitude": -74.7249011,
-			"latitude": 41.7844228,
+			"lon": -74.7249011,
+			"lat": 41.7844228,
 			"type": "Pharmacy",
 			"address": "1987 State Route 52 Colonial Square, Liberty, NY 12754"
 		}
@@ -5768,8 +5768,8 @@
 		"pk": 525,
 		"fields": {
 			"name": "The Pharmacy at Trillium Health",
-			"longitude": -77.5993682,
-			"latitude": 43.1491263,
+			"lon": -77.5993682,
+			"lat": 43.1491263,
 			"type": "Pharmacy",
 			"address": "259 Monroe Ave, Rochester, NY 14607"
 		}
@@ -5779,8 +5779,8 @@
 		"pk": 526,
 		"fields": {
 			"name": "Ticonderoga Police Department",
-			"longitude": -73.4245919,
-			"latitude": 43.8520356,
+			"lon": -73.4245919,
+			"lat": 43.8520356,
 			"type": "Police",
 			"address": "135 Burgoyne Rd, Ticonderoga, NY 12883"
 		}
@@ -5790,8 +5790,8 @@
 		"pk": 527,
 		"fields": {
 			"name": "Tile Pharmacy",
-			"longitude": -78.7612147,
-			"latitude": 42.9450389,
+			"lon": -78.7612147,
+			"lat": 42.9450389,
 			"type": "Pharmacy",
 			"address": "1031 Cleveland Dr, Cheektowaga, NY 14225"
 		}
@@ -5801,8 +5801,8 @@
 		"pk": 528,
 		"fields": {
 			"name": "Tioga County Sheriff's Office",
-			"longitude": -76.2658065,
-			"latitude": 42.1421101,
+			"lon": -76.2658065,
+			"lat": 42.1421101,
 			"type": "Police",
 			"address": "103 Corporate Dr, Owego, NY 13827"
 		}
@@ -5812,8 +5812,8 @@
 		"pk": 529,
 		"fields": {
 			"name": "Tompkins Cortland Community College Campus Police",
-			"longitude": -76.3115253,
-			"latitude": 42.4899264,
+			"lon": -76.3115253,
+			"lat": 42.4899264,
 			"type": "School",
 			"address": "117 W Main St, Dryden, NY 13053"
 		}
@@ -5823,8 +5823,8 @@
 		"pk": 530,
 		"fields": {
 			"name": "Tompkins Cortland Community College Police Department",
-			"longitude": -76.3105052,
-			"latitude": 42.5003364,
+			"lon": -76.3105052,
+			"lat": 42.5003364,
 			"type": "School",
 			"address": "118 Freeville Rd, Dryden, NY 13053"
 		}
@@ -5834,8 +5834,8 @@
 		"pk": 531,
 		"fields": {
 			"name": "Tops Markets",
-			"longitude": -79.243529,
-			"latitude": 42.1097415,
+			"lon": -79.243529,
+			"lat": 42.1097415,
 			"type": "Pharmacy",
 			"address": "2000 Washington St, Jamestown, NY 14701"
 		}
@@ -5845,8 +5845,8 @@
 		"pk": 532,
 		"fields": {
 			"name": "Tops Markets",
-			"longitude": -78.6837337,
-			"latitude": 42.8998539,
+			"lon": -78.6837337,
+			"lat": 42.8998539,
 			"type": "Pharmacy",
 			"address": "5175 Broadway, Depew, NY 14043"
 		}
@@ -5856,8 +5856,8 @@
 		"pk": 533,
 		"fields": {
 			"name": "Town of Cicero Police Department",
-			"longitude": -76.1152384,
-			"latitude": 43.1692417,
+			"lon": -76.1152384,
+			"lat": 43.1692417,
 			"type": "Police",
 			"address": "8236 Brewerton Rd, Cicero, NY 13039"
 		}
@@ -5867,8 +5867,8 @@
 		"pk": 534,
 		"fields": {
 			"name": "Town of Hamburg Police Department",
-			"longitude": -78.824548,
-			"latitude": 42.7290198,
+			"lon": -78.824548,
+			"lat": 42.7290198,
 			"type": "Police",
 			"address": "6100 South Park Ave, Hamburg, NY 14075"
 		}
@@ -5878,8 +5878,8 @@
 		"pk": 535,
 		"fields": {
 			"name": "Town of Hyde Park Police Department",
-			"longitude": -73.9104083,
-			"latitude": 41.7894808,
+			"lon": -73.9104083,
+			"lat": 41.7894808,
 			"type": "Police",
 			"address": "3 Cardinal Rd, Hyde Park, NY 12538"
 		}
@@ -5889,8 +5889,8 @@
 		"pk": 536,
 		"fields": {
 			"name": "Town of Lloyd Police Department",
-			"longitude": -73.9642987,
-			"latitude": 41.716986,
+			"lon": -73.9642987,
+			"lat": 41.716986,
 			"type": "Police",
 			"address": "25 Milton Ave, Highland, NY 12528"
 		}
@@ -5900,8 +5900,8 @@
 		"pk": 537,
 		"fields": {
 			"name": "Town of Mamaroneck Police Department",
-			"longitude": -73.7470462,
-			"latitude": 40.933901,
+			"lon": -73.7470462,
+			"lat": 40.933901,
 			"type": "Police",
 			"address": "740 W Boston Post Rd #1, Mamaroneck, NY 10543"
 		}
@@ -5911,8 +5911,8 @@
 		"pk": 538,
 		"fields": {
 			"name": "Town of New Windsor Police Department",
-			"longitude": -74.0628274,
-			"latitude": 41.4824513,
+			"lon": -74.0628274,
+			"lat": 41.4824513,
 			"type": "Police",
 			"address": "555 Union Ave, New Windsor, NY 12553"
 		}
@@ -5922,8 +5922,8 @@
 		"pk": 539,
 		"fields": {
 			"name": "Town of North Caste Police Department",
-			"longitude": -73.7129848,
-			"latitude": 41.1244934,
+			"lon": -73.7129848,
+			"lat": 41.1244934,
 			"type": "Police",
 			"address": "15 Bedford Rd, Armonk, NY 10504"
 		}
@@ -5933,8 +5933,8 @@
 		"pk": 540,
 		"fields": {
 			"name": "Town of Poughkeepsie Police Department",
-			"longitude": -73.8897798,
-			"latitude": 41.7052525,
+			"lon": -73.8897798,
+			"lat": 41.7052525,
 			"type": "Police",
 			"address": "19 Tucker Dr, Arlington, NY 12603"
 		}
@@ -5944,8 +5944,8 @@
 		"pk": 541,
 		"fields": {
 			"name": "Town of Seneca Falls Police Department",
-			"longitude": -76.7982137,
-			"latitude": 42.901113,
+			"lon": -76.7982137,
+			"lat": 42.901113,
 			"type": "Police",
 			"address": "130 Ovid St, Seneca Falls, NY 13148"
 		}
@@ -5955,8 +5955,8 @@
 		"pk": 542,
 		"fields": {
 			"name": "Town of Ulster Police Department",
-			"longitude": -74.002515,
-			"latitude": 41.9765591,
+			"lon": -74.002515,
+			"lat": 41.9765591,
 			"type": "Police",
 			"address": "1 Town Hall Rd, Lake Katrine, NY 12449"
 		}
@@ -5966,8 +5966,8 @@
 		"pk": 543,
 		"fields": {
 			"name": "Town of Wallkill Police Department",
-			"longitude": -74.374967,
-			"latitude": 41.4669178,
+			"lon": -74.374967,
+			"lat": 41.4669178,
 			"type": "Police",
 			"address": "99 Tower Dr, Middletown, NY 10941"
 		}
@@ -5977,8 +5977,8 @@
 		"pk": 544,
 		"fields": {
 			"name": "Town of Warwick Police Department",
-			"longitude": -74.3367293,
-			"latitude": 41.2695812,
+			"lon": -74.3367293,
+			"lat": 41.2695812,
 			"type": "Police",
 			"address": "132 Kings Hwy, Warwick, NY 10990"
 		}
@@ -5988,8 +5988,8 @@
 		"pk": 545,
 		"fields": {
 			"name": "Town of Waterford Police Department",
-			"longitude": -73.6785321,
-			"latitude": 42.7904424,
+			"lon": -73.6785321,
+			"lat": 42.7904424,
 			"type": "Police",
 			"address": "65 Broad St, Waterford, NY 12188"
 		}
@@ -5999,8 +5999,8 @@
 		"pk": 546,
 		"fields": {
 			"name": "Town of Webb Police Department",
-			"longitude": -74.970628,
-			"latitude": 43.71242,
+			"lon": -74.970628,
+			"lat": 43.71242,
 			"type": "Police",
 			"address": "3139 NY-28, Old Forge, NY 13420"
 		}
@@ -6010,8 +6010,8 @@
 		"pk": 547,
 		"fields": {
 			"name": "Town of Woodbury Police Department",
-			"longitude": -74.1252032,
-			"latitude": 41.3389369,
+			"lon": -74.1252032,
+			"lat": 41.3389369,
 			"type": "Police",
 			"address": "386 NY-32, Central Valley, NY 10917"
 		}
@@ -6021,8 +6021,8 @@
 		"pk": 548,
 		"fields": {
 			"name": "Towne Centre Pharmacy",
-			"longitude": -73.6686588,
-			"latitude": 41.5981369,
+			"lon": -73.6686588,
+			"lat": 41.5981369,
 			"type": "Pharmacy",
 			"address": "2540 Old Rte 55, Poughquag, NY 12570"
 		}
@@ -6032,8 +6032,8 @@
 		"pk": 549,
 		"fields": {
 			"name": "Transcript Pharmacy of New York",
-			"longitude": -73.4604669,
-			"latitude": 40.7312501,
+			"lon": -73.4604669,
+			"lat": 40.7312501,
 			"type": "Pharmacy",
 			"address": "87 Hempstead Turnpike, Farmingdale, NY 11735"
 		}
@@ -6043,8 +6043,8 @@
 		"pk": 550,
 		"fields": {
 			"name": "Trenton Town Hall",
-			"longitude": -75.185125,
-			"latitude": 43.2741533,
+			"lon": -75.185125,
+			"lat": 43.2741533,
 			"type": "Government",
 			"address": "8520 Old Poland Rd, Barneveld, NY 13304"
 		}
@@ -6054,8 +6054,8 @@
 		"pk": 551,
 		"fields": {
 			"name": "Trotta's West Street Pharmacy",
-			"longitude": -73.7228252,
-			"latitude": 40.9620509,
+			"lon": -73.7228252,
+			"lat": 40.9620509,
 			"type": "Pharmacy",
 			"address": "15 Halstead Ave, Mamaroneck, NY 10543"
 		}
@@ -6065,8 +6065,8 @@
 		"pk": 552,
 		"fields": {
 			"name": "Trumansburg Police Department",
-			"longitude": -76.6608219,
-			"latitude": 42.5413822,
+			"lon": -76.6608219,
+			"lat": 42.5413822,
 			"type": "Police",
 			"address": "5 Elm St, Trumansburg, NY 14886"
 		}
@@ -6076,8 +6076,8 @@
 		"pk": 553,
 		"fields": {
 			"name": "Tuckahoe Police Department",
-			"longitude": -73.8266975,
-			"latitude": 40.9505291,
+			"lon": -73.8266975,
+			"lat": 40.9505291,
 			"type": "Police",
 			"address": "65 Main St, Tuckahoe, NY 10707"
 		}
@@ -6087,8 +6087,8 @@
 		"pk": 554,
 		"fields": {
 			"name": "Tyrone Fire Department",
-			"longitude": -77.0552222,
-			"latitude": 42.4041845,
+			"lon": -77.0552222,
+			"lat": 42.4041845,
 			"type": "Police",
 			"address": "3600 NY-226, Watkins Glen, NY 14891"
 		}
@@ -6098,8 +6098,8 @@
 		"pk": 555,
 		"fields": {
 			"name": "U & I Pharmacy",
-			"longitude": -75.5405799,
-			"latitude": 43.0788676,
+			"lon": -75.5405799,
+			"lat": 43.0788676,
 			"type": "Pharmacy",
 			"address": "5236 W Seneca St, Vernon, NY 13476"
 		}
@@ -6109,8 +6109,8 @@
 		"pk": 556,
 		"fields": {
 			"name": "Ulster County Sheriff",
-			"longitude": -73.9803385,
-			"latitude": 41.9179234,
+			"lon": -73.9803385,
+			"lat": 41.9179234,
 			"type": "Police",
 			"address": "284 Broadway, Port Ewen, NY 12466"
 		}
@@ -6120,8 +6120,8 @@
 		"pk": 557,
 		"fields": {
 			"name": "Ulster County Sheriff's Department",
-			"longitude": -74.015976,
-			"latitude": 41.912252,
+			"lon": -74.015976,
+			"lat": 41.912252,
 			"type": "Police",
 			"address": "380 Boulevard, Kingston, NY 12401"
 		}
@@ -6131,8 +6131,8 @@
 		"pk": 558,
 		"fields": {
 			"name": "Ulster County Sheriff's Department Shandaken Sub-Station",
-			"longitude": -74.3699533,
-			"latitude": 42.1162537,
+			"lon": -74.3699533,
+			"lat": 42.1162537,
 			"type": "Police",
 			"address": "7209 NY-28, Shandaken, NY 12480"
 		}
@@ -6142,8 +6142,8 @@
 		"pk": 559,
 		"fields": {
 			"name": "Ulster County Sheriff's Department Wallkill Sub-Station",
-			"longitude": -74.1822533,
-			"latitude": 41.5998742,
+			"lon": -74.1822533,
+			"lat": 41.5998742,
 			"type": "Police",
 			"address": "3063 NY-208, Wallkill, NY 12589"
 		}
@@ -6153,8 +6153,8 @@
 		"pk": 560,
 		"fields": {
 			"name": "University at Buffalo University Police",
-			"longitude": -78.780604,
-			"latitude": 42.9986,
+			"lon": -78.780604,
+			"lat": 42.9986,
 			"type": "Police",
 			"address": "Bissell Hall, Buffalo, NY 14228"
 		}
@@ -6164,8 +6164,8 @@
 		"pk": 561,
 		"fields": {
 			"name": "US Army Conner Troop Medical Clinic",
-			"longitude": -75.8116772,
-			"latitude": 44.0598656,
+			"lon": -75.8116772,
+			"lat": 44.0598656,
 			"type": "Government",
 			"address": "11050 Mt Belvedere Blvd, Fort Drum, NY 13602"
 		}
@@ -6175,8 +6175,8 @@
 		"pk": 562,
 		"fields": {
 			"name": "US Army Keller Community Hospital",
-			"longitude": -73.9773423,
-			"latitude": 41.4017759,
+			"lon": -73.9773423,
+			"lat": 41.4017759,
 			"type": "Hospital",
 			"address": "900 Washington Rd, West Point, NY 10996"
 		}
@@ -6186,8 +6186,8 @@
 		"pk": 563,
 		"fields": {
 			"name": "US Army Malogne Cadet Health Clinic",
-			"longitude": -73.9625263,
-			"latitude": 41.3767619,
+			"lon": -73.9625263,
+			"lat": 41.3767619,
 			"type": "Government",
 			"address": "2 Thayer Rd, West Point, NY 10996"
 		}
@@ -6197,8 +6197,8 @@
 		"pk": 564,
 		"fields": {
 			"name": "Vassar Brothers Medical Hospital",
-			"longitude": -73.9361727,
-			"latitude": 41.6937994,
+			"lon": -73.9361727,
+			"lat": 41.6937994,
 			"type": "Police",
 			"address": "45 Reade Pl, Poughkeepsie, NY 12601"
 		}
@@ -6208,8 +6208,8 @@
 		"pk": 565,
 		"fields": {
 			"name": "Vestal Fire Station 4",
-			"longitude": -75.9933547,
-			"latitude": 42.0970976,
+			"lon": -75.9933547,
+			"lat": 42.0970976,
 			"type": "Police",
 			"address": "3341 Vestal Pkwy E, Vestal, NY 13850"
 		}
@@ -6219,8 +6219,8 @@
 		"pk": 566,
 		"fields": {
 			"name": "Vic Vena Pharmacy",
-			"longitude": -78.4452644,
-			"latitude": 42.0779279,
+			"lon": -78.4452644,
+			"lat": 42.0779279,
 			"type": "Pharmacy",
 			"address": "1322 W State St, Olean, NY 14760"
 		}
@@ -6230,8 +6230,8 @@
 		"pk": 567,
 		"fields": {
 			"name": "Victory RX",
-			"longitude": -74.1025584,
-			"latitude": 40.6309404,
+			"lon": -74.1025584,
+			"lat": 40.6309404,
 			"type": "Pharmacy",
 			"address": "395 Forest Ave, Staten Island, NY 10301"
 		}
@@ -6241,8 +6241,8 @@
 		"pk": 568,
 		"fields": {
 			"name": "Village of Bainbridge Town Hall",
-			"longitude": -75.4798462,
-			"latitude": 42.2938902,
+			"lon": -75.4798462,
+			"lat": 42.2938902,
 			"type": "Government",
 			"address": "15 N Main St., Bainbridge, NY 13733"
 		}
@@ -6252,8 +6252,8 @@
 		"pk": 569,
 		"fields": {
 			"name": "Village of Chester Police Department",
-			"longitude": -74.2721491,
-			"latitude": 41.3620734,
+			"lon": -74.2721491,
+			"lat": 41.3620734,
 			"type": "Police",
 			"address": "45 Main St, Chester, NY 10918"
 		}
@@ -6263,8 +6263,8 @@
 		"pk": 570,
 		"fields": {
 			"name": "Village of Dobbs Ferry",
-			"longitude": -73.8746634,
-			"latitude": 41.0150434,
+			"lon": -73.8746634,
+			"lat": 41.0150434,
 			"type": "Police",
 			"address": "112 Main St, Dobbs Ferry, NY 10522"
 		}
@@ -6274,8 +6274,8 @@
 		"pk": 571,
 		"fields": {
 			"name": "Village of Ellenville Police",
-			"longitude": -74.3959954,
-			"latitude": 41.7182002,
+			"lon": -74.3959954,
+			"lat": 41.7182002,
 			"type": "Police",
 			"address": "2 Elting Ct, Ellenville, NY 12428"
 		}
@@ -6285,8 +6285,8 @@
 		"pk": 572,
 		"fields": {
 			"name": "Village of Greenwood Lake Police Department",
-			"longitude": -74.2929715,
-			"latitude": 41.2218731,
+			"lon": -74.2929715,
+			"lat": 41.2218731,
 			"type": "Police",
 			"address": "16 Church St, Greenwood Lake, NY 10925"
 		}
@@ -6296,8 +6296,8 @@
 		"pk": 573,
 		"fields": {
 			"name": "Village of Monroe Police Department",
-			"longitude": -74.1868855,
-			"latitude": 41.3277116,
+			"lon": -74.1868855,
+			"lat": 41.3277116,
 			"type": "Police",
 			"address": "104 Stage Rd, Monroe, NY 10950"
 		}
@@ -6307,8 +6307,8 @@
 		"pk": 574,
 		"fields": {
 			"name": "Village of Newark Police Department",
-			"longitude": -77.0935436,
-			"latitude": 43.0461122,
+			"lon": -77.0935436,
+			"lat": 43.0461122,
 			"type": "Police",
 			"address": "100 E Miller St, Newark, NY 14513"
 		}
@@ -6318,8 +6318,8 @@
 		"pk": 575,
 		"fields": {
 			"name": "Village of Owego Police Department",
-			"longitude": -76.2626208,
-			"latitude": 42.1050019,
+			"lon": -76.2626208,
+			"lat": 42.1050019,
 			"type": "Police",
 			"address": "90 Temple St, Owego, NY 13827"
 		}
@@ -6329,8 +6329,8 @@
 		"pk": 576,
 		"fields": {
 			"name": "Village of Walden Police Department",
-			"longitude": -74.1902045,
-			"latitude": 41.5603506,
+			"lon": -74.1902045,
+			"lat": 41.5603506,
 			"type": "Police",
 			"address": "1 Municipal Square, Walden, NY 12586"
 		}
@@ -6340,8 +6340,8 @@
 		"pk": 577,
 		"fields": {
 			"name": "Village of Wappingers Falls Police Department",
-			"longitude": -73.9175041,
-			"latitude": 41.5970183,
+			"lon": -73.9175041,
+			"lat": 41.5970183,
 			"type": "Police",
 			"address": "2628 South Ave, Wappingers Falls, NY 12590"
 		}
@@ -6351,8 +6351,8 @@
 		"pk": 578,
 		"fields": {
 			"name": "Village of Washingtonville Police Department",
-			"longitude": -74.1643881,
-			"latitude": 41.4281594,
+			"lon": -74.1643881,
+			"lat": 41.4281594,
 			"type": "Police",
 			"address": "38 E Main St, Washingtonville, NY 10992"
 		}
@@ -6362,8 +6362,8 @@
 		"pk": 579,
 		"fields": {
 			"name": "Village of Westfield Police Department",
-			"longitude": -79.5760946,
-			"latitude": 42.3222159,
+			"lon": -79.5760946,
+			"lat": 42.3222159,
 			"type": "Police",
 			"address": "23 Elm St, Westfield, NY 14787"
 		}
@@ -6373,8 +6373,8 @@
 		"pk": 580,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.6194479,
-			"latitude": 40.7077759,
+			"lon": -73.6194479,
+			"lat": 40.7077759,
 			"type": "Pharmacy",
 			"address": "393 Front St, Hempstead, NY 11550"
 		}
@@ -6384,8 +6384,8 @@
 		"pk": 581,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9788366,
-			"latitude": 40.6426918,
+			"lon": -73.9788366,
+			"lat": 40.6426918,
 			"type": "Pharmacy",
 			"address": "114 Beverley Rd, Brooklyn, NY 11218"
 		}
@@ -6395,8 +6395,8 @@
 		"pk": 582,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9501763,
-			"latitude": 40.6806162,
+			"lon": -73.9501763,
+			"lat": 40.6806162,
 			"type": "Pharmacy",
 			"address": "1281 Fulton St, Brooklyn, NY 11216"
 		}
@@ -6406,8 +6406,8 @@
 		"pk": 583,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.5198861,
-			"latitude": 40.7635824,
+			"lon": -73.5198861,
+			"lat": 40.7635824,
 			"type": "Pharmacy",
 			"address": "210 S Broadway, Hicksville, NY 11801"
 		}
@@ -6417,8 +6417,8 @@
 		"pk": 584,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -76.549636,
-			"latitude": 42.9442418,
+			"lon": -76.549636,
+			"lat": 42.9442418,
 			"type": "Pharmacy",
 			"address": "150 Grant Ave, Auburn, NY 13021"
 		}
@@ -6428,8 +6428,8 @@
 		"pk": 585,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -75.4584147,
-			"latitude": 43.2090986,
+			"lon": -75.4584147,
+			"lat": 43.2090986,
 			"type": "Pharmacy",
 			"address": "201 S James St, Rome, NY 13440"
 		}
@@ -6439,8 +6439,8 @@
 		"pk": 586,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -74.1849997,
-			"latitude": 42.9594985,
+			"lon": -74.1849997,
+			"lat": 42.9594985,
 			"type": "Pharmacy",
 			"address": "4999 NY-30, Amsterdam, NY 12010"
 		}
@@ -6450,8 +6450,8 @@
 		"pk": 587,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.904843,
-			"latitude": 40.878411,
+			"lon": -73.904843,
+			"lat": 40.878411,
 			"type": "Pharmacy",
 			"address": "5564 Broadway, Bronx, NY 10463"
 		}
@@ -6461,8 +6461,8 @@
 		"pk": 588,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9849812,
-			"latitude": 40.768062,
+			"lon": -73.9849812,
+			"lat": 40.768062,
 			"type": "Pharmacy",
 			"address": "353 W 57th St FRNT 2, New York, NY 10019"
 		}
@@ -6472,8 +6472,8 @@
 		"pk": 589,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.844402,
-			"latitude": 40.720547,
+			"lon": -73.844402,
+			"lat": 40.720547,
 			"type": "Pharmacy",
 			"address": "10716 71st Ave, Forest Hills, NY 11375"
 		}
@@ -6483,8 +6483,8 @@
 		"pk": 590,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.892395,
-			"latitude": 40.7491042,
+			"lon": -73.892395,
+			"lat": 40.7491042,
 			"type": "Pharmacy",
 			"address": "7301 37th Ave, Jackson Heights, NY 11372"
 		}
@@ -6494,8 +6494,8 @@
 		"pk": 591,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9904346,
-			"latitude": 40.7344091,
+			"lon": -73.9904346,
+			"lat": 40.7344091,
 			"type": "Pharmacy",
 			"address": "52 E 14th St, New York, NY 10003"
 		}
@@ -6505,8 +6505,8 @@
 		"pk": 592,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.8717693,
-			"latitude": 40.9653324,
+			"lon": -73.8717693,
+			"lat": 40.9653324,
 			"type": "Pharmacy",
 			"address": "1230 Nepperhan Ave, Yonkers, NY 10703"
 		}
@@ -6516,8 +6516,8 @@
 		"pk": 593,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.7798689,
-			"latitude": 40.6776609,
+			"lon": -73.7798689,
+			"lat": 40.6776609,
 			"type": "Pharmacy",
 			"address": "12704 Guy R Brewer Blvd, Jamaica, NY 11434"
 		}
@@ -6527,8 +6527,8 @@
 		"pk": 594,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -74.1595436,
-			"latitude": 40.6100161,
+			"lon": -74.1595436,
+			"lat": 40.6100161,
 			"type": "Pharmacy",
 			"address": "1551 Richmond Ave, Staten Island, NY 10314"
 		}
@@ -6538,8 +6538,8 @@
 		"pk": 595,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -77.561315,
-			"latitude": 43.2040895,
+			"lon": -77.561315,
+			"lat": 43.2040895,
 			"type": "Pharmacy",
 			"address": "2100 East Ridge Road, Irondequoit, NY 14622"
 		}
@@ -6549,8 +6549,8 @@
 		"pk": 596,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -78.8367711,
-			"latitude": 42.9803089,
+			"lon": -78.8367711,
+			"lat": 42.9803089,
 			"type": "Pharmacy",
 			"address": "2601 Sheridan Dr, Tonawanda, NY 14150"
 		}
@@ -6560,8 +6560,8 @@
 		"pk": 597,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9807104,
-			"latitude": 40.7333053,
+			"lon": -73.9807104,
+			"lat": 40.7333053,
 			"type": "Pharmacy",
 			"address": "298 1st Avenue, New York, NY 10009"
 		}
@@ -6571,8 +6571,8 @@
 		"pk": 598,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.9858495,
-			"latitude": 41.1547932,
+			"lon": -73.9858495,
+			"lat": 41.1547932,
 			"type": "Pharmacy",
 			"address": "31 W Cavalry Dr, New City, NY 10956"
 		}
@@ -6582,8 +6582,8 @@
 		"pk": 599,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -78.873782,
-			"latitude": 42.9018101,
+			"lon": -78.873782,
+			"lat": 42.9018101,
 			"type": "Pharmacy",
 			"address": "650 Delaware Ave, Buffalo, NY 14202"
 		}
@@ -6593,8 +6593,8 @@
 		"pk": 600,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.0347088,
-			"latitude": 40.8675369,
+			"lon": -73.0347088,
+			"lat": 40.8675369,
 			"type": "Pharmacy",
 			"address": "655 Middle Country Rd, Selden, NY 11784"
 		}
@@ -6604,8 +6604,8 @@
 		"pk": 601,
 		"fields": {
 			"name": "Walgreens",
-			"longitude": -73.8783385,
-			"latitude": 40.7393783,
+			"lon": -73.8783385,
+			"lat": 40.7393783,
 			"type": "Pharmacy",
 			"address": "8420 Broadway, Flushing, NY 11373"
 		}
@@ -6615,8 +6615,8 @@
 		"pk": 602,
 		"fields": {
 			"name": "Warren County Sheriff's Office",
-			"longitude": -73.6993393,
-			"latitude": 43.3615425,
+			"lon": -73.6993393,
+			"lat": 43.3615425,
 			"type": "Police",
 			"address": "1400 U.S. 9, Lake George, NY 12845"
 		}
@@ -6626,8 +6626,8 @@
 		"pk": 603,
 		"fields": {
 			"name": "Washington County Law Enforcement Center",
-			"longitude": -73.5895129,
-			"latitude": 43.2891198,
+			"lon": -73.5895129,
+			"lat": 43.2891198,
 			"type": "Police",
 			"address": "399 Broadway, Hudson Falls, NY 12839"
 		}
@@ -6637,8 +6637,8 @@
 		"pk": 604,
 		"fields": {
 			"name": "Waterville Municipal Building",
-			"longitude": -75.3767249,
-			"latitude": 42.930242,
+			"lon": -75.3767249,
+			"lat": 42.930242,
 			"type": "Government",
 			"address": "122 Barton Avenue, Waterville, NY 13480"
 		}
@@ -6648,8 +6648,8 @@
 		"pk": 605,
 		"fields": {
 			"name": "Watervliet Pharmacy",
-			"longitude": -73.7055595,
-			"latitude": 42.731501,
+			"lon": -73.7055595,
+			"lat": 42.731501,
 			"type": "Pharmacy",
 			"address": "601 19th St, Watervliet, NY 12189"
 		}
@@ -6659,8 +6659,8 @@
 		"pk": 606,
 		"fields": {
 			"name": "Waverly Pharmacy",
-			"longitude": -76.526595,
-			"latitude": 42.003459,
+			"lon": -76.526595,
+			"lat": 42.003459,
 			"type": "Pharmacy",
 			"address": "443 Cayuta Ave, Waverly, NY 14892"
 		}
@@ -6670,8 +6670,8 @@
 		"pk": 607,
 		"fields": {
 			"name": "Waverly Police Department",
-			"longitude": -76.5292222,
-			"latitude": 42.0077533,
+			"lon": -76.5292222,
+			"lat": 42.0077533,
 			"type": "Police",
 			"address": "32 Ithaca St, Waverly, NY 14892"
 		}
@@ -6681,8 +6681,8 @@
 		"pk": 608,
 		"fields": {
 			"name": "Webster Police Department",
-			"longitude": -77.4580964,
-			"latitude": 43.2096649,
+			"lon": -77.4580964,
+			"lat": 43.2096649,
 			"type": "Police",
 			"address": "1000 Ridge Rd, Webster, NY 14580"
 		}
@@ -6692,8 +6692,8 @@
 		"pk": 609,
 		"fields": {
 			"name": "Wellness Center Pharmacy",
-			"longitude": -73.9184176,
-			"latitude": 40.7588358,
+			"lon": -73.9184176,
+			"lat": 40.7588358,
 			"type": "Pharmacy",
 			"address": "40-13 Broadway, Astoria, NY 11103"
 		}
@@ -6703,8 +6703,8 @@
 		"pk": 610,
 		"fields": {
 			"name": "Wellsville Police Department",
-			"longitude": -77.9431488,
-			"latitude": 42.1188043,
+			"lon": -77.9431488,
+			"lat": 42.1188043,
 			"type": "Police",
 			"address": "46 S Main St, Wellsville, NY 14895"
 		}
@@ -6714,8 +6714,8 @@
 		"pk": 611,
 		"fields": {
 			"name": "West Elmira Police Department",
-			"longitude": -76.8446026,
-			"latitude": 42.0776369,
+			"lon": -76.8446026,
+			"lat": 42.0776369,
 			"type": "Police",
 			"address": "1255 W Water St, Elmira, NY 14905"
 		}
@@ -6725,8 +6725,8 @@
 		"pk": 612,
 		"fields": {
 			"name": "Westhampton Beach Police Department",
-			"longitude": -72.646854,
-			"latitude": 40.8135352,
+			"lon": -72.646854,
+			"lat": 40.8135352,
 			"type": "Police",
 			"address": "165 Mill Rd, Westhampton Beach, NY 11978"
 		}
@@ -6736,8 +6736,8 @@
 		"pk": 613,
 		"fields": {
 			"name": "White Plains Police Department",
-			"longitude": -73.771254,
-			"latitude": 41.029974,
+			"lon": -73.771254,
+			"lat": 41.029974,
 			"type": "Police",
 			"address": "77 S Lexington Ave, White Plains, NY 10601"
 		}
@@ -6747,8 +6747,8 @@
 		"pk": 614,
 		"fields": {
 			"name": "Whitehall Police Department",
-			"longitude": -73.4030571,
-			"latitude": 43.5535948,
+			"lon": -73.4030571,
+			"lat": 43.5535948,
 			"type": "Police",
 			"address": "57 Skenesborough Dr, Whitehall, NY 12887"
 		}
@@ -6758,8 +6758,8 @@
 		"pk": 615,
 		"fields": {
 			"name": "Windham Police Department",
-			"longitude": -74.2186559,
-			"latitude": 42.2925268,
+			"lon": -74.2186559,
+			"lat": 42.2925268,
 			"type": "Police",
 			"address": "371 NY-296, Hensonville, NY 12439"
 		}
@@ -6769,8 +6769,8 @@
 		"pk": 616,
 		"fields": {
 			"name": "Woodstock Police Department",
-			"longitude": -74.1214726,
-			"latitude": 42.0405626,
+			"lon": -74.1214726,
+			"lat": 42.0405626,
 			"type": "Police",
 			"address": "76 Tinker St, Woodstock, NY 12498"
 		}
@@ -6780,8 +6780,8 @@
 		"pk": 617,
 		"fields": {
 			"name": "Wurlitzer Family Pharmacy",
-			"longitude": -78.8611333,
-			"latitude": 43.037139,
+			"lon": -78.8611333,
+			"lat": 43.037139,
 			"type": "Pharmacy",
 			"address": "521 Division St, North Tonawanda, NY 14120"
 		}
@@ -6791,8 +6791,8 @@
 		"pk": 618,
 		"fields": {
 			"name": "Wyoming County Sheriff's Office",
-			"longitude": -78.1326259,
-			"latitude": 42.7437446,
+			"lon": -78.1326259,
+			"lat": 42.7437446,
 			"type": "Police",
 			"address": "151 N Main St, Warsaw, NY 14569"
 		}
@@ -6802,8 +6802,8 @@
 		"pk": 619,
 		"fields": {
 			"name": "Xtra Care Pharmacy",
-			"longitude": -73.58092,
-			"latitude": 40.6554268,
+			"lon": -73.58092,
+			"lat": 40.6554268,
 			"type": "Pharmacy",
 			"address": "75 S Main St, Freeport, NY 11520"
 		}
@@ -6813,8 +6813,8 @@
 		"pk": 620,
 		"fields": {
 			"name": "Yorktown Police Department - Robe",
-			"longitude": -73.7948975,
-			"latitude": 41.2818064,
+			"lon": -73.7948975,
+			"lat": 41.2818064,
 			"type": "Police",
 			"address": "2281 Crompond Rd, Yorktown Heights, NY 10598"
 		}
@@ -6824,8 +6824,8 @@
 		"pk": 621,
 		"fields": {
 			"name": "Young's Pharmacy & General Store",
-			"longitude": -73.5539605,
-			"latitude": 42.6342331,
+			"lon": -73.5539605,
+			"lat": 42.6342331,
 			"type": "Pharmacy",
 			"address": "1636 Burden Lake Rd, Averill Park, NY 12018"
 		}
