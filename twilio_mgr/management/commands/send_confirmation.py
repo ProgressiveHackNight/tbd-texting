@@ -36,7 +36,7 @@ class Command(BaseCommand):
             print(client.http_client.last_response.status_code)
             return True
         except Exception as e:
-            raise CommandError('Something Happened while sending message to %s - %s' % (message, str(e)))
+            print('Something Happened while sending message to %s - %s' % (message, str(e)))
             return False
 
         return False
@@ -69,11 +69,15 @@ class Command(BaseCommand):
                     self.stdout.write(self.style.SUCCESS('Sending Message "%s" to "%s"' % (true_msg, sms.sms)))
 
                 # 1. Send Message Twilio
-                self.twilio_send(sms.sms, true_msg)
+                send_success = self.twilio_send(sms.sms, true_msg)
 
                 # 2. Mark SMS as intro'd
                 sms.sent_intro = True
                 sms.reminder_sent = False
+
+                if not send_success:
+                    sms.notes = "Error in sending."
+
                 sms.save()
 
                 # 3. Save Message to Message Log
@@ -83,7 +87,7 @@ class Command(BaseCommand):
                 self.stdout.write(self.style.SUCCESS('Successfully sent intro "%s"' % sms.id))
 
             except Exception as e:
-                raise CommandError('Something Happened while sending message to %s - %s' % (sms.sms, str(e)))
+                print('Something Happened while sending message to %s - %s' % (sms.sms, str(e)))
 
 
     def email_confirmation(self):
@@ -119,7 +123,7 @@ class Command(BaseCommand):
                 self.stdout.write(self.style.SUCCESS('Successfully sent intro "%s"' % email.email))
 
             except Exception as e:
-                raise CommandError('Something Happened while sending message to %s - %s' % (email.email, str(e)))
+                print('Something Happened while sending message to %s - %s' % (email.email, str(e)))
 
 
     def handle(self, *args, **options):
