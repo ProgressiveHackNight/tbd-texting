@@ -12,3 +12,7 @@ def run_send_confirmation():
     print('RUN] Running Scheduled work: Send Confirmation');
     # call_command('send_confirmation', interactive=False)
     call(["python", "manage.py", "send_confirmation"])
+
+def run_send_reminder():
+    print('RUN] Sending Reminders')
+    call(["python", "manage.py", "send_reminder"])

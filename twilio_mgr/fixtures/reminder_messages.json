@@ -1,0 +1,67 @@
+[
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 1,
+    "fields": {
+      "keyword": "WELCOME_MESSAGE",
+      "message": "Clear Your Cabinet: You are signed up for reminders of the next Prescription Drug Take Back Day. Reply STOP to cancel txt msgs."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 2,
+    "fields": {
+      "keyword": "WELCOME_MESSAGE_NO_LOCATION",
+      "message": "Clear Your Cabinet: You are signed up for reminders of the next Prescription Drug Take Back Day. Reply STOP to cancel txt msgs."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 3,
+    "fields": {
+      "keyword": "WELCOME_EMAIL",
+      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th from 10 AM to 2 PM. We will send you a reminder so you can find the locations closest to you and make a plan.<br/><br/> <i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.</i><br/><br/> <img src='https://clearyourcabinet.ag.ny.gov/static/media/hero-image.bd136837.png' width='200px' height='auto'/>"
+    }
+  }
+  ,
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 4,
+    "fields": {
+      "keyword": "WELCOME_EMAIL_NO_LOCATION",
+      "message": "Friend --<br/><br/>America’s opioid crisis is a national emergency. Thank you for taking an incredibly important step to address the crisis in New York.<br/><br/>The next National Prescription Drug Take Back Day is on April 28th from 10 AM to 2 PM. We will send you a reminder so you can find the locations closest to you and make a plan.<br/><br/> <i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.</i><br/><br/> <img src='https://clearyourcabinet.ag.ny.gov/static/media/hero-image.bd136837.png' width='200px' height='auto'/>"
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 5,
+    "fields": {
+      "keyword": "CANCEL_SMS",
+      "message": "You have cancelled your subscription to Clear Your Cabinet! Drop-off your unused drugs anytime at your nearby pharmacy."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 6,
+    "fields": {
+      "keyword": "CANCEL_EMAIL",
+      "message": "You have unsubscribed from email reminders for Clear Your Cabinet. Drop-off your unused drugs anytime at your nearby pharmacy."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 7,
+    "fields": {
+      "keyword": "DAY_OF_TBD_SMS",
+      "message": "Today is Prescription Drug Take Back Day from 10 AM to 2 PM. Find a drop-off site near you: clearyourcabinet.com Reply STOP to cancel txt msgs."
+    }
+  },
+  {
+    "model": "twilio_mgr.Message",
+    "pk": 8,
+    "fields": {
+      "keyword": "DAY_OF_TBD_EMAIL",
+      "message": "Friend --<br/><br/>Tomorrow is National Prescription Drug Take Back Day, and New Yorkers from across the state will be heading to drop-off sites near their homes or workplaces to safely dispose of unused medication.<br/><br/><a href='clearyourcabinet.com'>Click here to find your nearest drop-off site</a>.<br/><br/>Once you’ve found a nearby site, we recommend calling them before you head out, and confirming their availability and hours.<br/><br/>Thank you for clearing your cabinet. Together we can make a crucial difference in combatting the opioid crisis in New York State.<br/><br/><i>Clear Your Cabinet is an initiative of New York Attorney General Eric Schneiderman.<i>"
+    }
+  }
+]
