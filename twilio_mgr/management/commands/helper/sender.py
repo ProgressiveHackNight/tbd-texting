@@ -25,7 +25,7 @@ def twilio_send(number, message):
 
     return False
 
-def sendgrid_send(self, email, message):
+def sendgrid_send(email, message):
 
     sg = sendgrid.SendGridAPIClient(apikey=os.environ.get('SENDGRID_API_KEY'))
     from_email = Email("Clear Your Cabinet New York <do-not-reply@clearyourcabinet.ag.ny.gov>")
