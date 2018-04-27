@@ -17,4 +17,11 @@ def timed_for_task():
 
     result2  = q.enqueue(maintask.run_send_confirmation, timeout=500)
 
+
+@sched.scheduled_job('interval', minutes=60)
+def timed_for_task():
+    q = Queue(connection=conn)
+    result = q.enqueue(maintask.run_send_reminder, timeout=1000)
+
+
 sched.start()
