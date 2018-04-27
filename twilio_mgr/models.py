@@ -50,7 +50,7 @@ class EmailReminder(models.Model):
 
 
 class Message(models.Model):
-    message = models.CharField(max_length=400)
+    message = models.CharField(max_length=1500)
     keyword = models.CharField(max_length=100,unique=True)
 
 
@@ -58,9 +58,9 @@ class Message(models.Model):
         return "%s: %s" % (self.keyword, self.message)
 
 class MessageLog(models.Model):
-    sms_number = models.CharField(max_length=100, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
-    email = models.CharField(max_length=100, null=True, blank=True)
-    message = models.CharField(max_length=400, null=True)
+    sms_number = models.CharField(max_length=300, null=True, blank=True) #models.ForeignKey(SmsNumber, null=True, on_delete=models.SET_NULL)
+    email = models.CharField(max_length=300, null=True, blank=True)
+    message = models.CharField(max_length=1500, null=True)
     date_sent = models.DateTimeField(auto_now_add=True, blank=True)
 
     def __str__(self):

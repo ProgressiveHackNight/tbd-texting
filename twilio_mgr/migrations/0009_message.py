@@ -14,7 +14,7 @@ class Migration(migrations.Migration):
             name='Message',
             fields=[
                 ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
-                ('message', models.CharField(max_length=400)),
+                ('message', models.CharField(max_length=1000)),
                 ('keyword', models.CharField(max_length=100)),
             ],
         ),
