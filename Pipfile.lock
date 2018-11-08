@@ -55,7 +55,7 @@
                 "sha256:3d9916515599f757043c690ae2b5ea28666afa09779636351da505396cbb2f19",
                 "sha256:769f212ffd5762f72c764fa648fca3b7f7dd4ec27407198b68e7c4abf4609fd0"
             ],
-            "version": "==2.0.3"
+            "version": ">=2.0.8"
         },
         "django-bootstrap4": {
             "hashes": [
